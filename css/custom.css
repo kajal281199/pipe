@@ -1,0 +1,205 @@
+.pb-5{padding-bottom: 10px;}
+.pb-0{padding-bottom: 0;}
+.pt-5{padding-top: 25%;}
+.pt-4{padding-top: 20%;}
+.pt-3{padding-top: 15%;}
+.pt-2{padding-top: 10%;}
+.pt-1{padding-top: 5%;}
+hr {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 0;
+	border-top: 1px solid #000;
+}
+.btn-custom {
+	color: #fff;
+	background-color: #242424;
+	border-color: #242424;
+	font-size: 15px;
+}
+/* Slideshow container */
+.mySlides {display: none}
+.slideshow-container {
+	max-width: 100%;
+	position: relative;
+	margin: auto;
+}
+.iconbox-small.left {
+	float: left;
+	margin: 0px 15px 0px 0px;
+}
+/*.iconbox-small.left  img{height: 100px;}*/
+/* Next & previous buttons */
+.slideshow-container .prev,.slideshow-container .next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 16px;
+	margin-top: -22px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+	background-color: #136290;
+
+}
+
+/* Position the "next button" to the right */
+.slideshow-container .next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+ .slideshow-container .prev:hover,.slideshow-container .next:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.slideshow-container .text {
+	color: #f2f2f2;
+	font-size: 15px;
+	padding: 8px 12px;
+	position: absolute;
+	bottom: 8px;
+	width: 100%;
+	text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.slideshow-container .numbertext {
+	color: #f2f2f2;
+	font-size: 12px;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+}
+
+.slideshow-container .active,.slideshow-container .dot:hover {
+	background-color: #717171;
+}
+
+/* about */
+.header-inner {
+	position: relative;
+	width: 100%;
+	height: 320px;
+	float: left;
+	overflow: hidden;
+}
+.header-inner.less-height{  height: 220px;}
+
+.header-inner.less-height .text {
+	height: 300px;
+	padding: 7% 0 0 0;
+}
+
+.footer-logo img{width:200px;}
+
+.w-100{width: 100%;height: 236px;}
+/* Fading animation */
+ .fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1.5s;
+	animation-name: fade;
+	animation-duration: 1.5s;
+	opacity: 1;
+}
+
+.sc-icons a:hover {color: #136290;}
+.sc-icons a {outline: medium none !important; color: #727272;}
+.fo-map p{text-align: justify;}
+
+@-webkit-keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+
+@keyframes fade {
+	from {opacity: .4} 
+	to {opacity: 1}
+}
+
+@media (max-width: 767px){
+	.mySlides img{height: 55vw;}
+	.pt-m-1{padding-top: 5%;}
+}
+
+.cbp-l-grid-mosaic .cbp-caption-activeWrap {
+	background-color: #FFEA71;
+	background-color: rgba(19, 97, 144, 0.6);
+}
+.cbp .cbp-item{padding: 8px; height: 220px;}	
+.section-dark p, .section-dark address, .section-dark span
+{
+	color: #fff;
+}
+.footer-quick-links-4 li a
+{
+	color: #fff;
+}
+.section-dark
+{
+	background-color:#97bccf;
+}
+.bg-opacity-8
+{
+	background-color: #136290;
+}
+.header-inner .overlay
+{
+	background-color: rgba(19, 98, 144, 0.7);
+}
+img
+{
+	max-width: 100%;
+	height: auto;
+	margin: auto;
+}
+#contactForm input[type="text"], #contactForm input[type="email"], #contactForm input[type="number"], #contactForm textarea
+{
+	background-color: #136290;
+	color: #000;
+	border-color: #000;
+}
+#contactForm ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	color: #000;
+}
+#contactForm ::-moz-placeholder { /* Firefox 19+ */
+	color: #000;
+}
+#contactForm :-ms-input-placeholder { /* IE 10+ */
+	color: #000;
+}
+#contactForm :-moz-placeholder { /* Firefox 18- */
+	color: #000;
+}
+#contactForm select {
+	color: #000;
+	background-color: #136290;
+	border-color: #000;
+}
+#contactForm option:not(:first-of-type) {
+	color: #000;
+	background-color: #136290;
+	border-color: #000;
+}
+#contactForm .btn.btn-gyellow-2
+{
+	border: 1px solid #fff;
+}
