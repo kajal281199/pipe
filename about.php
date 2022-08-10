@@ -270,8 +270,7 @@
                                 <p class="resp-txt">Water is a good solvent and picks up impurities easily. As water moves through soil and rock, it dissolves minerals and holds them in solution. Calcium and magnesium dissolved in water are the two most common minerals that make water "hard." The degree of hardness becomes greater as the calcium and magnesium content increases.
 
 </p>
-<p class="resp-txt">In India wide, we are Lowest in Cost and Higher Side in Performance.
-</p>
+
 							</h4>
 						</div>
 
@@ -287,12 +286,17 @@
 										<h3 class="uppercase font-weight-6">WATER CONDITIONERS VS WATER SOFTENERS :-</h3>
 
 										<br />
-										<p>Traditionally the water treatment market had one main solution to hard water, that was salt based water softeners. However, in recent years alternative electronic hard water treatments have become increasingly popular, the most interesting of which is electronic water conditioning. </p>
-                                        <p>Water Softeners work by ion exchange, so sodium replaces the calcium and/or magnesium in the water. Electronic Hard Water Conditioners on the other hand create an electro-magnetic field around your pipework which alters the ions in the water so that they loose their ability to cause scale. In tackling hard water, both methods will reduce limescale. Electronic Hard Water softeners are significantly less expensive to start with and they have negligible running costs. With zero maintenance,
+										<p>This technology is uniquely different from old, Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse frequency...highly advance,microcontroller based,
+systematically programmed by computer software.</p>
+                                        <p>Capacitance Impulse technology releases...programmed complexed Modulating High Impulse frequency through cable coil winding on pipes, We use cable wire for winding in place of copper Band, because our experts says wide copper Band spreads the frequency,while cable wire keep the frequency intact and precise! Our 4 stage patented model multiply the frequency effect on Hard water minerals and make water more soluble indeed.
+
 
 </p>
-<p>Water Softeners cost a lot more and have the added downside that they require large amounts of salt to be purchased and added, they use additional water for regenerating and then they discharge salt into the environment causing environmental problems which have caused many communities to make the use of salt based softeners illegal. Salt based softener can't be installed in Agriculture & other sectors because having Huge use of water.</p>
-<p>SHREE SUDARSHAN electronic hard water treatment systems are approved alternatives to salt based water softeners and are the preferred technology by the experts, Having Long experience with extremely committed desire to solve Hard water issue in all sectors, mainly Agriculture as farmers are now more depended on Borewell water because of uncertainty of Rain we have decided to extend our helping hands to do a bit for them and our Society.</p>
+<p> <b>The capacitance Impulse frequency </b> charge & prevent different size of high minerals water molecules likely to Form Scale, same time it Breaks the Hydrogen Bond  between opposite water molecules with high frequency, This Results the breakdown of Large minerals Crystals into tinny Nano Mineral particals & disabled them to  flush along with water 
+*Ca(Hco3)2 < IMPULSE > Co2 + H2O * = Calcium carbonate converts into Bi-carbonate. 
+( Non soluble partcals covert into soluble particals) 
+  This positively charged ions in water now Results Scale free,Non corrosive and Best solvent Water.</p>
+<p>This miraculous physical changes in water possible only due to our New Advanced<b> capacitance impulse technology 4 stage model</b></p>
 
 										<br />
 										<br />
@@ -303,7 +307,7 @@
 									<div class="col-md-6 ">
 										
 										<div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom"> 
-					<video width="100%" height="400" src="images/sliders/main-video.mp4" type="video/mp4" frameborder="0" controls="" autoplay=""></video>
+					<video width="100%" height="400" src="images/sliders/main-video.mp4" type="video/mp4" frameborder="0" controls="" ></video>
 					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
                 </div>
 										

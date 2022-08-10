@@ -301,29 +301,19 @@
 
             <div id="owl-demo5" class="owl-carousel">
 
-                <div class="item"><img src="images/img/new-1.jpg" alt=""></div>
+                <div class="item"><img src="images/sliders/1img.jpeg" alt=""></div>
 
-                <div class="item"><img src="images/img/new-2.jpg" alt=""></div>
+                <div class="item"><img src="images/sliders/2img.jpeg" alt=""></div>
 
-                <div class="item"><img src="images/img/new-3.png" alt=""></div>
+                
 
-                <div class="item"><img src="images/img/new-4.png" alt=""></div>
+                <div class="item"><img src="images/sliders/4img.jpeg" alt=""></div>
 
-                <div class="item"><img src="images/img/new-5.jpg" alt=""></div>
+                <div class="item"><img src="images/sliders/5img.jpg" alt=""></div>
 
-                <div class="item"><img src="images/img/new-6.jpg" alt=""></div>
+                <div class="item"><img src="images/sliders/6img.png" alt=""></div>
 
-                <div class="item"><img src="images/img/new-7.jpg" alt=""></div>
-
-                <div class="item"><img src="images/img/new-8.jpg" alt=""></div>
-
-                <div class="item"><img src="images/img/new-9.jpg" alt=""></div>
-
-                <div class="item"><img src="images/img/new-10.jpg" alt=""></div>
-
-                <div class="item"><img src="images/img/new-11.jpg" alt=""></div>
-
-                <div class="item"><img src="images/img/new-12.jpg" alt=""></div>
+                
 
             </div>
 
@@ -344,7 +334,7 @@
 
                 
                 <div style="margin: 0% 0px 0px;" class="col-md-5 col-sm-6 col-xs-12 margin-bottom"> 
-					<video width="100%" height="400" src="images/sliders/main-video.mp4" type="video/mp4" frameborder="0" controls="" autoplay=""></video>
+					<video width="100%" height="400" src="images/sliders/main-video.mp4" type="video/mp4" frameborder="0" controls="" ></video>
 					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
                 </div>
                 <!--end item-->
@@ -375,10 +365,11 @@
 
                         <!--end title-->
 
-                        <p>who having 10 year experience to make water conditioner for all sectors like- Agriculture, Residence ,and industry , Water described as "hard" means it is high in dissolved minerals, specifically calcium and magnesium. Hard water is not a health risk, but a nuisance because of its tendency to cause mineral buildup in water pipes and heating systems, and its poor soap and/or detergent performance when compared with soft water.
+                        <p>Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
 
 </p>
-
+<p>Now as per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
+" Capacitance IMPULSE technology"</p>
                         <br />
 
                         <!--end item-->
