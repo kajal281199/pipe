@@ -141,7 +141,7 @@
 
                 <ul class="sc-icons">
 
-                    <li style="margin-bottom: 20px;"><a class="twitter" href="https://wa.me/+919820474954"><img
+                    <li style="margin-bottom: 20px;"><a class="twitter" href="https://wa.me/+919820474954"target="_blank"><img
         src="images/whatsapp-icon.png" style="width:45px;"></a></li>
 
                     <li style="margin-bottom: 37px;
@@ -151,7 +151,7 @@ padding: 0 6px 0 6px;
 line-height: 20px;
 font-size: 20px;
 height: 40px;
-border-radius: 3px;"><a href="tel:+9198204-74954" style="padding: 10px;    color: #fff;"><i class="fa fa-phone"></i></a></li>
+border-radius: 3px;"><a href="tel:+9198204-74954" style="padding: 10px;    color: #fff;" target="_blank"><i class="fa fa-phone"></i></a></li>
 
                 </ul>
 

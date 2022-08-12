@@ -916,13 +916,13 @@ while($arr=mysqli_fetch_array($sql)){
             <div class="row">
             
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; ">
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf" style="border-radius:17px ;">ENGLISH</a></div>
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf" style="border-radius:17px ;" target="_blank">ENGLISH</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottomr" style="display:flex;justify-content: center;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" style="border-radius:17px ;">HINDI</a></div>
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" style="border-radius:17px ;"target="_blank">HINDI</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf" style="border-radius:17px ;">GUJRATI</a></div>
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf" style="border-radius:17px ;"target="_blank">GUJRATI</a></div>
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
                 
                
