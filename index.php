@@ -29,7 +29,7 @@ include('admin/config.php');
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
     <!-- Google fonts  -->
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700" rel="stylesheet">
@@ -919,15 +919,18 @@ while($arr=mysqli_fetch_array($sql)){
             <div class="row">
             
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; ">
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf"  target="_blank">ENGLISH</a></div>
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf"  target="_blank"><i
+                        class="fa fa-download"></i>ENGLISH</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottomr" style="display:flex;justify-content: center;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" target="_blank">HINDI</a></div>
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" target="_blank"><i
+                        class="fa fa-download"></i>HINDI</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf"target="_blank">GUJRATI</a></div>
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf"target="_blank"><i
+                        class="fa fa-download"></i>GUJRATI</a></div>
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
-                
+
                
                 <!--end item-->
             </div>
