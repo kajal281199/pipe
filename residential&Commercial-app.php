@@ -264,37 +264,42 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re1.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center "> buildings</h4> -->
+							<img src="images/commercial/commercial-buildings.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Commercial buildings</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re2.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Residential societies</h4> -->
+							<img src="images/commercial/residential-societies.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Residential societies</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re3.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">High rise buildings</h4> -->
+							<img src="images/commercial/high-rise-buildings.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">High rise buildings</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re4.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Hotels and restaurants</h4> -->
+							<img src="images/commercial/hotels-and-restaurants.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Hotels and restaurants</h4>
 						</div>
 						<!--end item-->
 					</div>
-					<div class="row" style="margin-top: 30px; margin-bottom: 30px;">
+					<div class="row">
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re5.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Clubs</h4> -->
+							<img src="images/commercial/clubs.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Clubs</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re6.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Shopping malls</h4> -->
+							<img src="images/commercial/shopping-malls.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Shopping malls</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re7.jpeg" alt="" class="img-responsive" />
-							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Hospitals</h4> -->
+							<img src="images/commercial/hospitals.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Hospitals</h4>
 						</div>
-						
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/commercial/educational-institutions-and-schools.jpg" alt=""
+								class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Educational institutions and
+								schools</h4>
+						</div>
 						<!--end item-->
 					</div>
 				</div>
