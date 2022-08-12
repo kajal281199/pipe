@@ -920,15 +920,15 @@ while($arr=mysqli_fetch_array($sql)){
             
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; ">
                 <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf"  target="_blank"><i
-                        class="fa fa-download"></i>ENGLISH</a></div>
+                        class="fa fa-download"></i>&nbsp;&nbsp;ENGLISH</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottomr" style="display:flex;justify-content: center;">
 
                 <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" target="_blank"><i
-                        class="fa fa-download"></i>HINDI</a></div>
+                        class="fa fa-download"></i>&nbsp;&nbsp;HINDI</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center;">
 
                 <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf"target="_blank"><i
-                        class="fa fa-download"></i>GUJRATI</a></div>
+                        class="fa fa-download"></i>&nbsp;&nbsp;GUJRATI</a></div>
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 
                
