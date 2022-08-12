@@ -19,7 +19,9 @@ if(isset($_POST['Submit'])){
 <html>
 
 
-<!-- Mirrored from www.excellentwater.in/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Jun 2022 13:36:16 GMT -->
+
+
+
 <head>
 
     <meta charset="utf-8">
@@ -686,5 +688,5 @@ if(isset($_POST['Submit'])){
 </body>
 
 
-<!-- Mirrored from www.excellentwater.in/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Jun 2022 13:36:17 GMT -->
+
 </html>

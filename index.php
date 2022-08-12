@@ -6,7 +6,7 @@ include('admin/config.php');
 <html>
 
 
-<!-- Mirrored from www.excellentwater.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Jun 2022 13:35:31 GMT -->
+
 <head>
 
     <meta charset="utf-8">
@@ -330,7 +330,7 @@ include('admin/config.php');
 
                 
                 <div style="margin: 0% 0px 0px;" class="col-md-5 col-sm-6 col-xs-12 margin-bottom"> 
-					<video width="100%" height="400" src="images/sliders/main-video.mp4" type="video/mp4" frameborder="0" controls="" ></video>
+					<video width="100%" height="400" src="images/sliders/4c630c60-64b3-4163-ae1b-511d18892f06.mp4" type="video/mp4" frameborder="0" controls="" ></video>
 					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
                 </div>
                 <!--end item-->
@@ -445,7 +445,7 @@ include('admin/config.php');
                     
 
                     <!-- end item-->
-                    <div class="col-md-5"> <img src="images/sliders/slide5.jpg" alt="" class="img-responsive" /> </div>
+                    <div class="col-md-5"> <img src="images/sliders/img.jpg" alt="" class="img-responsive" /> </div>
 
                 </div>
 
@@ -907,7 +907,31 @@ while($arr=mysqli_fetch_array($sql)){
 
     
     
+    <section >
+    <div class="text text-center" >
+										<h3 class="uppercase text-white less-mar-1 title" style="color:black; padding:20px;"><b>BROCHURES</b></h3>
+									</div>
+            
+                <div class="container" id="btn">
+            <div class="row">
+            
+                <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; ">
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf" style="border-radius:17px ;" target="_blank">ENGLISH</a></div>
+                <div class="col-md-4 col-sm-6 col-xs-12 margin-bottomr" style="display:flex;justify-content: center;">
 
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" style="border-radius:17px ;"target="_blank">HINDI</a></div>
+                <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center;">
+
+                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf" style="border-radius:17px ;"target="_blank">GUJRATI</a></div>
+                    <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+                
+               
+                <!--end item-->
+            </div>
+            </div>
+            
+            
+    </section>
     
    
 
@@ -1195,5 +1219,6 @@ while($arr=mysqli_fetch_array($sql)){
 </body>
 
 
-<!-- Mirrored from www.excellentwater.in/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Jun 2022 13:35:50 GMT -->
+
+
 </html>

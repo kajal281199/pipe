@@ -50,7 +50,7 @@
 
                                     </li>
 
-                                    <li class="mega-menu"> <a href="index.php">Brochures</a>
+                                    <li class="mega-menu" > <a href="#btn" >Brochures</a>
 
                                     </li>
 
