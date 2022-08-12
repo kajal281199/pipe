@@ -339,32 +339,61 @@ de-scaling of industrial equipments is concerned.
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/industrial/in1.jpeg" alt="" class="img-responsive" />
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
-						</div>
-						<div class="col-md-3 col-sm-3 col-xs-6 margin-bottom">
-						<video width="100%" height="400" src="images/industrial/in2.mp4" type="video/mp4" frameborder="0" controls="" autoplay=""></video>
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+							<img src="images/industrial/chemicals.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Chemicals</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/industrial/in3.jpeg" alt="" class="img-responsive" />
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+							<img src="images/industrial/cement.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Cement</h4>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/industrial/in4.jpeg" alt="" class="img-responsive" />
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+							<img src="images/industrial/rubber.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Rubber</h4>
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/car-manufacturing.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Automobile</h4>
 						</div>
 						<!--end item-->
 					</div>
 					<div class="row sec-padding">
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/industrial/in5.jpeg" alt="" class="img-responsive" />
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "> </h4>
+							<img src="images/industrial/injection-molding.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Injection molding</h4>
 						</div>
-						
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/printing.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Printing</h4>
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/food-processing.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Food processing</h4>
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/textiles.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Textiles</h4>
+						</div>
 						<!--end item-->
 					</div>
-					
+					<div class="row ">
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/pharmaceuticals.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Pharmaceuticals</h4>
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/refineries.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Refineries</h4>
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/wastewater-treatment.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Wastewater treatment</h4>
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="images/industrial/cold-storage.jpg" alt="" class="img-responsive" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">Cold Storage</h4>
+						</div>
+						<!--end item-->
+					</div>
 
 				</div>
 			</section>
