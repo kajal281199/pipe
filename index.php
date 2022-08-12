@@ -295,41 +295,33 @@ include('admin/config.php');
 
     </div>
     <!-- END OF SLIDER WRAPPER -->
-    <section class="sec-padding">
+   <br>
+<section>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+                        <img src="images/sliders/1img.jpeg" alt="" style="height:150px;">
+						</div>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+                        <img src="images/sliders/2img.jpeg" alt="" style="height:150px;">
+							
+						</div>
+                       
+						<div class="col-md-3 col-sm- col-xs-12 margin-bottom">
+                        <img src="images/sliders/4img.jpeg" alt="" style="height:150px; ">
+						
+						</div>
+                      
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+                        <img src="images/sliders/6img.png" alt="" style="height:150px; ">
+							
+						</div>
+						<!--end item-->
+					</div>
+				
 
-<div class="container">
-
-    <div class="row">
-
-        <div class="col-md-12 slide-controls-2">
-
-            <div id="owl-demo5" class="owl-carousel">
-
-                <div class="item"><img src="images/sliders/1img.jpeg" alt=""></div>
-
-                <div class="item"><img src="images/sliders/2img.jpeg" alt=""></div>
-
-                
-
-                <div class="item"><img src="images/sliders/4img.jpeg" alt=""></div>
-
-                <div class="item"><img src="images/sliders/5img.jpg" alt=""></div>
-
-                <div class="item"><img src="images/sliders/6img.png" alt=""></div>
-
-                
-
-            </div>
-
-        </div>
-
-        <!--end featurebox-->
-
-    </div>
-
-</div>
-
-</section>
+				</div>
+			</section>
     <section class="sec-padding">
 
         <div class="container">
