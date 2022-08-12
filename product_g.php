@@ -5,7 +5,7 @@ include('admin/config.php');
 <html>
 
 
-<!-- Mirrored from www.excellentwater.in/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Jun 2022 13:36:00 GMT -->
+
 <head>
 
     <meta charset="utf-8">
@@ -273,7 +273,7 @@ include('admin/config.php');
 
     while($arr=mysqli_fetch_array($sql)){
     ?>
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
@@ -399,8 +399,5 @@ include('admin/config.php');
 
 </body>
 
-<!-- Mirrored from codelayers.net/templates/printer/page-about1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 04 Sep 2019 10:39:27 GMT -->
 
-
-<!-- Mirrored from www.excellentwater.in/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Jun 2022 13:36:03 GMT -->
 </html>

@@ -65,10 +65,10 @@
 
                     Maharashtra-410206.
                 </address>
-                <span><strong>Phone:</strong>+91-098204-74954</span>
+                <span><strong>Phone : </strong>+91-098204-74954</span>
                 <br>
 
-                <span><strong>Email:</strong>shreesudarshan_wc@yahoo.com</span>
+                <span><strong>Email : </strong>shreesudarshan_wc@yahoo.com</span>
                 <br>
 
             </div>
