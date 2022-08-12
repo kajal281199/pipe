@@ -364,7 +364,97 @@ systematically programmed by computer software.</p>
 			</section>
 			<!-- end section -->
 			<div class="divider-line solid light"></div>
-			
+			<section class="sec-padding">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12 nopadding">
+							<div class="sec-title-container text-center">
+								<div class="ce4-title-line-1"></div>
+								<h4 class="uppercase font-weight-7 less-mar-1">5 Factors That Make Our Water Treatments
+									Stand Out</h4>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+						<!--end title-->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class=" margin-bottom">
+								<div class="iconbox-xmedium left round icon"><img src="images/electronic.png"
+										class="img-fluid h-100"></div>
+								<div class="text-box-right more-padding-2">
+									<h4 class="uppercase title">Electronic</h4>
+									<p>Our products run on impulse technology and are entirely electronic. The users
+										don’t need to add chemicals or softeners or anything for our products to keep
+										working.</p>
+									<br />
+								</div>
+							</div>
+						</div>
+						<!--end item-->
+
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class=" margin-bottom">
+								<div class="iconbox-xmedium left round icon"><img src="images/eco-freindly.png"
+										class="img-fluid h-100"></div>
+								<div class="text-box-right more-padding-2">
+									<h4 class="uppercase title">Eco-friendly</h4>
+									<p>Because our anti-scale products are electronic, they are devoid of water
+										softening chemicals. There’s no water wastage in the process, making our
+										technology eco-friendly.</p>
+									<br />
+								</div>
+							</div>
+						</div>
+						<!--end item-->
+
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class=" margin-bottom">
+								<div class="iconbox-xmedium left round icon"><img src="images/maintenance-free.png"
+										class="img-fluid h-100"></div>
+								<div class="text-box-right more-padding-2">
+									<h4 class="uppercase title">Maintenance Free</h4>
+									<p>With absolutely no requirement to add salts or chemicals and a life of at least
+										ten decades, there’s zero maintenance cost. The only energy source Kashyap
+										Anti-scale products need is electricity.</p>
+									<br />
+								</div>
+							</div>
+						</div>
+						<!--end item-->
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class=" margin-bottom">
+								<div class="iconbox-xmedium left round icon"><img src="images/hasslefree.png"
+										class="img-fluid h-100"></div>
+								<div class="text-box-right more-padding-2">
+									<h4 class="uppercase title">Hassle-free Installation</h4>
+									<p>Kashyap’s Anti-scale and Scale Defence need to be installed externally on the
+										pipes. A quick, hassle-free installation, without any technical assistance, is
+										possible with Kashyap.</p>
+									<br />
+								</div>
+							</div>
+						</div>
+						<!--end item-->
+
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class=" margin-bottom">
+								<div class="iconbox-xmedium left round icon"><img src="images/easy-customization.png"
+										class="img-fluid h-100"></div>
+								<div class="text-box-right more-padding-2">
+									<h4 class="uppercase title">Easy Customization</h4>
+									<p>We have developed suitable models for different diameters of pipes, and we are
+										also open to customizing our products according to your requirements.</p>
+									<br />
+								</div>
+							</div>
+						</div>
+						<!--end item-->
+					</div>
+				</div>
+			</section>
 
 			<!-- end section -->
 			<div class="divider-line solid light"></div>

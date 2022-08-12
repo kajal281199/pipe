@@ -15,9 +15,9 @@ include('admin/config.php');
 
     <title>Shree Sudarshan Water Conditioner</title>
 
-    <meta name="keywords" content="Kashyap Anti Scale System" />
+    <meta name="keywords" content="Sudarshan Anti Scale System" />
 
-    <meta name="description" content="Kashyap Anti Scale System">
+    <meta name="description" content="Sudarshan Anti Scale System">
 
     <meta name="author" content="">
     <!-- Mobile view -->
@@ -588,6 +588,207 @@ while($arr=mysqli_fetch_array($sql)){
 					
 					
 			</section>
+
+            <section class="sec-padding tp-sec-bg ">
+
+<div class="container">
+
+    <div class="row">
+
+       <div style="margin: 12% 0px 0px;" class="col-md-5 col-sm-6 col-xs-12 margin-bottom"> 
+            <iframe width="100%" height="400" src="https://www.youtube.com/embed/nA77R9WJmkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
+        </div>
+
+        <!--end item-->
+
+        <div class="col-md-7 padding-left-5">
+
+            <div class="col-xs-12 nopadding">
+
+                <div class="sec-title-container text-left pb-0">
+
+                    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Why Excellent Water Solutions?
+
+                    </h6>
+
+                    <h3 class="uppercase font-weight-7 less-mar-1">Why Choose Us</h3>
+
+                    <div class="tp-title-line-1 align-left"></div>
+
+                </div>
+
+            </div>
+
+            <div class="clearfix"></div>
+
+            <!--end title-->
+
+            <div class="col-md-6 col-sm-6 col-xs-12">
+
+                <div class="tp-feature-box-2 margin-bottom">
+
+                    <div class="text-box-right less-padding-2">
+
+                        <img src="images/img/homepage/maintenance-free.png" alt="" class="img-responsive pb-5 p-5">
+
+                        <h4 class="uppercase title font-weight-5 nopadding">Maintenance-free
+
+                        </h4>
+
+                    </div>
+
+                </div>
+
+                <!-- end feature box-->
+
+            </div>
+
+            <!-- end item-->
+
+            <div class="col-md-6">
+
+                <div class="tp-feature-box-2 margin-bottom">
+
+                    <div class="text-box-right less-padding-2">
+
+                        <img src="images/img/homepage/ecofriendly.png" alt="" class="img-responsive pb-5 p-5">
+
+                        <h4 class="uppercase title font-weight-5 nopadding">100% Eco-friendly
+
+                        </h4>
+
+                    </div>
+
+                </div>
+
+                <!-- end feature box-->
+
+            </div>
+
+            <!-- end item-->
+
+            <div class="clearfix"></div>
+
+            <div class="col-divider-margin-5"></div>
+
+            <div class="col-md-6">
+
+                <div class="tp-feature-box-2 margin-bottom">
+
+                    <div class="text-box-right less-padding-2">
+
+                        <img src="images/img/homepage/chemical-free.png" alt="" class="img-responsive pb-5 p-5">
+
+                        <h4 class="uppercase title font-weight-5 n
+
+                        opadding">No Chemicals,No Salts, & No Magnetism
+
+                        </h4>
+
+                    </div>
+
+                </div>
+
+                <!-- end feature box-->
+
+            </div>
+
+            <!-- end item-->
+
+            <div class="col-md-6">
+
+                <div class="tp-feature-box-2 margin-bottom">
+
+                    <div class="text-box-right less-padding-2">
+
+                        <img src="images/img/homepage/efficient.png" alt="" class="img-responsive pb-5 p-5">
+
+                        <h4 class="uppercase title font-weight-5 nopadding">Efficient for All Pipes </h4>
+
+                    </div>
+
+                </div>
+
+                <!-- end feature box-->
+
+            </div>
+
+            <!-- end item-->
+
+        </div>
+
+        <!--end item-->
+
+    </div>
+
+</div>
+
+</section>
+
+<div class="clearfix"></div>
+
+<!-- end section -->
+
+<section class="parallax-49">
+
+<div class="container-fluid nopadding">
+
+    <div class="parallax-overlay bg-opacity-8">
+
+        <div class="container sec-tpadding-3 sec-bpadding-3">
+
+            <div class="row">
+
+                <div class="col-md-8 col-centered text-center">
+
+                    <h3 class="uppercase text-white font-weight-6">How is Sudarshan Anti Scale System Different?
+
+                    </h3>
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-6 text-center ">
+
+                    <img src="images/img/homepage/diff1.jpg" class="img-responsive">
+
+                    <h5 class="uppercase text-white raleway">
+
+                        Electromagnetic Water Conditioner Vs. Sudarshan Anti Scale System
+
+                    </h5>
+
+                    <br />
+
+                    <a class="btn btn-gyellow-2 uppercase" data-toggle="modal" data-target="#myModal">Compare</a>
+
+                </div>
+
+                <div class="col-md-6 text-center pt-m-1">
+
+                    <img src="images/img/homepage/diff2.jpg" class="img-responsive w-100">
+
+                    <h5 class="uppercase text-white raleway">Water Softeners Vs. Sudarshan Anti Scale System </h5>
+
+                    <br />
+
+                    <a class="btn btn-gyellow-2 uppercase" href="#" data-toggle="modal" data-target="#diff2">Compare</a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</section>
     <!--
 
 	<section class="parallax-50">
@@ -831,7 +1032,7 @@ while($arr=mysqli_fetch_array($sql)){
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title">Electromagnetic Water Conditioner Vs. Kashyap Anti Scale System</h4>
+                    <h4 class="modal-title">Electromagnetic Water Conditioner Vs. Sudarshan Anti Scale System</h4>
                 </div>
 
                 <div class="modal-body">
@@ -840,7 +1041,7 @@ while($arr=mysqli_fetch_array($sql)){
                             <tbody>
                                 <tr>
                                     <th style="width: 50%;">ELECTROMAGNETIC</th>
-                                    <th>Kashyap – anti scale system</th>
+                                    <th>Sudarshan – anti scale system</th>
                                 </tr>
                                 <tr>
                                     <td>It works on fixed frequency band</td>
@@ -892,7 +1093,7 @@ while($arr=mysqli_fetch_array($sql)){
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title">Water Softeners Vs. Kashyap Anti Scale System</h4>
+                    <h4 class="modal-title">Water Softeners Vs. Sudarshan Anti Scale System</h4>
                 </div>
 
                 <div class="modal-body">
@@ -902,7 +1103,7 @@ while($arr=mysqli_fetch_array($sql)){
                                 <tr>
                                     <th style="width: 50%;">Water Softner</th>
                                     <th>
-                                        Kashyap – anti scale system
+                                    Sudarshan – anti scale system
                                     </th>
                                 </tr>
                                 <tr>
