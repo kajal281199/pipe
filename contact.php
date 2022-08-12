@@ -1,3 +1,21 @@
+<?php
+include('admin/config.php');
+
+if(isset($_POST['Submit'])){
+
+ 
+    $name=$_POST['name'];
+    $email=$_POST['email'];
+    $mobile=$_POST['mobile'];
+    $message=$_POST['message'];
+    
+  
+    $sql=mysqli_query($conn,"INSERT INTO `contact`(`name`,`email`,`mobile`,`message`) 
+    VALUES ('$name','$email','$mobile','$message')");
+  }
+  
+?>
+
 <html>
 
 
@@ -317,7 +335,7 @@
                                         <div class="smart-forms smart-container transparent wrap-full">
                                             <div class="form-body no-padd">
                                            
-		                	<form action="https://www.excellentwater.in/send.php" method="post">
+		                	<form  method="post">
 								<div class="section">
 									<label class="field prepend-icon">
 										<input type="text" name="name" class="gui-input" placeholder="Enter Name" required>

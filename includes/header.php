@@ -54,26 +54,14 @@
 
                                     </li>
 
-                                    <li> <a href="#">Product Gallery</a> <span class="arrow"></span>
-
-                                        <ul class="dm-align-2">
-
-                                            <li> <a href="antiscale-defence.html">Anti Scale System</a> </li>
-
-                                            <li> <a href="scale-defence.html">Scale Defence</a> </li>
-                                                                                            <li> <a href="bath-soft.html">Bath Soft</a> </li>
-                                                                                             <li> <a href="agriculture.html">Agriculture</a> </li>
-
-                                        </ul>
-
-                                    </li>
-                                    
+                                   
+                                    <li class="mega-menu"> <a href="product_g.php">Product Gallery</a>
                                         
                                     
-                                      <li> <a href="contact.html">Gallery</a> </li>
+                                      <li> <a href="gallery.php">Gallery</a> </li>
 
                                     
-                                    <li> <a href="contact.html">Contact</a> </li>
+                                    <li> <a href="contact.php">Contact</a> </li>
 
                                 </ul>
 

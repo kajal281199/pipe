@@ -1,3 +1,7 @@
+<?php
+include('admin/config.php');
+?>
+
 <!DOCTYPE html>
 <html>
 
@@ -536,7 +540,54 @@
 
     <div class="clearfix"></div>
 
-  
+    <section >
+    <div class="text text-center" >
+										<h3 class="uppercase text-white less-mar-1 title" style="color:black; padding:20px;"><b>PRODUCT GALLERY</b></h3>
+									</div>
+            
+                <div class="container">
+            <div class="row">
+            <?php     
+$sql=mysqli_query($conn,"select * from product_gallery limit 4");
+
+while($arr=mysqli_fetch_array($sql)){
+?>
+                <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+                    <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
+                    <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+                </div>
+                
+                <?php }  ?>
+                
+                <!--end item-->
+            </div>
+            
+            
+    </section>
+    <section class="sec-padding">
+    <div class="text text-center" >
+										<h3 class="uppercase text-white less-mar-1 title" style="color:black;padding:20px;"><b> GALLERY</b></h3>
+									</div>
+            
+                        <div class="container">
+					<div class="row">
+                    <?php     
+    $sql=mysqli_query($conn,"select * from gallery limit 4");
+
+    while($arr=mysqli_fetch_array($sql)){
+    ?>
+						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
+							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+						</div>
+						
+						<?php }  ?>
+						
+						<!--end item-->
+					</div>
+					
+					
+			</section>
     <!--
 
 	<section class="parallax-50">
