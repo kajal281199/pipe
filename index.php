@@ -330,7 +330,7 @@ include('admin/config.php');
 
                 
                 <div style="margin: 0% 0px 0px;" class="col-md-5 col-sm-6 col-xs-12 margin-bottom"> 
-					<video width="100%" height="400" src="images/sliders/4c630c60-64b3-4163-ae1b-511d18892f06.mp4" type="video/mp4" frameborder="0" controls="" ></video>
+					<video width="100%" height="400" src="images/sliders/index.mp4" type="video/mp4" frameborder="0" controls="" ></video>
 					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
                 </div>
                 <!--end item-->
@@ -588,7 +588,7 @@ while($arr=mysqli_fetch_array($sql)){
     <div class="row">
 
        <div style="margin: 12% 0px 0px;" class="col-md-5 col-sm-6 col-xs-12 margin-bottom"> 
-            <iframe width="100%" height="400" src="https://www.youtube.com/embed/nA77R9WJmkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <video width="100%" height="400" src="images/sliders/Sudarshan Compressed.mp4" type="video/mp4" frameborder="0" controls="" ></video>
             <!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
         </div>
 
