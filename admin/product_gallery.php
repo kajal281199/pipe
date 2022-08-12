@@ -35,6 +35,25 @@ if(isset($_POST['submit']))
    }
 }
 
+
+if(isset($_POST['testedit1'])){
+  $id=$_POST['id'];
+  $name = $_POST['name'];
+  $subject = $_POST['subject'];
+  $image=$_FILES['image']['name'];
+$dnk=$_FILES['image']['tmp_name'];
+  $loc="dist/img/credit/".$image;
+  move_uploaded_file($dnk,$loc);
+ 
+ 
+  $sql="UPDATE `product_gallery` SET `name`='$name',`image`='$image',`subject`='$subject' WHERE id='$id'";
+  if (mysqli_query($conn, $sql)){
+   
+    echo "<script>alert('Successfully Updated');</script>";
+ } else {
+    echo "<script> alert ('connection failed !');window.location.href='product_gallery.php'</script>";
+ }
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -207,8 +226,8 @@ if(isset($_POST['submit']))
                     </td>
                     <td><?php echo $arr['subject'];?></td>
                     <td> 
-                      <a href="#"><button type="button"
-                        class="btn btn-primary btn-md" style="color: aliceblue"> <i
+                    <button type="button"
+                        class="btn btn-sm btn-primary btn-rounded btn-icon testedit btn-sm" data-toggle="modal" data-id='<?php echo $arr['id']; ?>' style="color: aliceblue"> <i
                         class="fas fa-pen"></i></button></a>
 
                   <a href="product_gallery.php?delsr_no=<?php echo $arr['id']; ?>"><button type="button"
@@ -221,6 +240,26 @@ if(isset($_POST['submit']))
                   </tbody>
                  
                 </table>
+                <div class="modal fade closemaual" id="dnkModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+      </div>
+      <form method="post" enctype="multipart/form-data">
+      <div class="modal-body body5">
+      </div>
+    <div class="modal-footer">
+    <button type="button" class="btn-close btn btn-secondary" data-dismiss="modal">Close</button>
+      <button type="submit" class="btn btn-primary" name="testedit1">Save changes</button>
+    </div>
+  </form>
+  </div>
+  </div>
+</div>
               </div>
               <!-- /.card-body -->
             </div>
@@ -442,5 +481,24 @@ if(isset($_POST['submit']))
   }
   // DropzoneJS Demo Code End
 </script>
+<script>
+          $(document).ready(function(){
+          $('.testedit').click(function(){
+            let dnk3 = $(this).data('id');
+
+            $.ajax({
+            url: 'productgallery_modal.php',
+            type: 'post',
+            data: {dnk3: dnk3},
+            success: function(response5){ 
+              $('.body5').html(response5);
+              $('#dnkModal4').modal('show'); 
+            }
+          });
+          });
+
+
+          });
+          </script>
 </body>
 </html>
