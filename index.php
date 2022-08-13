@@ -259,28 +259,28 @@ include('admin/config.php');
                         <div class="numbertext">1 / 4</div>
                         <img src="images/sliders/slide2.jpg" style="width:100%" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider1.jpg" class="mobile-slide">
-                        <a href="antiscale-defence.html" class="btn knowmore_btn"> </a>
+                        
                     </div>
 
                     <div class="mySlides fade">
                         <div class="numbertext">2 / 4</div>
                         <img src="images/sliders/slide1.jpg" style="width:100%" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider2.jpg" class="mobile-slide">
-                        <a href="scale-defence.html" class="btn knowmore_btn"></a>
+                       
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">3 / 4</div>
                         <img src="images/sliders/slide3.jpg" style="width:100%" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider3.jpg" class="mobile-slide">
-                        <a href="bath-soft.html" class="btn knowmore_btn"></a>
+                        
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">4 / 4</div>
                         <img src="images/sliders/slide4.jpg" style="width:100%" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider6.jpg" class="mobile-slide">
-                        <a href="agriculture.html" class="btn knowmore_btn"></a>
+                        
                     </div>
 
                     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
