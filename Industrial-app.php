@@ -244,10 +244,8 @@
 				<div class="container">
 					<div class="row sec-padding">
 						<div class="col-md-9 col-centered text-center">
-							<p>"Water" the inevitable coolant in the industry becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in water and is termed as 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the
-
-
-de-scaling of industrial equipments is concerned.
+							<p>"Water" the inevitable coolant in the industries,
+becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
 
 </p>
 						</div>
@@ -271,45 +269,48 @@ de-scaling of industrial equipments is concerned.
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">a) reduction of heat exchanging efficiencies and</div>
+								<div class="text">1) Reduction of heat exchanging efficiency </div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">b) reduction in mechanical efficiencies of equipment such as pump and the pipelines in terms of flow rate and the maintenance costs due to the back pressures developed.</div>
+								<div class="text">2) Reduction in mechanical efficiencies of equipment such as pump and the pipelines in terms of flow rates.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">c) The above results in huge energy losses electrical or thermal.</div>
+								<div class="text">3) Scaling results in huge energy losses electrical or thermal.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">d) Scaling is a pain area of all industry as the present process of de-scaling is very cumbersome and expensive, where corrosive chemicals have to be handled and possibility of expensive parts that have been covered with heavy scales may be damaged in the process.
+								<div class="text">4) Scaling is a pain area of all industry as the present process of de-scaling is very lengthy and expensive, where corrosive chemicals have to be handled and possibility of expensive parts that have been covered with heavy scales may be damaged in the process.
 
 </div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">Until now, the solutions has been to install "Reverse osmosis" plant, Filters or Water softeners using salt resin ionisation where by the water is softened by direct contact with an ionising resin contained in the chamber. The hard water progressively reduces the ionising properties of the resin and this regularly has to be recharged by back flushing whilst simultaneously adding salt (Sodium chloride ), to the unit. This leaves Sodium as a by product, an undesirable addition to the water. In companies where continuous operation is essential , two separate water softening units have to be installed so that the plant can continue to function, whilst other being regenerated. Often water consumption is so high that multiple units have to be installed.
+								<div class="text">The first solutions has been to install "Reverse osmosis" plants,
+These softening plants involves huge capital loss, high maintenance cost and endless supply of salts to regenerate the system. This method of water softening is now causing a serious environmental problem and increasingly the effluent requires expensive treatment either by the company or the waste water authority.
 
-
-</div>
-							</div>
-							<div class="iconlist-2">
-								<div class="icon dark"></i></div>
-								<div class="text">These softening plants involves huge capital outlay, high maintenance cost and endless supply of salts to regenerate the system. This method of water softening is now causing a serious environmental problem and increasingly the effluent requires expensive treatment either by the company or the waste water authority.
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
 								<div class="text">Please note that other than the use of undesirable chemicals, the replacement of filters and maintenance is also a Big headache as its cost Huge.
+But there is Second option also available Now! <b>SUDARSHAN CAPACITANCE IMPULSE TECHNOLOGY</b>, The most effective, cost effective & environment friendly with zero Maintenance.
+
+</div>
+							</div>
+							<div class="iconlist-2">
+								<div class="icon dark"></i></div>
+								<div class="text">No other technology combines the ability to functionally softening the water with the ability to De-scale the pipe work and all the equipments and machineries without using chemicals. 
+The user friendly,<b> SUDARSHAN IMPULSE WATER SCALE REMOVER </b> offers an entirely new dimension in the water treatment technology.
 
 
 
@@ -317,18 +318,12 @@ de-scaling of industrial equipments is concerned.
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">But..as a system de-scaler, SUDARSHAN ELECTRONIC WATER CONDITIONER is the most cost effective, environmentally sound system, currently available. No other system combines the ability to functionally softening the water with the ability to de-scale the pipe work and all the equipment and machinery to which connected, without using chemicals. The user friendly, SUDARSHAN ELECTRONIC WATER CONDITIONER system offers an entirely new dimension in the water treatment technology. This high-tech PULSE TECHNOLOGY that neutralizes the bonding ability of the minerals that are contained in the water. This effectively breaks down large mineral crystals into tiny mineral particles and prevent them from reacting with other minerals or bonding to any surface to form scales. This process is so effective that existing scales are progressively broken down and flushed away in due course of time. The particle size of the ionised flow is below that required for most fungal and algae formation and these tend to be eliminated along with lime scale.
-
+								<div class="text"> This high-tech IMPULSE TECHNOLOGY neutralizes the bonding ability of the water molecules that are contained with high minerals in the water. This effectively breaks down large mineral crystals into tiny mineral particles and prevent them from reacting with other minerals to bond and form scale to any surface, This process is so effective that existing scales are progressively broken down and flushed away in due course of time. The particle size of the ionised flow is below that required for most fungal and algae  formation and these tend to be eliminated along with lime scale.
+The gaseous ions in the water are also conditioned, resulting in better tasting, non corrosive and Best solvent water.
 
 </div>
 							</div>
-							<div class="iconlist-2">
-								<div class="icon dark"></i></div>
-								<div class="text">The gaseous ions in the water are also conditioned, resulting in better tasting, non corrosive water.
-
-
-</div>
-							</div>						
+												
 							<div class="clearfix"></div>
 							<!--end item-->
 						</div>
@@ -405,7 +400,7 @@ de-scaling of industrial equipments is concerned.
 							<div class="col-xs-12 nopadding">
 								<div class="sec-title-container less-padding-3 text-left">
 									<div class="ce4-title-line-1 align-left"></div>
-									<h4 class="uppercase font-weight-7 less-mar-1">ADVANTAGES OVER CONVENTIONAL WATER SOFTENERS</h4>
+									<h4 class="uppercase font-weight-7 less-mar-1">ADVANTAGES</h4>
 									<div class="clearfix"></div>
 								</div>
 							</div>
@@ -415,71 +410,57 @@ de-scaling of industrial equipments is concerned.
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">1) Removes the ills of hard water in commercial quantity without using chemicals.</div>
+								<div class="text">1) Huge savings of Time & money.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">2) Eliminates the need of Hydro-chloric acid or phosphoric acid for de-scaling.</div>
+								<div class="text">2)  Heavy investment over stock of Chemicals.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">3) Progressively de-scales Cooling-towers, Boilers, Heat exchangers, Compressors, Valves, Elements, Pipes and Pumps.</div>
+								<div class="text">3) Chemical treatment of pipelines/tubes in interval of 1 to 6 month allow some scale to deposit.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">4) Prevents lime-scale formation on new or reconditioned equipment.
+								<div class="text">4)  Studies shows that 1 mm increase in scale thickness can reduce heating efficiency by an average of 6%, with the first 0.4mm showing a rate as high as 10%.
+Hence continuous water treatment is required to reduce to running cost.
 </div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">5) Reduces maintenance, manpower, down-time and energy cost.
+								<div class="text">5) De-Scale provides 24x7 water treatment without incurring chemical cost and maintain the efficiency throughout service period.
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">6) Kills algae, fungi, and other micro-organisms.
+								<div class="text">6) Environment friendly .
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">7) No maintenance. Practically fit and forget.
+								<div class="text">7)  over 20 years life No maintenance! 
 
-
-
-</div>
-							</div>
-							<div class="iconlist-2">
-								<div class="icon dark"></i></div>
-								<div class="text">8) No recurring expenses.
 
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">9) No direct contact with the water flowing inside the pipeline.
-
-
-</div>
-							</div>		
-							<div class="iconlist-2">
-								<div class="icon dark"></i></div>
-								<div class="text">10) SUDARSHAN ELECTRONIC WATER CONDITIONER is the only device available which through its Multi flow combination of systems not only prevents the scaling but also descales the existing scaling, and preventing new depositions as well.
-
-
-
+								<div class="text">8) save water save world 🌎
 
 </div>
-							</div>						
+							</div>
+								
+											
 							<div class="clearfix"></div>
 							<!--end item-->
 						</div>
@@ -487,120 +468,8 @@ de-scaling of industrial equipments is concerned.
 					</div>
 				</div>
 			</section>
-			<section>
-				<div class="container">
-					<div class="row sec-padding">
-						<div class="col-md-12 col-sm-6 col-xs-12 margin-bottom">
-							<div class="col-xs-12 nopadding">
-								<div class="sec-title-container less-padding-3 text-left">
-									<div class="ce4-title-line-1 align-left"></div>
-									<h4 class="uppercase font-weight-7 less-mar-1">ADVANTAGE</h4>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-						</div>
-						<div class="clearfix"></div>
-							<!--end title-->
-						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Huge savings of Time & money.</div>
-							</div>
-							<!--end item-->
-
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Heavy investment over stock of Chemicals.</div>
-							</div>
-							<!--end item-->
-
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Chemical treatment of pipelines/tubes in interval of 1 to 6 month allow some scale to deposit.</div>
-							</div>
-							<!--end item-->
-
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Studies shows that 1 mm increase in scale thickness can reduce heating efficiency by an average of 6%, with the first 0.4mm showing a rate as high as 10%.
-</div>
-							</div>
-							<!--end item-->
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Hence continuous water treatment is required to reduce to running cost.
-
-</div>
-							</div>
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">de-ScALL provides 24x7 water treatment without incurring chemical cost and maintain the efficiency throughout service period.
-
-</div>
-							</div>
-							
-							</div>						
-							<div class="clearfix"></div>
-							<!--end item-->
-						</div>
-						
-					</div>
-				</div>
-			</section>
-			<section>
-				<div class="container">
-					<div class="row sec-padding">
-						<div class="col-md-12 col-sm-6 col-xs-12 margin-bottom">
-							<div class="col-xs-12 nopadding">
-								<div class="sec-title-container less-padding-3 text-left">
-									<div class="ce4-title-line-1 align-left"></div>
-									<h4 class="uppercase font-weight-7 less-mar-1">ENVIRONMENTAL HAZARDS</h4>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-						</div>
-						<div class="clearfix"></div>
-							<!--end title-->
-						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Traditional methods of softening water use salt in order to remove calcium from the water. These systems require regular flushing with salt and dump salt brine in rivers/under ground water.</div>
-							</div>
-							<!--end item-->
-
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">This salt is harmful to all living species. Plants, fish and animals are forced to suffer from caustic amounts of salt in the freshwater supplies.</div>
-							</div>
-							<!--end item-->
-
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">Salt significantly reduces all aspects of plant growth.</div>
-							</div>
-							<!--end item-->
-
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">There is no practical or inexpensive way to remove these salts during waste treatment.
-</div>
-							</div>
-							<!--end item-->
-							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
-								<div class="text">SUDARSHAN a Chemical free water Treatment system eliminates the use of harmful chemical and helps to protect environment
-
-</div>
-							</div>
-							
-							</div>						
-							<div class="clearfix"></div>
-							<!--end item-->
-						</div>
-						
-					
-				</div>
-			</section>
+			
+			
 			<div class="clearfix"></div>
 
 			<div class="clearfix"></div>

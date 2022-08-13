@@ -227,7 +227,7 @@
             <div class="header-inner less-height">
               <div class="overlay">
                 <div class="text text-center">
-                  <h3 class="uppercase text-white less-mar-1 title">How Shree Sudarshan Water Conditioner Works</h3>               
+                  <h3 class="uppercase text-white less-mar-1 title">HOW SUDARSHAN CAPACITANCE IMPULSE TECHNOLOGY WORKS</h3>               
                 </div>
               </div>
             </div>
@@ -241,16 +241,16 @@
     <div class="container">
       <div class="row">
         
-        <div class="col-md-6 margin-bottom"><img src="images/sliders/work.jpeg" alt="" class="img-responsive"/></div>
+        <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.JPEG" alt="" class="img-responsive"/></div>
         <div class="col-md-6 margin-bottom">
           <h4 class="uppercase font-weight-7">How it work </h4>
-          <p >Shree Sudarshan uses a series of controlled complex modulating high frequency waveform that ineffective the bonding ability of minerals that are contained in our water. This field effectively control & prevent different size molecules likely to form scale & to break the bonds between molecules & the water. This results the break down of large mineral crystals into tiny mineral particles & then prevent them from reacting with other minerals or bonding to any surface to from scales. The process is so effective that existing scales are progressively broken down & flushed away in due course of time. The conditioned and treated liquid ions results in non-corrosive & best solvent water. It also helps the plants to grow well & healthy.
+          <p >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
+This capacitance impulse frequency effectively change & prevent different size of water molecules likely to form scale, impulse frequency same time breaks the  Hydrogen Bond between opposite water molecules, this Results breakdown of large minerals crystals into tiny minerals particles and flush them away along with water in due course of time.
+Water treated with New capacitance impulse technology keeps liquid ions, water molecules Bond free for next 6 to 7 days and make water scale free, Non- corrosive & Best solvent.
 
 </p>
-<p>Electro-magnetic technology is based on the principal of creating an Oscillating field of energy</p>
-<p>It produces a series of controlled & complexed modulated high resonating square wave frequency</p>
-<p>The device produce a unique square wave current that sweeps all the frequency responses from 1000 to 100000 HZ at a rate of 10 times a second.</p>
-<p>When the strength of the oscillating field varies with time and changes direction an induced current is produced inside the pipe line, this is also known as FARADAY'S law of induction.</p>
+<p>When the Sudarshan Devices are fitted on a pipeline, the water flowing through the pipeline is subject to the intense, focused,effective Impulse frequency,
+The strong impulse frequency affects the physical structure of the Minerals,thereby altering their shape and physical properties. There is No chemistry involved, only physics. The Minerals continue to remain in the water, But now..the altered physical state prevents the Minerals from exibiting hardness,thus the water become soft.</p>
 
           <br/>
         <!--end item-->
@@ -272,49 +272,7 @@
   <div class="clearfix"></div>
   <!-- end section -->
 
-  <section class="sec-bpadding-1 sec-padding">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 margin-bottom">
-            <h4 class="uppercase font-weight-7">IN SIMPLE LANGUAGE:-</h4>
-            <p >When water comes under the influence of such field the hard water ions are forced to precipitate. It alters the hard water ions in a suspended polarized form. It changes the property of the hardness of the water. It decomposes the molecule into a new form. It never forms hard scale at walls of pipe and soil. It increases solubility of Water. The conditioned water absorb existing hard ions, which present on the surface of the soil. This way it helps to break down existing scale and improves soil profile.</p>
-            <p>CaCO3 (s) + CO2 (aq) + H2O (l) Ca2+ (aq) + 2HCO3- (aq)</p>
-            <p>After this process water molecules to travel together and sticking to each other or developing cluster are being ruined and transformed in to 100% non-sticking nature. Like that they cannot travel together or develop any cluster or layer on water surface.Nature of water is now changed! So with the help of this process and passing water through this device hard water is turned into "Best Solvent" compared to non - treated water. This is the only technology which does not remove useful and essential minerals/nutrient ions from water, but treat them and make them more bion-available.</p>
-            <br/>
-          <!--end item-->
-        </div>
-        <div class="col-md-6 margin-bottom"><img src="images/img/working2.png" alt="" class="img-responsive"/></div>
-      </div>
-  
-      <div class="row sec-padding">
-        <div class="col-md-12 text-center chem-bg">
-            <img src="images/img/working-chemarea1.png">
-        </div>
-      </div>
-  
-      <div class="row">
-        <!-- <div class="col-md-12">
-            <p class="text-center">With Kashyap anti-scaling system, this process is reversed as electronic impulse doesn’t allow the deposition of scales. The rate of scale deposits becomes much slower, eliminating the scale-build up entirely. As the scale eradication becomes faster than the build-up process, it also removes the existing deposits more effectively. The carbonic acid generated during the process keeps dissolving the scales sanitizing the piping system.</p>
-        </div> -->
-      </div>
-    </section>
-    <div class="clearfix"></div>
-    <!-- end section -->
-  
-    <section class="sec-bpadding-1">
-        <div class="container">
-          <div class="row">
-            
-            <div class="col-md-6 margin-bottom"><img src="images/img/working3.png" alt="" class="img-responsive"/></div>
-            <div class="col-md-6 margin-bottom">
-              <h4 class="uppercase font-weight-7">IN SHORT AND SWEET LANGUAGE</h4>
-              <p >When the Sudarshan Devices are fitted on a pipeline, the water flowing through the pipeline is subject to the intense, focused,effective electro-magnetic field. The strong magnetic field & frequency affects the physical structure of the Minerals,thereby altering their shape and physical properties. There is No chemistry involved, only physics. The Minerals continue to remain in the water, But now..the altered physical state prevents the Minerals from exibiting hardness,thus the water become soft. One may wonder,what difference does it take make if the physical structure changes,When the chemical remains same?? As an example..., consider water, it is a liquid, chemically called H2O.if we freeze water,it becomes Ice,which is solid, but it is still chemically H2O. If we boil it , it becomes a vapour,but chemically it is still H2O. Water transform from a liquid to ice,to a vapour (and visa versa) thus exhibiting 3 different physical state of the Minerals,while maintaining their chemical state.H2O, This is the reason why,we cannot use the laboratory test to check the hardness of the water after treatment done by our Sudarshan Device, please note that,a laboratory analysis is a chemical test that checks for the presence of certain chemicals in the water ,it will not register any physical change in water molecules or minerals. These structurally changed Minerals neither stick to each other to make crystal nor any surface to form scale ,and remain suspended in the water in an in-active state, That exhibit the soft and scale free water Nature.</p>
-                 
-              <br/>
-            <!--end item-->
-          </div>
-        </div>
-      </section>
+ 
       <div class="clearfix"></div>
       <!-- end section -->
       

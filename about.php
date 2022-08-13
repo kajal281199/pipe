@@ -326,28 +326,70 @@ systematically programmed by computer software.</p>
 						</div>
 						<div class="col-md-7">
 							<h4 class="text-dark font-weight-4 raleway">
-								<h3 class="uppercase font-weight-6">WHY SUDARSHAN??</h3>
+								<h3 class="uppercase font-weight-6">We are 1st choice because our technology have following qualities</h3>
 								<br>
-								<p>1. Long experience over 10years.</p>
-                                <p>2. We are the 1st and few who follow very Effective Multi-flow Technology (Devide water & treat individually)</p>
-                                <p>3. We are the only who use high quality copper in our Device,as copper is the only Best supporting metal in Magnetisms!</p>
-                                <p>4. We use Best and standard quality materials, as device has 20years Life!</p>
-                                <p>5. We use multiple,updated & advance Technology & Hardware in our Device to get Best & desired Result.</p>
-                                <p>6. we surely give Money back guarantee if NO result found, costumers satisfaction is our priority.</p>
-                                <p>7. Our service & After sales service is on TOP amongst all.</p>
-                                <p>8. We provide FREE delivery service in all india ????</p>
-                                <p>9. We have big experienced team to provide & assist our clients with good service and knowledge.</p>
-                                <p>10. We have all Range, size Models as per our clients Requirements & Budget too.</p>
-                                <p>11. We are the Most Effective, Affordable Manufacturer in india ???? because we make our Devices in PVC, SS, G.I. & COPPER as per costumers Need and Budget.</p>
-                                <p>12. Our products are of Best colours, Design, Quality, Looks & Packing amongst all. ( just fit & forget)</p>
-                                <p>13. Lowest @ Rate Top @ Performance.</p>
+								<p>1. 24v Operational.</p>
+                                <p>2. Signal Strength:2 Feet</p>
+                                <p>3. Wattage:7.5 Watts</p>
+                                <p>4. Zero maintenance,20 years life</p>
+                                <p>5. Ripple Filter Added For Clean Signal</p>
+                                <p>6. 10 Programs</p>
+                                <p>7. Output Coil Length: Upto 4 Meters</p>
+                                <p>8. 100% Clean Impulse Signal</p>
+                                <p>9. 10 Impulse Type</p>
+                                <p>10. Max Pipe Diameter:6" to 20"</p>
+                                <p>11. Frequency Range: 3-32 khz(10 Types)</p>
+                                <p>12. ESD Protection From Lightening</p>
+                                <p>Power Control Circuit Added</p>
+								<p>24V SMPS Works From 100V-240V</p>
+								<p>Used in Agriculture & Small Industries</p>
+								<p>Water remains treated for 5 to 7 days</p>
 							</h4>
 						</div>
 
                     </div>
+					<section class="sec-padding">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-6">
+										<h3 class="uppercase font-weight-6">WHY SUDARSHAN??</h3>
 
+										<br />
+										<p>1. Long experience over 10years</p>
+                                        <p>2. We use Best and standard quality materials, as device has 20years Life!
+
+
+</p>
+<p>3. we surely give Money back guarantee if NO result found, costumers satisfaction is our priority.</p>
+<p>4. We have all Range, size Models as per our clients Requirements & Budget.</p>
+<p>5.Our products are of Best colours, Design, & packing Quality,
+( just fit & forget)</p>
+<p>6. all over the world 🌍 we are most affordable price wise in impulse technology and Best in performance,Quality & Design!</p>
+<p>7. our impulse technology have DOUBLE EXCITATION strong frequency wave flow for excellent performance shown in GIF</p>
+
+										<br />
+										<br />
+
+									</div>
+									<!--end item-->
+
+									<div class="col-md-6 ">
+										
+										<div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom"> 
+					<video width="100%" height="400" src="images/sliders/video.MP4" type="video/mp4" frameborder="0" controls="" ></video>
+					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
+                </div>
+										
+									</div>
+									<!--end item-->
+
+								</div>
+							</div>
+						</section>
                     <div class="row">
-						
+					<div class="col-md-5">
+					<img src="images/make-in-india.png" class="img-responsive">
+						</div>
 						<div class="col-md-7">
 							<h4 class="text-dark font-weight-4 raleway">
 								<h3 class="uppercase font-weight-6">WELCOME TO SUDARSHAN TECHNOLOGY</h3>
@@ -357,104 +399,12 @@ systematically programmed by computer software.</p>
                                 
 							</h4>
 						</div>
-                        <div class="col-md-5">
-							<img src="images/make-in-india.png" class="img-responsive">
-						</div>
+                    
                     </div>
 			</section>
 			<!-- end section -->
 			<div class="divider-line solid light"></div>
-			<section class="sec-padding">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-12 nopadding">
-							<div class="sec-title-container text-center">
-								<div class="ce4-title-line-1"></div>
-								<h4 class="uppercase font-weight-7 less-mar-1">5 Factors That Make Our Water Treatments
-									Stand Out</h4>
-							</div>
-						</div>
-						<div class="clearfix"></div>
-						<!--end title-->
-						<div class="col-md-4 col-sm-6 col-xs-12">
-							<div class=" margin-bottom">
-								<div class="iconbox-xmedium left round icon"><img src="images/electronic.png"
-										class="img-fluid h-100"></div>
-								<div class="text-box-right more-padding-2">
-									<h4 class="uppercase title">Electronic</h4>
-									<p>Our products run on impulse technology and are entirely electronic. The users
-										don’t need to add chemicals or softeners or anything for our products to keep
-										working.</p>
-									<br />
-								</div>
-							</div>
-						</div>
-						<!--end item-->
-
-						<div class="col-md-4 col-sm-6 col-xs-12">
-							<div class=" margin-bottom">
-								<div class="iconbox-xmedium left round icon"><img src="images/eco-freindly.png"
-										class="img-fluid h-100"></div>
-								<div class="text-box-right more-padding-2">
-									<h4 class="uppercase title">Eco-friendly</h4>
-									<p>Because our anti-scale products are electronic, they are devoid of water
-										softening chemicals. There’s no water wastage in the process, making our
-										technology eco-friendly.</p>
-									<br />
-								</div>
-							</div>
-						</div>
-						<!--end item-->
-
-						<div class="col-md-4 col-sm-6 col-xs-12">
-							<div class=" margin-bottom">
-								<div class="iconbox-xmedium left round icon"><img src="images/maintenance-free.png"
-										class="img-fluid h-100"></div>
-								<div class="text-box-right more-padding-2">
-									<h4 class="uppercase title">Maintenance Free</h4>
-									<p>With absolutely no requirement to add salts or chemicals and a life of at least
-										ten decades, there’s zero maintenance cost. The only energy source Kashyap
-										Anti-scale products need is electricity.</p>
-									<br />
-								</div>
-							</div>
-						</div>
-						<!--end item-->
-					</div>
-
-					<div class="row">
-
-						<div class="col-md-4 col-sm-6 col-xs-12">
-							<div class=" margin-bottom">
-								<div class="iconbox-xmedium left round icon"><img src="images/hasslefree.png"
-										class="img-fluid h-100"></div>
-								<div class="text-box-right more-padding-2">
-									<h4 class="uppercase title">Hassle-free Installation</h4>
-									<p>Kashyap’s Anti-scale and Scale Defence need to be installed externally on the
-										pipes. A quick, hassle-free installation, without any technical assistance, is
-										possible with Kashyap.</p>
-									<br />
-								</div>
-							</div>
-						</div>
-						<!--end item-->
-
-						<div class="col-md-4 col-sm-6 col-xs-12">
-							<div class=" margin-bottom">
-								<div class="iconbox-xmedium left round icon"><img src="images/easy-customization.png"
-										class="img-fluid h-100"></div>
-								<div class="text-box-right more-padding-2">
-									<h4 class="uppercase title">Easy Customization</h4>
-									<p>We have developed suitable models for different diameters of pipes, and we are
-										also open to customizing our products according to your requirements.</p>
-									<br />
-								</div>
-							</div>
-						</div>
-						<!--end item-->
-					</div>
-				</div>
-			</section>
+		
 
 			<!-- end section -->
 			<div class="divider-line solid light"></div>
