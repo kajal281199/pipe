@@ -321,7 +321,7 @@ systematically programmed by computer software.</p>
 						<!--end item-->
 					</div>
 					<div class="row">
-						<div class="col-md-5">
+						<div class="col-md-5" style="margin-top:102px;">
 							<img src="images/img.jpeg" class="img-responsive">
 						</div>
 						<div class="col-md-7">
@@ -376,7 +376,7 @@ systematically programmed by computer software.</p>
 									<div class="col-md-6 ">
 										
 										<div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom"> 
-					<video width="100%" height="400" src="images/sliders/video.MP4" type="video/mp4" frameborder="0" controls="" ></video>
+					<video width="100%" height="300" src="images/sliders/video.MP4" type="video/mp4" frameborder="0" controls="" ></video>
 					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
                 </div>
 										
@@ -387,7 +387,7 @@ systematically programmed by computer software.</p>
 							</div>
 						</section>
                     <div class="row">
-					<div class="col-md-5">
+					<div class="col-md-5" style="margin-top:86px;">
 					<img src="images/make-in-india.png" class="img-responsive">
 						</div>
 						<div class="col-md-7">
