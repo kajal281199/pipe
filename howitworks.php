@@ -241,7 +241,7 @@
     <div class="container">
       <div class="row">
         
-        <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.JPEG" alt="" class="img-responsive"/></div>
+        <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div>
         <div class="col-md-6 margin-bottom">
           <h4 class="uppercase font-weight-7">How it work </h4>
           <p >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
