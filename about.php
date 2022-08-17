@@ -4,214 +4,222 @@
 
 <head>
 
-    <meta charset="utf-8">
+	<meta charset="utf-8">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>About Us</title>
+	<title>About Us</title>
 
-    <meta name="keywords" content="" />
+	<meta name="keywords" content="" />
 
-    <meta name="description" content="">
+	<meta name="description" content="">
 
-    <meta name="author" content="">
-    <!-- Mobile view -->
+	<meta name="author" content="">
+	<!-- Mobile view -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon -->
+	<!-- Favicon -->
 
-    <link rel="shortcut icon" href="#">
+	<link rel="shortcut icon" href="#">
 
-    <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
-    <!-- Google fonts  -->
+	<!-- Google fonts  -->
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+		rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700"
+		rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet">
 
-    <!-- Template's stylesheets -->
+	<!-- Template's stylesheets -->
 
-    <link rel="stylesheet" href="js/megamenu/stylesheets/screen.css">
+	<link rel="stylesheet" href="js/megamenu/stylesheets/screen.css">
 
-    <link rel="stylesheet" href="css/theme-default.css" type="text/css">
+	<link rel="stylesheet" href="css/theme-default.css" type="text/css">
 
-    <link rel="stylesheet" href="js/loaders/stylesheets/screen.css">
+	<link rel="stylesheet" href="js/loaders/stylesheets/screen.css">
 
-    <link rel="stylesheet" href="css/corporate.css" type="text/css">
+	<link rel="stylesheet" href="css/corporate.css" type="text/css">
 
-    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css" type="text/css">
+	<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="fonts/Simple-Line-Icons-Webfont/simple-line-icons.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="fonts/Simple-Line-Icons-Webfont/simple-line-icons.css"
+		media="screen" />
 
-    <link rel="stylesheet" href="fonts/et-line-font/et-line-font.css">
-    
+	<link rel="stylesheet" href="fonts/et-line-font/et-line-font.css">
 
-    <!-- Template's stylesheets END -->
 
-    <!-- Style Customizer's stylesheets -->
+	<!-- Template's stylesheets END -->
 
-    <link rel="stylesheet" type="text/css" href="js/style-customizer/css/spectrum.css">
+	<!-- Style Customizer's stylesheets -->
 
-    <link rel="stylesheet" type="text/css" href="js/style-customizer/css/style-customizer.css">
+	<link rel="stylesheet" type="text/css" href="js/style-customizer/css/spectrum.css">
 
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
+	<link rel="stylesheet" type="text/css" href="js/style-customizer/css/style-customizer.css">
 
-   <!-- <script src='https://www.google.com/recaptcha/api.js'></script>-->
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
 
-    <!-- Style Customizer's stylesheets END -->
+	<!-- <script src='https://www.google.com/recaptcha/api.js'></script>-->
 
-    <!-- Skin stylesheet -->
-    
-    
-    <style>
-        .cal:hover 
-        {
-    	    width: 45px;
-    	    cursor: pointer;
-        }
-        .cal 
-        {
-        	border: 2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 10px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 60%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .cal 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .eml:hover 
-        {
-             width: 45px;
-    	    cursor: pointer;
-        }
-        .eml 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 68%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .eml 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .what:hover 
-        {
-        	width: 45px;
-        	cursor: pointer;
-        }
-        .what 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 76%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .what 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .ins:hover 
-        {
-        	width: 45px;
-        	cursor: pointer;
-        }
-        .ins 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 84%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .ins 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .phone:hover 
-        {
-        	width: 45px;
-        	cursor: pointer;
-        }
-        .phone 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 92%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .phone 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-         .download 
-        {
-            color: #fff;
-            padding: 0 0px 0 0px;
-            line-height: 50px;
-            font-size: 18px;
-            top: 57%;
-            transition-property: width;
-            overflow: hidden;
-        }
-        .download 
-        {
-        	width: 33px;
-            transition-timing-function: linear;
-            position: fixed;
-            z-index: 9999;
-            right: 0;
-        }
-    </style>
+	<!-- Style Customizer's stylesheets END -->
+
+	<!-- Skin stylesheet -->
+
+
+	<style>
+		.cal:hover {
+			width: 45px;
+			cursor: pointer;
+		}
+
+		.cal {
+			border: 2px solid #226bb4;
+			background: #226bb4;
+			color: #fff;
+			padding: 16px 8px 0 10px;
+			line-height: 50px;
+			font-size: 18px;
+			height: 50px;
+			top: 60%;
+			transition-property: width;
+			overflow: hidden;
+		}
+
+		.cal {
+			width: 45px;
+			transition-timing-function: linear;
+			position: fixed;
+			z-index: 9999;
+		}
+
+		.eml:hover {
+			width: 45px;
+			cursor: pointer;
+		}
+
+		.eml {
+			border: 2px solid #226bb4;
+			background: #226bb4;
+			color: #fff;
+			padding: 16px 8px 0 14px;
+			line-height: 50px;
+			font-size: 18px;
+			height: 50px;
+			top: 68%;
+			transition-property: width;
+			overflow: hidden;
+		}
+
+		.eml {
+			width: 45px;
+			transition-timing-function: linear;
+			position: fixed;
+			z-index: 9999;
+		}
+
+		.what:hover {
+			width: 45px;
+			cursor: pointer;
+		}
+
+		.what {
+			border: 2px solid #226bb4;
+			background: #226bb4;
+			color: #fff;
+			padding: 16px 8px 0 14px;
+			line-height: 50px;
+			font-size: 18px;
+			height: 50px;
+			top: 76%;
+			transition-property: width;
+			overflow: hidden;
+		}
+
+		.what {
+			width: 45px;
+			transition-timing-function: linear;
+			position: fixed;
+			z-index: 9999;
+		}
+
+		.ins:hover {
+			width: 45px;
+			cursor: pointer;
+		}
+
+		.ins {
+			border: 2px solid #226bb4;
+			background: #226bb4;
+			color: #fff;
+			padding: 16px 8px 0 14px;
+			line-height: 50px;
+			font-size: 18px;
+			height: 50px;
+			top: 84%;
+			transition-property: width;
+			overflow: hidden;
+		}
+
+		.ins {
+			width: 45px;
+			transition-timing-function: linear;
+			position: fixed;
+			z-index: 9999;
+		}
+
+		.phone:hover {
+			width: 45px;
+			cursor: pointer;
+		}
+
+		.phone {
+			border: 2px solid #226bb4;
+			background: #226bb4;
+			color: #fff;
+			padding: 16px 8px 0 14px;
+			line-height: 50px;
+			font-size: 18px;
+			height: 50px;
+			top: 92%;
+			transition-property: width;
+			overflow: hidden;
+		}
+
+		.phone {
+			width: 45px;
+			transition-timing-function: linear;
+			position: fixed;
+			z-index: 9999;
+		}
+
+		.download {
+			color: #fff;
+			padding: 0 0px 0 0px;
+			line-height: 50px;
+			font-size: 18px;
+			top: 57%;
+			transition-property: width;
+			overflow: hidden;
+		}
+
+		.download {
+			width: 33px;
+			transition-timing-function: linear;
+			position: fixed;
+			z-index: 9999;
+			right: 0;
+		}
+
+		@media(max-width: 600px) {
+  .line{
+   padding: 0;
+  }
+}
+	</style>
 
 
 </head>
@@ -230,8 +238,8 @@
 
 	<div class="wrapper-boxed">
 		<div class="site-wrapper">
-        <?php include"includes/header.php";?>
-			
+			<?php include"includes/header.php";?>
+
 			<!--end menu-->
 			<!--end menu-->
 
@@ -262,15 +270,16 @@
 			<section class="sec-padding">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-9 col-centered text-center">
-							
-								
-								<p><b>Shree Sudarshan Brand</b> in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!</p>
-                                <p> <b>Now </b> per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
-<b>" Capacitance IMPULSE technology" </b>This technology is uniquely different from old, Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse frequency...highly advance,microcontroller based,
-systematically programmed by computer software.</p>
-
-							
+						<div class="col-md-9 col-centered">
+							<p><b>Shree Sudarshan Brand</b> in water conditioner & treatment is well known in India, in
+								past 10 years we have achieved Big highs mainly in Agriculture and Domestic segments!
+								With Electro-Magnet technology our successes rate is over 90% since last 10 years!</p>
+							<p> <b>Now </b> per the demand and requirements of New Era, our Highly skilled technical and
+								research team has Developed a new Advanced, Effective and Unique
+								<b>" Capacitance IMPULSE technology" </b>This technology is uniquely different from old,
+								Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse
+								frequency...highly advance,microcontroller based,
+								systematically programmed by computer software.</p>
 						</div>
 
 						<div class="col-divider-margin-6"></div>
@@ -282,15 +291,27 @@ systematically programmed by computer software.</p>
 							<div class="container">
 								<div class="row">
 									<div class="col-md-6">
-										
+
 
 										<br />
-										<p> Capacitance Impulse technology releases...programmed complexed Modulating High Impulse frequency through cable coil winding on pipes, We use cable wire for winding in place of copper Band, because our experts says wide copper Band spreads the frequency,while cable wire keep the frequency intact and precise! Our 4 stage patented model multiply the frequency effect on Hard water minerals and make water more soluble indeed.</p>
-<p> <b> The capacitance Impulse frequency </b>Efficiently charge & prevent different size of high minerals water molecules likely to Form Scale, same time it Breaks the Hydrogen Bond  between opposite water molecules with high frequency, This Results the breakdown of Large minerals Crystals into tinny Nano Mineral particals & disabled them to  flush along with water 
-*Ca(Hco3)2 < IMPULSE > Co2 + H2O * = Calcium carbonate converts into Bi-carbonate. 
-( Non soluble partcals covert into soluble particals) 
-  This positively charged ions in water now Results Scale free,Non corrosive and Best solvent Water.
-This miraculous physical changes in water possible only due to our New Advanced <b>capacitance impulse technology 4 stage model</b></p>
+										<p> Capacitance Impulse technology releases...programmed complexed Modulating
+											High Impulse frequency through cable coil winding on pipes, We use cable
+											wire for winding in place of copper Band, because our experts says wide
+											copper Band spreads the frequency,while cable wire keep the frequency intact
+											and precise! Our 4 stage patented model multiply the frequency effect on
+											Hard water minerals and make water more soluble indeed.</p>
+										<p> <b> The capacitance Impulse frequency </b>Efficiently charge & prevent
+											different size of high minerals water molecules likely to Form Scale, same
+											time it Breaks the Hydrogen Bond between opposite water molecules with high
+											frequency, This Results the breakdown of Large minerals Crystals into tinny
+											Nano Mineral particals & disabled them to flush along with water
+											*Ca(Hco3)2 < IMPULSE> Co2 + H2O * = Calcium carbonate converts into
+												Bi-carbonate.
+												( Non soluble partcals covert into soluble particals)
+												This positively charged ions in water now Results Scale free,Non
+												corrosive and Best solvent Water.
+												This miraculous physical changes in water possible only due to our New
+												Advanced <b>capacitance impulse technology 4 stage model</b></p>
 
 
 										<br />
@@ -300,12 +321,14 @@ This miraculous physical changes in water possible only due to our New Advanced 
 									<!--end item-->
 
 									<div class="col-md-6 ">
-										
-										<div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom"> 
-					<video width="100%" height="400" src="images/sliders/Sudarshan HD.mp4" type="video/mp4" frameborder="0" controls="" ></video>
-					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
-                </div>
-										
+
+										<div style="margin: 0% 0px 0px;"
+											class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
+											<video width="100%" height="400" src="images/sliders/Sudarshan HD.mp4"
+												type="video/mp4" frameborder="0" controls=""></video>
+											<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
+										</div>
+
 									</div>
 									<!--end item-->
 
@@ -321,103 +344,124 @@ This miraculous physical changes in water possible only due to our New Advanced 
 						</div>
 						<div class="col-md-7">
 							<h4 class="text-dark font-weight-4 raleway">
-								<h3 class="uppercase font-weight-6">We are 1<sup>st</sup> choice because our technology have following qualities</h3>
+								<h3 class="uppercase font-weight-6">We are 1<sup>st</sup> choice because our technology
+									have following qualities</h3>
 								<br>
 								<div class="col-md-6">
-								<p>1. 24v Operational.</p>
-                                <p>2. Signal Strength:2 Feet</p>
-                                <p>3. Wattage:7.5 Watts</p>
-                                <p>4. Zero maintenance,20 years life</p>
-                                <p>5. Ripple Filter Added For Clean Signal</p>
-                                <p>6. 10 Programs</p>
-								<p>7. Output Coil Length: Upto 4 Meters</p>
-                                <p>8. 100% Clean Impulse Signal</p>
+									<p>1. 24v Operational.</p>
+									<p>2. Signal Strength:2 Feet</p>
+									<p>3. Wattage:7.5 Watts</p>
+									<p>4. Zero maintenance,20 years life</p>
+									<p>5. Ripple Filter Added For Clean Signal</p>
+									<p>6. 10 Programs</p>
+									<p>7. Output Coil Length: Upto 4 Meters</p>
+									<p>8. 100% Clean Impulse Signal</p>
 								</div>
 								<div class="col-md-6">
-                                <p>9. 10 Impulse Type</p>
-                                <p>10. Max Pipe Diameter:6" to 20"</p>
-                                <p>11. Frequency Range: 3-32 khz(10 Types)</p>
-                                <p>12. ESD Protection From Lightening</p>
-                                <p>13. Power Control Circuit Added</p>
-								<p>14. 24V SMPS Works From 100V-240V</p>
-								<p>15. Used in Agriculture & Small Industries</p>
-								<p>16. Water remains treated for 5 to 7 days</p>
-	</div>
+									<p>9. 10 Impulse Type</p>
+									<p>10. Max Pipe Diameter:6" to 20"</p>
+									<p>11. Frequency Range: 3-32 khz(10 Types)</p>
+									<p>12. ESD Protection From Lightening</p>
+									<p>13. Power Control Circuit Added</p>
+									<p>14. 24V SMPS Works From 100V-240V</p>
+									<p>15. Used in Agriculture & Small Industries</p>
+									<p>16. Water remains treated for 5 to 7 days</p>
+								</div>
 							</h4>
 						</div>
 
-                    </div>
+					</div>
 					<section class="sec-padding">
-							<div class="container">
-								<div class="row">
-									<div class="col-md-6">
-										<h3 class="uppercase font-weight-6">WHY SUDARSHAN??</h3>
-
-										<br />
-										<p>1. Long experience over 10years</p>
-                                        <p>2. We use Best and standard quality materials, as device has 20years Life!
-
-
-</p>
-<p>3. we surely give Money back guarantee if NO result found, costumers satisfaction is our priority.</p>
-<p>4. We have all Range, size Models as per our clients Requirements & Budget.</p>
-<p>5.Our products are of Best colours, Design, & packing Quality,
-( just fit & forget)</p>
-<p>6. all over the world 🌍 we are most affordable price wise in impulse technology and Best in performance,Quality & Design!</p>
-<p>7. our impulse technology have DOUBLE EXCITATION strong frequency wave flow for excellent performance shown in GIF</p>
-
-										<br />
-										<br />
-
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+									<h3 class="uppercase font-weight-7 col-md-9 col-centered text-center">WHY
+										SUDARSHAN??</h3>
+									<br>
+									<div class="line" style="padding: 0 200px;">
+										<ol>
+											<li> Long experience over 10years</li>
+											<li>We use Best and standard quality materials, as device has 20years Life!
+											</li>
+											<li> we surely give Money back guarantee if NO result found, costumers
+												satisfaction is our priority.</li>
+											<li> We have all Range, size Models as per our clients Requirements &
+												Budget.</li>
+											<li>Our products are of Best colours, Design, & packing Quality,
+												( just fit & forget)</li>
+											<li> all over the world 🌍 we are most affordable price wise in impulse
+												technology and Best in performance,Quality & Design!</li>
+											<li> our impulse technology have DOUBLE EXCITATION strong frequency wave
+												flow for excellent performance shown in GIF</li>
+										</ol>
 									</div>
-									<!--end item-->
-
-									<div class="col-md-6 ">
-										
-										<div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom"> 
-					<video width="100%" height="300" src="images/sliders/video.MP4" type="video/mp4" frameborder="0" controls="" ></video>
-					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
-                </div>
-										
-									</div>
-									<!--end item-->
-
+									<br>
+									<br>
 								</div>
+								<!--end item-->
+								<div class="row">
+									<div class="col-md-6 margin-bottom  col-centered">
+
+										<div style="margin: 0% 0px 0px;"
+											class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
+											<video width="100%" height="200" src="images/sliders/video.MP4"
+												type="video/mp4" frameborder="0" controls=""></video>
+
+										</div>
+									</div>
+								</div>
+								<!--end item-->
+
 							</div>
-						</section>
-                    <div class="row">
-					<div class="col-md-5" style="margin-top:86px;">
-					<img src="images/make-in-india.png" class="img-responsive">
+						</div>
+					</section>
+					<div class="row">
+						<div class="col-md-5" style="margin-top:86px;">
+							<img src="images/make-in-india.png" class="img-responsive">
 						</div>
 						<div class="col-md-7">
 							<h4 class="text-dark font-weight-4 raleway">
 								<h3 class="uppercase font-weight-6">WELCOME TO SUDARSHAN TECHNOLOGY</h3>
 								<br>
-								<p>Shree Sudarshan uses a series of controlled complex modulating high frequency waveform that neutralises the bonding ability of minerals that are contained in our water. This field effectively agitates different size molecules likely to form scale & to break the bonds between molecules & the water. This results the break down of large mineral crystals into tiny mineral particles & then prevent them from reacting with other minerals or bonding to any surface to from scales. The process is so effective that existing scales are progressively broken down & flushed away in due course of time. The conditioned gaseous ions results in non-corrosive & better tasting water. It also helps the plants to grow well & healthy.</p>
-                                <p>However it is said that output of this machines depends on the power of magnetic field imposed, velocity of water flow, magnetic force, number of particles with negative and positive charge in water and angle between particle velocity and applied magnetic field.Apart from that hardness of water/impurities present in water volume and range of mineral ions found in water also effects, if the incoming water quality matches the requirements of this device then it will show the acceptable as well as miracle results.</p>
-                                
+								<p>Shree Sudarshan uses a series of controlled complex modulating high frequency
+									waveform that neutralises the bonding ability of minerals that are contained in our
+									water. This field effectively agitates different size molecules likely to form scale
+									& to break the bonds between molecules & the water. This results the break down of
+									large mineral crystals into tiny mineral particles & then prevent them from reacting
+									with other minerals or bonding to any surface to from scales. The process is so
+									effective that existing scales are progressively broken down & flushed away in due
+									course of time. The conditioned gaseous ions results in non-corrosive & better
+									tasting water. It also helps the plants to grow well & healthy.</p>
+								<p>However it is said that output of this machines depends on the power of magnetic
+									field imposed, velocity of water flow, magnetic force, number of particles with
+									negative and positive charge in water and angle between particle velocity and
+									applied magnetic field.Apart from that hardness of water/impurities present in water
+									volume and range of mineral ions found in water also effects, if the incoming water
+									quality matches the requirements of this device then it will show the acceptable as
+									well as miracle results.</p>
+
 							</h4>
 						</div>
-                    
-                    </div>
+
+					</div>
 			</section>
 			<!-- end section -->
 			<div class="divider-line solid light"></div>
-		
+
 
 			<!-- end section -->
 			<div class="divider-line solid light"></div>
-			
 
-			
+
+
 			<div class="clearfix"></div>
 			<!-- end section -->
-			
+
 			<!--end section-->
 
-    
-    
-            <?php include"includes/footer.php";?>
+
+
+			<?php include"includes/footer.php";?>
 			<div class="clearfix"></div>
 			<!-- end section -->
 
@@ -447,8 +491,7 @@ This miraculous physical changes in water possible only due to our New Advanced 
 			qstrings: {
 				id: '133294431@N08'
 			},
-			itemTemplate:
-				'<li>' +
+			itemTemplate: '<li>' +
 				'<a href="{{image_b}}"><img src="{{image_s}}" alt="{{title}}" /></a>' +
 				'</li>'
 		});
@@ -460,7 +503,6 @@ This miraculous physical changes in water possible only due to our New Advanced 
 				$('.loader-live').fadeOut();
 			}, 1000);
 		})
-
 	</script>
 	<script src="js/functions/functions.js"></script>
 
@@ -470,9 +512,9 @@ This miraculous physical changes in water possible only due to our New Advanced 
 			href="https://api.whatsapp.com/send?phone=917600442211&amp;text=Excellent water technology is a leading Water Solution Company "><img
 				src="images/whatsapp-icon.png" style="width:50px;"></a><a>
 		</a></div>-->
-		
-		
-		<!--<div class="cal">
+
+
+	<!--<div class="cal">
         	 <a style="color: #fff;" href="https://www.youtube.com/watch?v=nA77R9WJmkQ&feature=youtu.be" target="_blank"><i class="fa fa-youtube"></i></a>
         </div>
         <div class="eml">
@@ -487,31 +529,37 @@ This miraculous physical changes in water possible only due to our New Advanced 
         <div class="phone">
         	 <a style="color: #fff;" href="tel:+917600442211" target="_blank"><i class="fa fa-phone"></i></a>
         </div>-->
-        <!-- <div class="download">
+	<!-- <div class="download">
         	 <a style="color: #fff;" href="download-catalogue.html"><img src="images/download-catalogue.png"></a>
         </div>
 	 -->
-<!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'AW-10885534940');
-</script>
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-10885534940');
+	</script>
 
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85600731-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85600731-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'UA-85600731-1');
-</script>
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-85600731-1');
+	</script>
 
 </body>
 

@@ -259,37 +259,33 @@
             <section>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/1.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-centjpger ">Chemicals</h4> -->
 						</div>
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/2.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Cement</h4> -->
 						</div>
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/3.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Rubber</h4> -->
 						</div>
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/4.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Automobile</h4> -->
 						</div>
-						<!--end item-->
-					</div>
-					<div class="row sec-padding">
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/5.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Injection molding</h4> -->
 						</div>
-						<div class="col-md-3 col-sm-96 col-xs-12 margin-bottom">
+						<div class="col-md-4 col-sm-96 col-xs-12 margin-bottom">
 							<img src="images/industrial/6.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Printing</h4> -->
 						</div>
-						
-						
 						<!--end item-->
 					</div>
+					
 				
 
 				</div>
