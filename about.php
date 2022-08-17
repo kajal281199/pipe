@@ -321,24 +321,28 @@ This miraculous physical changes in water possible only due to our New Advanced 
 						</div>
 						<div class="col-md-7">
 							<h4 class="text-dark font-weight-4 raleway">
-								<h3 class="uppercase font-weight-6">We are 1st choice because our technology have following qualities</h3>
+								<h3 class="uppercase font-weight-6">We are 1<sup>st</sup> choice because our technology have following qualities</h3>
 								<br>
+								<div class="col-md-6">
 								<p>1. 24v Operational.</p>
                                 <p>2. Signal Strength:2 Feet</p>
                                 <p>3. Wattage:7.5 Watts</p>
                                 <p>4. Zero maintenance,20 years life</p>
                                 <p>5. Ripple Filter Added For Clean Signal</p>
                                 <p>6. 10 Programs</p>
-                                <p>7. Output Coil Length: Upto 4 Meters</p>
+								<p>7. Output Coil Length: Upto 4 Meters</p>
                                 <p>8. 100% Clean Impulse Signal</p>
+								</div>
+								<div class="col-md-6">
                                 <p>9. 10 Impulse Type</p>
                                 <p>10. Max Pipe Diameter:6" to 20"</p>
                                 <p>11. Frequency Range: 3-32 khz(10 Types)</p>
                                 <p>12. ESD Protection From Lightening</p>
-                                <p>Power Control Circuit Added</p>
-								<p>24V SMPS Works From 100V-240V</p>
-								<p>Used in Agriculture & Small Industries</p>
-								<p>Water remains treated for 5 to 7 days</p>
+                                <p>13. Power Control Circuit Added</p>
+								<p>14. 24V SMPS Works From 100V-240V</p>
+								<p>15. Used in Agriculture & Small Industries</p>
+								<p>16. Water remains treated for 5 to 7 days</p>
+	</div>
 							</h4>
 						</div>
 
