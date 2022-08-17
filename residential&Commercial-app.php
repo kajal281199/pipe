@@ -267,27 +267,27 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re1.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re1.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "> </h4>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re2.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re2.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "> </h4>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re3.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re3.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center ">  </h4>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re4.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re4.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center ">  </h4>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re5.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re5.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re6.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re6.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "> </h4>
 						</div>
 						<!--end item-->
@@ -296,7 +296,7 @@
 						
 						
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/commercial/re7.JPEG" alt="" class="img-responsive" />
+							<img src="images/commercial/re7.jpeg" alt="" class="img-responsive" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
 						
