@@ -244,10 +244,12 @@
 				<div class="container">
 					<div class="row sec-padding">
 						<div class="col-md-9 col-centered text-center">
+						<div class="col-md-12 col-centered">
 							<p>"Water" the inevitable coolant in the industries,
 becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
 
 </p>
+						</div>
 						</div>
 					</div>
 				</div>

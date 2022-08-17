@@ -245,6 +245,7 @@
 				<div class="container">
 					<div class="row sec-padding">
 						<div class="col-md-9 col-centered text-center">
+						<div class="col-md-12 col-centered">
 							<p>Hard water is a Big issue in Residential sectors, people are fed up by scaling problems and irritating reactions of Hard water, But we have the permanent solution of your all worries for Life long....! With the use of Shree Sudashan Water Softner all the appliance, tools, floors, tiles, bathroom fittings, shower, washing machine, pressure pump , R.O. remain scale free and Removes old deposited scale from all surfaces including pipeline.</p>
                             <p>While washing clothes, less water and less washing powder or soap required for better results.
 
@@ -256,6 +257,7 @@
 <p>Our Commercial devices are efficiently designed to treat pipe diameters from 1/2" to 8" for small and large commercial buildings and complexes. We provide all necessary knowledge and training for such applications and fulfill every requirements of clients all over india.
 
 </p>
+						</div>
 						</div>
 					</div>
 				</div>
