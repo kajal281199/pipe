@@ -263,15 +263,14 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-9 col-centered text-center">
-							<h4 class="text-dark font-weight-4 raleway">
-								<h3 class="uppercase font-weight-6">We are one of the few Manufacture companies in india</h3>
+							
+								
+								<p><b>Shree Sudarshan Brand</b> in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!</p>
+                                <p> <b>Now </b> per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
+<b>" Capacitance IMPULSE technology" </b>This technology is uniquely different from old, Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse frequency...highly advance,microcontroller based,
+systematically programmed by computer software.</p>
 
-								<p class="resp-txt">who having 10 year experience to make water conditioner for all sectors like- Agriculture, Residence ,and industry , Water described as "hard" means it is high in dissolved minerals, specifically calcium and magnesium. Hard water is not a health risk, but a nuisance because of its tendency to cause mineral buildup in water pipes and heating systems, and its poor soap and/or detergent performance when compared with soft water.</p>
-                                <p class="resp-txt">Water is a good solvent and picks up impurities easily. As water moves through soil and rock, it dissolves minerals and holds them in solution. Calcium and magnesium dissolved in water are the two most common minerals that make water "hard." The degree of hardness becomes greater as the calcium and magnesium content increases.
-
-</p>
-
-							</h4>
+							
 						</div>
 
 						<div class="col-divider-margin-6"></div>
@@ -283,20 +282,16 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-6">
-										<h3 class="uppercase font-weight-6">WATER CONDITIONERS VS WATER SOFTENERS :-</h3>
+										
 
 										<br />
-										<p>This technology is uniquely different from old, Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse frequency...highly advance,microcontroller based,
-systematically programmed by computer software.</p>
-                                        <p>Capacitance Impulse technology releases...programmed complexed Modulating High Impulse frequency through cable coil winding on pipes, We use cable wire for winding in place of copper Band, because our experts says wide copper Band spreads the frequency,while cable wire keep the frequency intact and precise! Our 4 stage patented model multiply the frequency effect on Hard water minerals and make water more soluble indeed.
-
-
-</p>
-<p> <b>The capacitance Impulse frequency </b> charge & prevent different size of high minerals water molecules likely to Form Scale, same time it Breaks the Hydrogen Bond  between opposite water molecules with high frequency, This Results the breakdown of Large minerals Crystals into tinny Nano Mineral particals & disabled them to  flush along with water 
+										<p> Capacitance Impulse technology releases...programmed complexed Modulating High Impulse frequency through cable coil winding on pipes, We use cable wire for winding in place of copper Band, because our experts says wide copper Band spreads the frequency,while cable wire keep the frequency intact and precise! Our 4 stage patented model multiply the frequency effect on Hard water minerals and make water more soluble indeed.</p>
+<p> <b> The capacitance Impulse frequency </b>Efficiently charge & prevent different size of high minerals water molecules likely to Form Scale, same time it Breaks the Hydrogen Bond  between opposite water molecules with high frequency, This Results the breakdown of Large minerals Crystals into tinny Nano Mineral particals & disabled them to  flush along with water 
 *Ca(Hco3)2 < IMPULSE > Co2 + H2O * = Calcium carbonate converts into Bi-carbonate. 
 ( Non soluble partcals covert into soluble particals) 
-  This positively charged ions in water now Results Scale free,Non corrosive and Best solvent Water.</p>
-<p>This miraculous physical changes in water possible only due to our New Advanced<b> capacitance impulse technology 4 stage model</b></p>
+  This positively charged ions in water now Results Scale free,Non corrosive and Best solvent Water.
+This miraculous physical changes in water possible only due to our New Advanced <b>capacitance impulse technology 4 stage model</b></p>
+
 
 										<br />
 										<br />
