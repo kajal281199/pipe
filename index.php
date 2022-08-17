@@ -429,7 +429,11 @@ include('admin/config.php');
 
                     <!--end title-->
 
-                 <p>Shree Sudarshan uses a series of controlled complex modulating high frequency waveform that ineffective the bonding ability of minerals that are contained in our water. This field effectively control & prevent different size molecules likely to form scale & to break the bonds between molecules & the water. This results the break down of large mineral crystals into tiny mineral particles & then prevent them from reacting with other minerals or bonding to any surface to from scales. The process is so effective that existing scales are ....</p>
+                    <p >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
+This capacitance impulse frequency effectively change & prevent different size of water molecules likely to form scale, impulse frequency same time breaks the  Hydrogen Bond between opposite water molecules, this Results breakdown of large minerals crystals into tiny minerals particles and flush them away along with water in due course of time...
+
+
+</p>
 
                     <!-- end item-->
                     <br />
