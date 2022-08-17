@@ -30,7 +30,7 @@
                 <!-- <li><a href="index.html"><i class="fa fa-angle-right"></i> Home</a></li> -->
                 <li><a href="about.php"><i class="fa fa-angle-right"></i> About Us</a></li>
                 <li><a href="howitworks.php"><i class="fa fa-angle-right"></i> How It Work</a></li>
-                <li><a href="product.php"><i class="fa fa-angle-right"></i>  Products</a></li>
+                <li><a href="product_g.php"><i class="fa fa-angle-right"></i>  Products</a></li>
                 <li><a href="contact.php"><i class="fa fa-angle-right"></i> Contact</a></li>
                 <!-- <li><a href="blog.html"><i class="fa fa-angle-right"></i> Blog</a></li> -->
             </ul>
