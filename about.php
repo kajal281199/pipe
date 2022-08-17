@@ -404,7 +404,7 @@
 
 										<div style="margin: 0% 0px 0px;"
 											class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
-											<video width="100%" height="200" src="images/sliders/video.MP4"
+											<video width="100%" height="200" src="images/sliders/video.mp4"
 												type="video/mp4" frameborder="0" controls=""></video>
 
 										</div>
