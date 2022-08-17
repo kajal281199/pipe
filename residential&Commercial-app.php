@@ -452,9 +452,9 @@
         <div class="phone">
         	 <a style="color: #fff;" href="tel:+917600442211" target="_blank"><i class="fa fa-phone"></i></a>
         </div>-->
-        <div class="download">
+        <!-- <div class="download">
         	 <a style="color: #fff;" href="download-catalogue.html"><img src="images/download-catalogue.png"></a>
-        </div>
+        </div> -->
     
 		
 	<!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->

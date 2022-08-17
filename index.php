@@ -211,6 +211,11 @@ include('admin/config.php');
             z-index: 9999;
             right: 0;
         }
+
+        @media only screen and (max-width: 991px)
+.pdf{
+    margin-bottom: 30px;
+}
         
     </style>
     
@@ -919,15 +924,15 @@ while($arr=mysqli_fetch_array($sql)){
             <div class="row">
             
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; ">
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/english-brochure.pdf"  target="_blank"><i
+                <a class="btn btn-dark-3 btn-medium uppercase pdf" href="images/sliders/english-brochure.pdf"  target="_blank"><i
                         class="fa fa-download"></i>&nbsp;&nbsp;ENGLISH</a></div>
-                <div class="col-md-4 col-sm-6 col-xs-12 margin-bottomr" style="display:flex;justify-content: center;">
+                <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/hindi-brochure.pdf" target="_blank"><i
+                <a class="btn btn-dark-3 btn-medium uppercase pdf" href="images/sliders/hindi-brochure.pdf" target="_blank"><i
                         class="fa fa-download"></i>&nbsp;&nbsp;HINDI</a></div>
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase" href="images/sliders/gujarati-brochure.pdf"target="_blank"><i
+                <a class="btn btn-dark-3 btn-medium uppercase pdf" href="images/sliders/gujarati-brochure.pdf"target="_blank"><i
                         class="fa fa-download"></i>&nbsp;&nbsp;GUJRATI</a></div>
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 
@@ -1194,10 +1199,10 @@ while($arr=mysqli_fetch_array($sql)){
         <div class="phone">
         	 <a style="color: #fff;" href="tel:+917600442211" target="_blank"><i class="fa fa-phone"></i></a>
         </div>-->
-        <div class="download">
+        <!-- <div class="download">
         	 <a style="color: #fff;" href="download-catalogue.html"><img src="images/download-catalogue.png"></a>
         </div>
-    
+     -->
     
    <!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>
