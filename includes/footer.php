@@ -10,7 +10,8 @@
 
                 <div class="footer-logo"><img src="images/logo/wlogo.png" alt="" class="img-responsive" /></div>
 
-                <p>Excellent water technology is a leading Water Solution Company and provide solutions for hard water treatment. Excellent water technology delivers customer value by improving performance and product quality and by reducing operating costs and extending equipment life in a broad range of products and services.
+                <p>Sudarshan water treatment technology is leading Mfr. Company in India having its own developed capacitance IMPULSE technology with 4 stage water softening process units for guaranteed solution of Hard water.<br>
+<b>Get ready to Live scale free Life</b>
 
                 </p>
             </div>

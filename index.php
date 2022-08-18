@@ -262,7 +262,7 @@ include('admin/config.php');
 
                     <div class="mySlides fade">
                         <div class="numbertext">1 / 4</div>
-                        <img src="images/sliders/slide2.jpg" style="width:100%" class="desktop-slide">
+                        <img src="images/sliders/chakra.jpeg" style="width:100%; height: 400px;" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider1.jpg" class="mobile-slide">
                         
                     </div>
@@ -270,21 +270,21 @@ include('admin/config.php');
 
                     <div class="mySlides fade">
                         <div class="numbertext">2 / 4</div>
-                        <img src="images/sliders/slide1.jpg" style="width:100%" class="desktop-slide">
+                        <img src="images/sliders/slide1.jpg" style="width:100%; height: 400px;" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider2.jpg" class="mobile-slide">
                        
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">3 / 4</div>
-                        <img src="images/sliders/slide3.jpg" style="width:100%" class="desktop-slide">
+                        <img src="images/sliders/slide3.jpg" style="width:100%; height: 400px;" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider3.jpg" class="mobile-slide">
                         
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">4 / 4</div>
-                        <img src="images/sliders/slide4.jpg" style="width:100%" class="desktop-slide">
+                        <img src="images/sliders/slide4.jpg" style="width:100%; height: 400px;" class="desktop-slide">
                         <img src="images/sliders/phone%20slider/slider6.jpg" class="mobile-slide">
                         
                     </div>
