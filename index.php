@@ -755,7 +755,7 @@ while($arr=mysqli_fetch_array($sql)){
 
                 <div class="col-md-6 text-center ">
 
-                    <img src="images/img/homepage/IMG1.JPEG" class="img-responsive">
+                    <img src="images/img/homepage/dif1.JPEG" class="img-responsive">
 
                     <h5 class="uppercase text-white raleway">
 
@@ -771,7 +771,7 @@ while($arr=mysqli_fetch_array($sql)){
 
                 <div class="col-md-6 text-center pt-m-1">
 
-                    <img src="images/img/homepage/IMG.JPEG" class="img-responsive w-100">
+                    <img src="images/img/homepage/dif.JPEG" class="img-responsive w-100">
 
                     <h5 class="uppercase text-white raleway">Water Softeners Vs. Sudarshan Anti Scale System </h5>
 
