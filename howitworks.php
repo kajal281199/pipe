@@ -243,7 +243,7 @@
         
         <!-- <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div> -->
         <div class="col-md-12 margin-bottom">
-          <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4>
+          <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
           <div class="col-md-9 col-centered">
           <p  >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
 This capacitance impulse frequency effectively change & prevent different size of water molecules likely to form scale, impulse frequency same time breaks the  Hydrogen Bond between opposite water molecules, this Results breakdown of large minerals crystals into tiny minerals particles and flush them away along with water in due course of time.

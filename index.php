@@ -482,7 +482,7 @@ This capacitance impulse frequency effectively change & prevent different size o
                
 
                 <div class="col-md-4 col-sm-6 col-xs-12" style="margin-top:75px;"> 
-					<img src="images/sliders/slide5.jpg" alt="" class="img-responsive" />
+					<img src="images/sliders/agri.JPEG" alt="" class="img-responsive" />
                 </div>
 
                 <div class="col-md-8 col-sm-6 col-xs-12">
@@ -755,7 +755,7 @@ while($arr=mysqli_fetch_array($sql)){
 
                 <div class="col-md-6 text-center ">
 
-                    <img src="images/img/homepage/diff1.jpg" class="img-responsive">
+                    <img src="images/img/homepage/IMG1.JPEG" class="img-responsive">
 
                     <h5 class="uppercase text-white raleway">
 
@@ -771,7 +771,7 @@ while($arr=mysqli_fetch_array($sql)){
 
                 <div class="col-md-6 text-center pt-m-1">
 
-                    <img src="images/img/homepage/diff2.jpg" class="img-responsive w-100">
+                    <img src="images/img/homepage/IMG.JPEG" class="img-responsive w-100">
 
                     <h5 class="uppercase text-white raleway">Water Softeners Vs. Sudarshan Anti Scale System </h5>
 
