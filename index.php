@@ -266,6 +266,7 @@ include('admin/config.php');
                         <img src="images/sliders/phone%20slider/slider1.jpg" class="mobile-slide">
                         
                     </div>
+                    
 
                     <div class="mySlides fade">
                         <div class="numbertext">2 / 4</div>
