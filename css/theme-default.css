@@ -97,7 +97,7 @@ h3.nomargin {
 	margin-bottom: 0px;
 }
 h3.less-mar-1 {
-	margin-bottom: 3px;
+	margin-bottom: 28px;
 }
 h3.less-mar-2 {
 	margin-bottom: 5px;
@@ -160,7 +160,7 @@ h6.nomargin {
 	margin-bottom: 0px;
 }
 h6.less-mar-1 {
-	margin-bottom: 3px;
+	margin-bottom: 28px;
 }
 h6.less-mar-2 {
 	margin-bottom: 5px;
@@ -185,7 +185,7 @@ ul {
 /*=============== Text Colors ============= */
 
 .text-white {
-	color: #fff;
+	color: #000;
 }
 .text-dark {
 	color: #101010;
@@ -2206,7 +2206,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
  .fo-map {
 	width: 100%;
 	float:left;
-	background:url(../images/fo-map.png) left 42px  no-repeat;
+	
 }
  .fo-map {
 	background-size:100%;
@@ -2349,7 +2349,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
     background-color: #101010;
 }
 .fo-title-bottom-line.white {
-    background-color: #fff;
+    background-color: #000;
 }
 .fo-title-bottom-line.gyellow {
     background-color: #136290 !important;
@@ -2455,7 +2455,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
  ------------------------------ */
  
 .footer-title {
-	color: #fff;
+	color: black;
 	float: left;
 }
 .footer-title-bottomstrip {
@@ -2466,7 +2466,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
 	float: left;
 	display: block;
 	margin-bottom: 40px;
-	background-color: #fff;
+	background-color: #000;
 }
 .footer-title-bottomstrip.gyellow {
 	background-color: #136290 !important;
@@ -2830,7 +2830,7 @@ ul.footer-flickr {
 /* Section Paddings
  ------------------------------ */
 .sec-padding {
-	padding: 60px 0 60px 0;
+	padding: 44px 0 22px 0;
 }
 .sec-more-padding-1 {
 	padding: 120px 0 120px 0;

@@ -212,10 +212,132 @@ include('admin/config.php');
             right: 0;
         }
 
-        @media only screen and (max-width: 991px)
+        /* @media only screen and (max-width: 991px)
 .pdf{
     margin-bottom: 30px;
+} */
+
+/*Eliminates padding, centers the thumbnail */
+
+
+/* Styles the thumbnail */
+
+a.lightbox img {
+height: 150px;
+border: 3px solid white;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+margin: 94px 20px 20px 20px;
 }
+
+/* Styles the lightbox, removes it from sight and adds the fade-in transition */
+
+.lightbox-target {
+position: fixed;
+top: -100%;
+width: 100%;
+background: rgba(0,0,0,.7);
+width: 100%;
+opacity: 0;
+-webkit-transition: opacity .5s ease-in-out;
+-moz-transition: opacity .5s ease-in-out;
+-o-transition: opacity .5s ease-in-out;
+transition: opacity .5s ease-in-out;
+overflow: hidden;
+ 
+}
+
+/* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
+
+.lightbox-target img {
+margin: auto;
+position: absolute;
+top: 0;
+left:0;
+right:0;
+bottom: 0;
+max-height: 0%;
+max-width: 0%;
+border: 3px solid white;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+box-sizing: border-box;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+  
+}
+
+/* Styles the close link, adds the slide down transition */
+
+.lightbox .lightbox-close {
+display: block;
+width:50px;
+height:50px;
+box-sizing: border-box;
+background: white;
+color: black;
+text-decoration: none;
+position: absolute;
+top: -80px;
+right: 0;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+.lightbox .lightbox-close:before {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: black;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(45deg);
+-moz-transform:rotate(45deg);
+-o-transform:rotate(45deg);
+transform:rotate(45deg);
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+.lightbox .lightbox-close:after {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: black;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(-45deg);
+-moz-transform:rotate(-45deg);
+-o-transform:rotate(-45deg);
+transform:rotate(-45deg);
+}
+
+/* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
+
+.lightbox-target:target {
+opacity: 1;
+top: 0;
+bottom: 0;
+  overflow:scroll;
+}
+
+.lightbox-target:target img {
+max-height: 100%;
+max-width: 100%;
+}
+
+.lightbox-target:target a.lightbox-close {
+top: 0;
+}
+
         
     </style>
     
@@ -251,41 +373,53 @@ include('admin/config.php');
     <div class="clearfix"></div>
 
     <!-- START REVOLUTION SLIDER 5.0 -->
-
+    
     <div class="container-fluid">
 
         <div class="row">
-
+        <div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12 col-sm-12 col-xs-12 clearfix nopadding">
+							<div class="header-inner less-height">
+								<div class="overlay">
+									<div class="text text-center">
+										<h3 class="uppercase text-white less-mar-1 title">Total solution of scale & Hard water..</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
             <div class="col-md-12">
-
+           
                 <div class="slideshow-container">
 
                     <div class="mySlides fade">
                         <div class="numbertext">1 / 4</div>
-                        <img src="images/sliders/chakra.jpeg" style="width:100%; height: 400px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slider1.jpg" class="mobile-slide">
+                        <img src="images/sliders/chakra.jpeg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/chakra.jpeg" class="mobile-slide">
                         
                     </div>
                     
 
                     <div class="mySlides fade">
                         <div class="numbertext">2 / 4</div>
-                        <img src="images/sliders/slide1.jpg" style="width:100%; height: 400px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slider2.jpg" class="mobile-slide">
+                        <img src="images/sliders/slide1.jpg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/slide1.jpg" class="mobile-slide">
                        
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">3 / 4</div>
-                        <img src="images/sliders/slide3.jpg" style="width:100%; height: 400px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slider3.jpg" class="mobile-slide">
+                        <img src="images/sliders/slide3.jpg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/slide3.jpg" class="mobile-slide">
                         
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">4 / 4</div>
-                        <img src="images/sliders/slide4.jpg" style="width:100%; height: 400px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slider6.jpg" class="mobile-slide">
+                        <img src="images/sliders/slide4.jpg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/slide4.jpg" class="mobile-slide">
                         
                     </div>
 
@@ -554,16 +688,28 @@ $sql=mysqli_query($conn,"select * from product_gallery limit 4");
 
 while($arr=mysqli_fetch_array($sql)){
 ?>
-                <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
+           
+                <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom" >
+                <a class="lightbox" href="#<?php echo $arr['name'] ?>">
+            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; weight:150px;" />
+            </a> 
+            <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
                     <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
+                    </div>
+                    <a class="lightbox-close" href="#"></a>
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
                 </div>
+
                 
                 <?php }  ?>
                 
                 <!--end item-->
             </div>
             
+
+            
+
+
             
     </section>
     <section class="sec-padding">
@@ -579,7 +725,7 @@ while($arr=mysqli_fetch_array($sql)){
     while($arr=mysqli_fetch_array($sql)){
     ?>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
+							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; weight:150px;" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
 						

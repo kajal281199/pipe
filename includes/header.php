@@ -45,6 +45,7 @@
                                             
 
                                             <li> <a href="Agriculture-app.php">Agriculture Applications</a> </li>
+                                            <li> <a href="otheraplication.php">Other Applications</a> </li>
 
                                         </ul>
 

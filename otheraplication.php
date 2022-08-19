@@ -7,7 +7,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>How it work</title>
+<title>Other Application</title>
 <meta name="keywords" content="" />
 <meta name="description" content="">
 <meta name="author" content="">
@@ -227,7 +227,7 @@
             <div class="header-inner less-height">
               <div class="overlay">
                 <div class="text text-center">
-                  <h3 class="uppercase text-white less-mar-1 title">HOW SUDARSHAN CAPACITANCE IMPULSE TECHNOLOGY WORKS</h3>               
+                  <h3 class="uppercase text-white less-mar-1 title">Other Applications</h3>               
                 </div>
               </div>
             </div>
@@ -237,30 +237,99 @@
     </section>
     <div class=" clearfix"></div>
     <!--end header section -->
-  <section class="sec-bpadding-1 sec-padding">
+    <section class="sec-bpadding-1 sec-padding">
     <div class="container">
       <div class="row">
-        
+      <div class="col-sm-12 nopadding">
+
+<div class="sec-title-container text-left pb-0">
+<div class="text text-center">
+    
+    <h3 class="uppercase font-weight-7 less-mar-1">Impulse Technology for Poultry and Animal Trading:
+
+    </h3>
+    </h6>
+   
+    <div class="tp-title-line-1 align-left"></div>
+
+</div>
+
+</div>
         <!-- <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div> -->
         <div class="col-md-12 margin-bottom">
           <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
           <div class="col-md-9 col-centered">
-          <p  >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
-This capacitance impulse frequency effectively change & prevent different size of water molecules likely to form scale, impulse frequency same time breaks the  Hydrogen Bond between opposite water molecules, this Results breakdown of large minerals crystals into tiny minerals particles and flush them away along with water in due course of time.
-Water treated with New capacitance impulse technology keeps liquid ions, water molecules Bond free for next 6 to 7 days and make water scale free, Non- corrosive & Best solvent.
+          <p>After long observation and research by the scientists of impulse technology companies all over the world it is noted that using, treated water for drinking purpose of chicks and animals results:</p>
+          <p><i class="fa fa-angle-right"></i>   Increase in the process of bone formation.</p>
+          <p><i class="fa fa-angle-right"></i>   Improves morphology of blood.</p>
+          <p><i class="fa fa-angle-right"></i>   Helpful in the growth and development of some bones.</p>
+          <p><i class="fa fa-angle-right"></i>   Quality and quantity of meat improves</p>
+          <p><i class="fa fa-angle-right"></i>   Reduction in death rates by 2-3 times also noted.</p>
+          <p><i class="fa fa-angle-right"></i>   Average weight gain increse by 5 - 7% with egg laying quality by 10%.</p>
 
-</p>
-<p>When the Sudarshan Devices are fitted on a pipeline, the water flowing through the pipeline is subject to the intense, focused,effective Impulse frequency,
-The strong impulse frequency affects the physical structure of the Minerals,thereby altering their shape and physical properties. There is No chemistry involved, only physics. The Minerals continue to remain in the water, But now..the altered physical state prevents the Minerals from exibiting hardness,thus the water become soft.</p>
 
           <br/>
         <!--end item-->
           </div>
       </div>
     </div>
+    
+
+    <!-- <div class="row sec-padding">
+      <div class="col-md-12 text-center chem-bg">
+          <img src="images/img/working-chemarea2.png">
+      </div>
+    </div> -->
+
     <div class="row">
-    <div class="col-md-6 margin-bottom  col-centered"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div>
+      <!-- <div class="col-md-12">
+          <p class="text-center">Kashyap Anti-scale system breaks their adhesive power and prevents their crystallization. As a result, the particles turn into a fine powder and washes away along the water. This is how Kashyap prevents the accumulation of new scales on surfaces as well as inside the pipes.</p>
+      </div> -->
     </div>
+  </section>
+  <section class="sec-bpadding-1 sec-padding">
+    <div class="container">
+      <div class="row">
+      <div class="col-sm-12 nopadding">
+
+<div class="sec-title-container text-left pb-0">
+<div class="text text-center">
+    
+    <h3 class="uppercase font-weight-7 less-mar-1">Impulse Technology for Concrete and Cement Industry:
+
+    </h3>
+    </h6>
+    <div class="text text-center">
+    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow"><b>ADVANTAGES :</b>
+    </h6>
+    </div>
+    <div class="tp-title-line-1 align-left"></div>
+
+</div>
+
+</div>
+        <!-- <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div> -->
+        <div class="col-md-12 margin-bottom">
+          <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
+          <div class="col-md-9 col-centered">
+          <p>1. It increse the efficiency of concrete.</p>
+          <p>2. Decrease in the volume of water become quite possible.</p>
+          <p>3. The most important advantage : it increases the compressive strength of cement up to 27%.</p>
+          <p>4. Concrete made in this way is more resistance against freezing  and more impermeable.</p>
+          <p>5. Decrease in rate of breakage and wastage up to 25%.</p>
+          <p>6. Decrease in water surface tension in magnetic water by 10% in comparison with ordunary water.</p>
+          <p>7. This device can be used and benefited any cement industry such as :</p>
+<p>a) Paver Block Mfrs.</p>
+<p>b) Cement Block Mfrs.</p>
+<p>c) Cement Roof,Tops ,Sheets Mrfs.</p>
+<p>d) Ready Mix Cement Plant and all types of Construction Industries who are using cement.</p>
+
+          <br/>
+        <!--end item-->
+          </div>
+      </div>
+    </div>
+    
 
     <!-- <div class="row sec-padding">
       <div class="col-md-12 text-center chem-bg">

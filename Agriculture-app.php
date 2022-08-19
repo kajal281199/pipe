@@ -14,7 +14,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="images/logo/favicon.png">
+	<link rel="shortcut icon" href="images/logo/wlogo.png">
 	<link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
 	<!-- Google fonts  -->

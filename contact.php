@@ -42,7 +42,7 @@ if(isset($_POST['Submit'])){
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="#">
+    <link rel="shortcut icon" href="images/logo/wlogo.png"href="#">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 

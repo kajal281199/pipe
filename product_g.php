@@ -25,7 +25,7 @@ include('admin/config.php');
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="#">
+    <link rel="shortcut icon" href="images/logo/wlogo.png">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
@@ -274,7 +274,7 @@ include('admin/config.php');
     while($arr=mysqli_fetch_array($sql)){
     ?>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
+							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; weight:150px;" />
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
 						

@@ -147,15 +147,15 @@ hr {
 .cbp .cbp-item{padding: 8px; height: 220px;}	
 .section-dark p, .section-dark address, .section-dark span
 {
-	color: #fff;
+	color: #000;
 }
 .footer-quick-links-4 li a
 {
-	color: #fff;
+	color: #000;
 }
 .section-dark
 {
-	background-color:#97bccf;
+	background-color:#136290;;
 }
 .bg-opacity-8
 {
