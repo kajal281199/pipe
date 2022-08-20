@@ -417,22 +417,22 @@ top:23%;
 
                     <div class="mySlides fade">
                         <div class="numbertext">2 / 4</div>
-                        <img src="images/sliders/slide1.jpg" style="width:100%; height: 550px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slide1.jpg" class="mobile-slide">
+                        <img src="images/sliders/indeximg.jpeg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/indeximg.jpeg" class="mobile-slide">
                        
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">3 / 4</div>
-                        <img src="images/sliders/slide3.jpg" style="width:100%; height: 550px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slide3.jpg" class="mobile-slide">
+                        <img src="images/sliders/agri.jpeg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/agri.jpeg" class="mobile-slide">
                         
                     </div>
                     
                     <div class="mySlides fade">
                         <div class="numbertext">4 / 4</div>
-                        <img src="images/sliders/slide4.jpg" style="width:100%; height: 550px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/slide4.jpg" class="mobile-slide">
+                        <img src="images/sliders/indeximg2.jpeg" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/indeximg2.jpeg" class="mobile-slide">
                         
                     </div>
 
@@ -629,8 +629,10 @@ This capacitance impulse frequency effectively change & prevent different size o
 
                
 
-                <div class="col-md-4 col-sm-6 col-xs-12" style="margin-top:75px;"> 
+                <div class="col-md-4 col-sm-6 col-xs-12" style="margin-top:-19px;"> 
 					<img src="images/sliders/agri.jpeg" alt="" class="img-responsive" />
+                    <h4 ><b>Capacitance Impulse 4 Stage Model</b> </h4>
+                    <p>(Design applied for patent)</p>
                 </div>
 
                 <div class="col-md-8 col-sm-6 col-xs-12">
