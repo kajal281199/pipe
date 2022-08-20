@@ -379,21 +379,21 @@
 										SUDARSHAN??</h3>
 									<br>
 									<div class="line" style="padding: 0 200px;">
-										<ol>
-											<li style="text-align: justify;"> Long experience over 10years</li>
-											<li style="text-align: justify;">We use Best and standard quality materials, as device has 20years Life!
-											</li>
-											<li style="text-align: justify;"> we surely give Money back guarantee if NO result found, costumers
-												satisfaction is our priority.</li>
-											<li style="text-align: justify;"> We have all Range, size Models as per our clients Requirements &
-												Budget.</li>
-											<li style="text-align: justify;">Our products are of Best colours, Design, & packing Quality,
-												( just fit & forget)</li>
-											<li style="text-align: justify;"> all over the world 🌍 we are most affordable price wise in impulse
-												technology and Best in performance,Quality & Design!</li>
-											<li style="text-align: justify;"> our impulse technology have DOUBLE EXCITATION strong frequency wave
-												flow for excellent performance shown in GIF</li>
-										</ol>
+										
+											<p > <i class="fa fa-angle-right"></i>Long experience over 10years</p>
+											<p ><i class="fa fa-angle-right"></i>We use Best and standard quality materials, as device has 20years Life!
+</p>
+											<p > <i class="fa fa-angle-right"></i>we surely give Money back guarantee if NO result found, costumers
+												satisfaction is our priority.</p>
+											<p ><i class="fa fa-angle-right"></i> We have all Range, size Models as per our clients Requirements &
+												Budget.</p>
+											<p ><i class="fa fa-angle-right"></i>Our products are of Best colours, Design, & packing Quality,
+												( just fit & forget)</p>
+											<p ><i class="fa fa-angle-right"></i> all over the world 🌍 we are most affordable price wise in impulse
+												technology and Best in performance,Quality & Design!</p>
+											<p ><i class="fa fa-angle-right"></i> our impulse technology have DOUBLE EXCITATION strong frequency wave
+												flow for excellent performance shown in GIF</p>
+										
 									</div>
 									<br>
 									<br>
