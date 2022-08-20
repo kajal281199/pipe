@@ -245,7 +245,7 @@
 					<div class="row sec-padding">
 						<div class="col-md-9 col-centered text-center">
 						<div class="col-md-12 col-centered">
-							<p>"Water" the inevitable coolant in the industries,
+							<p style="text-align: justify;">"Water" the inevitable coolant in the industries,
 becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
 
 </p>
@@ -261,7 +261,7 @@ becomes an issue of concern when traces of Calcium, Magnesium integrated with Ca
 							<div class="col-xs-12 nopadding">
 								<div class="sec-title-container less-padding-3 text-left">
 									<div class="ce4-title-line-1 align-left"></div>
-									<h4 class="uppercase font-weight-7 less-mar-1">THE SCALES FORMATION CREATES SO MANY ISSUES SUCH AS</h4>
+									<h4 class="uppercase font-weight-7 less-mar-1" style="text-align: justify;">THE SCALES FORMATION CREATES SO MANY ISSUES SUCH AS</h4>
 									<div class="clearfix"></div>
 								</div>
 							</div>
@@ -271,32 +271,32 @@ becomes an issue of concern when traces of Calcium, Magnesium integrated with Ca
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">1) Reduction of heat exchanging efficiency </div>
+								<div class="text" style="text-align: justify;">1) Reduction of heat exchanging efficiency </div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">2) Reduction in mechanical efficiencies of equipment such as pump and the pipelines in terms of flow rates.</div>
+								<div class="text" style="text-align: justify;" >2) Reduction in mechanical efficiencies of equipment such as pump and the pipelines in terms of flow rates.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">3) Scaling results in huge energy losses electrical or thermal.</div>
+								<div class="text" style="text-align: justify;">3) Scaling results in huge energy losses electrical or thermal.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">4) Scaling is a pain area of all industry as the present process of de-scaling is very lengthy and expensive, where corrosive chemicals have to be handled and possibility of expensive parts that have been covered with heavy scales may be damaged in the process.
+								<div class="text" style="text-align: justify;">4) Scaling is a pain area of all industry as the present process of de-scaling is very lengthy and expensive, where corrosive chemicals have to be handled and possibility of expensive parts that have been covered with heavy scales may be damaged in the process.
 
 </div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">The first solutions has been to install "Reverse osmosis" plants,
+								<div class="text" style="text-align: justify;">The first solutions has been to install "Reverse osmosis" plants,
 These softening plants involves huge capital loss, high maintenance cost and endless supply of salts to regenerate the system. This method of water softening is now causing a serious environmental problem and increasingly the effluent requires expensive treatment either by the company or the waste water authority.
 
 
@@ -304,14 +304,14 @@ These softening plants involves huge capital loss, high maintenance cost and end
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">Please note that other than the use of undesirable chemicals, the replacement of filters and maintenance is also a Big headache as its cost Huge.
+								<div class="text" style="text-align: justify;">Please note that other than the use of undesirable chemicals, the replacement of filters and maintenance is also a Big headache as its cost Huge.
 But there is Second option also available Now! <b>SUDARSHAN CAPACITANCE IMPULSE TECHNOLOGY</b>, The most effective, cost effective & environment friendly with zero Maintenance.
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">No other technology combines the ability to functionally softening the water with the ability to De-scale the pipe work and all the equipments and machineries without using chemicals. 
+								<div class="text" style="text-align: justify;">No other technology combines the ability to functionally softening the water with the ability to De-scale the pipe work and all the equipments and machineries without using chemicals. 
 The user friendly,<b> SUDARSHAN IMPULSE WATER SCALE REMOVER </b> offers an entirely new dimension in the water treatment technology.
 
 
@@ -320,7 +320,7 @@ The user friendly,<b> SUDARSHAN IMPULSE WATER SCALE REMOVER </b> offers an entir
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text"> This high-tech IMPULSE TECHNOLOGY neutralizes the bonding ability of the water molecules that are contained with high minerals in the water. This effectively breaks down large mineral crystals into tiny mineral particles and prevent them from reacting with other minerals to bond and form scale to any surface, This process is so effective that existing scales are progressively broken down and flushed away in due course of time. The particle size of the ionised flow is below that required for most fungal and algae  formation and these tend to be eliminated along with lime scale.
+								<div class="text" style="text-align: justify;"> This high-tech IMPULSE TECHNOLOGY neutralizes the bonding ability of the water molecules that are contained with high minerals in the water. This effectively breaks down large mineral crystals into tiny mineral particles and prevent them from reacting with other minerals to bond and form scale to any surface, This process is so effective that existing scales are progressively broken down and flushed away in due course of time. The particle size of the ionised flow is below that required for most fungal and algae  formation and these tend to be eliminated along with lime scale.
 The gaseous ions in the water are also conditioned, resulting in better tasting, non corrosive and Best solvent water.
 
 </div>
@@ -391,44 +391,44 @@ The gaseous ions in the water are also conditioned, resulting in better tasting,
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">1) Huge savings of Time & money.</div>
+								<div class="text" style="text-align: justify;">1) Huge savings of Time & money.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">2)  Heavy investment over stock of Chemicals.</div>
+								<div class="text"  style="text-align: justify;">2)  Heavy investment over stock of Chemicals.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text">3) Chemical treatment of pipelines/tubes in interval of 1 to 6 month allow some scale to deposit.</div>
+								<div class="text"  style="text-align: justify;">3) Chemical treatment of pipelines/tubes in interval of 1 to 6 month allow some scale to deposit.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">4)  Studies shows that 1 mm increase in scale thickness can reduce heating efficiency by an average of 6%, with the first 0.4mm showing a rate as high as 10%.
+								<div class="text"  style="text-align: justify;">4)  Studies shows that 1 mm increase in scale thickness can reduce heating efficiency by an average of 6%, with the first 0.4mm showing a rate as high as 10%.
 Hence continuous water treatment is required to reduce to running cost.
 </div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">5) De-Scale provides 24x7 water treatment without incurring chemical cost and maintain the efficiency throughout service period.
+								<div class="text"  style="text-align: justify;">5) De-Scale provides 24x7 water treatment without incurring chemical cost and maintain the efficiency throughout service period.
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">6) Environment friendly .
+								<div class="text"  style="text-align: justify;">6) Environment friendly .
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">7)  over 20 years life No maintenance! 
+								<div class="text"  style="text-align: justify;">7)  over 20 years life No maintenance! 
 
 
 
@@ -436,7 +436,7 @@ Hence continuous water treatment is required to reduce to running cost.
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text">8) save water save world 🌎
+								<div class="text"  style="text-align: justify;">8) save water save world 🌎
 
 </div>
 							</div>

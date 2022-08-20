@@ -271,10 +271,10 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-9 col-centered">
-							<p><b>Shree Sudarshan Brand</b> in water conditioner & treatment is well known in India, in
+							<p style="text-align: justify;"><b>Shree Sudarshan Brand</b> in water conditioner & treatment is well known in India, in
 								past 10 years we have achieved Big highs mainly in Agriculture and Domestic segments!
 								With Electro-Magnet technology our successes rate is over 90% since last 10 years!</p>
-							<p> <b>Now </b> per the demand and requirements of New Era, our Highly skilled technical and
+							<p style="text-align: justify;"> <b>Now </b> per the demand and requirements of New Era, our Highly skilled technical and
 								research team has Developed a new Advanced, Effective and Unique
 								<b>" Capacitance IMPULSE technology" </b>This technology is uniquely different from old,
 								Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse
@@ -294,13 +294,13 @@
 
 
 										<br />
-										<p> Capacitance Impulse technology releases...programmed complexed Modulating
+										<p style="text-align: justify;"> Capacitance Impulse technology releases...programmed complexed Modulating
 											High Impulse frequency through cable coil winding on pipes, We use cable
 											wire for winding in place of copper Band, because our experts says wide
 											copper Band spreads the frequency,while cable wire keep the frequency intact
 											and precise! Our 4 stage patented model multiply the frequency effect on
 											Hard water minerals and make water more soluble indeed.</p>
-										<p> <b> The capacitance Impulse frequency </b>Efficiently charge & prevent
+										<p style="text-align: justify;"> <b> The capacitance Impulse frequency </b>Efficiently charge & prevent
 											different size of high minerals water molecules likely to Form Scale, same
 											time it Breaks the Hydrogen Bond between opposite water molecules with high
 											frequency, This Results the breakdown of Large minerals Crystals into tinny
@@ -380,18 +380,18 @@
 									<br>
 									<div class="line" style="padding: 0 200px;">
 										<ol>
-											<li> Long experience over 10years</li>
-											<li>We use Best and standard quality materials, as device has 20years Life!
+											<li style="text-align: justify;"> Long experience over 10years</li>
+											<li style="text-align: justify;">We use Best and standard quality materials, as device has 20years Life!
 											</li>
-											<li> we surely give Money back guarantee if NO result found, costumers
+											<li style="text-align: justify;"> we surely give Money back guarantee if NO result found, costumers
 												satisfaction is our priority.</li>
-											<li> We have all Range, size Models as per our clients Requirements &
+											<li style="text-align: justify;"> We have all Range, size Models as per our clients Requirements &
 												Budget.</li>
-											<li>Our products are of Best colours, Design, & packing Quality,
+											<li style="text-align: justify;">Our products are of Best colours, Design, & packing Quality,
 												( just fit & forget)</li>
-											<li> all over the world 🌍 we are most affordable price wise in impulse
+											<li style="text-align: justify;"> all over the world 🌍 we are most affordable price wise in impulse
 												technology and Best in performance,Quality & Design!</li>
-											<li> our impulse technology have DOUBLE EXCITATION strong frequency wave
+											<li style="text-align: justify;"> our impulse technology have DOUBLE EXCITATION strong frequency wave
 												flow for excellent performance shown in GIF</li>
 										</ol>
 									</div>

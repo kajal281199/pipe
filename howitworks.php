@@ -245,12 +245,12 @@
         <div class="col-md-12 margin-bottom">
           <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
           <div class="col-md-9 col-centered">
-          <p  >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
+          <p  style="text-align: justify;">New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
 This capacitance impulse frequency effectively change & prevent different size of water molecules likely to form scale, impulse frequency same time breaks the  Hydrogen Bond between opposite water molecules, this Results breakdown of large minerals crystals into tiny minerals particles and flush them away along with water in due course of time.
 Water treated with New capacitance impulse technology keeps liquid ions, water molecules Bond free for next 6 to 7 days and make water scale free, Non- corrosive & Best solvent.
 
 </p>
-<p>When the Sudarshan Devices are fitted on a pipeline, the water flowing through the pipeline is subject to the intense, focused,effective Impulse frequency,
+<p style="text-align: justify;">When the Sudarshan Devices are fitted on a pipeline, the water flowing through the pipeline is subject to the intense, focused,effective Impulse frequency,
 The strong impulse frequency affects the physical structure of the Minerals,thereby altering their shape and physical properties. There is No chemistry involved, only physics. The Minerals continue to remain in the water, But now..the altered physical state prevents the Minerals from exibiting hardness,thus the water become soft.</p>
 
           <br/>

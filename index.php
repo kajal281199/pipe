@@ -514,10 +514,10 @@ top:23%;
 
                         <!--end title-->
 
-                        <p>Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
+                        <p style="text-align: justify;">Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
 
 </p>
-<p>Now as per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
+<p style="text-align: justify;">Now as per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
 " Capacitance IMPULSE technology"</p>
                         <br />
 
@@ -577,7 +577,7 @@ top:23%;
 
                     <!--end title-->
 
-                    <p >New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
+                    <p style="text-align: justify;">New Sudarshan capacitance impulse technology releases...programmed complexed module line High electronic frequency through copper cable coil winding on pipes.
 This capacitance impulse frequency effectively change & prevent different size of water molecules likely to form scale, impulse frequency same time breaks the  Hydrogen Bond between opposite water molecules, this Results breakdown of large minerals crystals into tiny minerals particles and flush them away along with water in due course of time...
 
 
@@ -642,8 +642,8 @@ This capacitance impulse frequency effectively change & prevent different size o
                     <div class="tp-title-line"></div>
                     <div class="clearfix"></div>
                     
-                    <p>Hard water from a bore (well) typically has very high surface tension. This water is difficult to be taken up into the plant stem and absorbed into the cell structure. and If it is hard water then it becomes more difficult to be taken up by plant. It is not well absorbed and the result is the plant growth becomes slower.</p>
-                    <p>It is known that there are thousands of CELL MEMBRANES found on the roots of plants , trees and crops, which keeps the plant alive, healthy. Bacteria free and fast growing if the cell membranes are active energized and magnetized , they help plant to intake required mineral, nutrients,…</p>
+                    <p style="text-align: justify;"> Hard water from a bore (well) typically has very high surface tension. This water is difficult to be taken up into the plant stem and absorbed into the cell structure. and If it is hard water then it becomes more difficult to be taken up by plant. It is not well absorbed and the result is the plant growth becomes slower.</p>
+                    <p style="text-align: justify;">It is known that there are thousands of CELL MEMBRANES found on the roots of plants , trees and crops, which keeps the plant alive, healthy. Bacteria free and fast growing if the cell membranes are active energized and magnetized , they help plant to intake required mineral, nutrients,…</p>
                     <div class="clearfix"></div>
                     <br />
                     <a class="btn btn-dark-3 btn-medium uppercase" href="Agriculture-app.php">Read more</a>
