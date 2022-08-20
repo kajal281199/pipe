@@ -342,7 +342,18 @@ The gaseous ions in the water are also conditioned, resulting in better tasting,
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 						<video width="100%" height="200" src="images/industrial/in2.mp4" type="video/mp4" frameborder="0" controls="" ></video>
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+							<h3><i class="fa fa-angle-right"></i> APPLICATION IN :</h3>
+							<p><i class="fa fa-angle-right"></i> Cooling towers</p>
+							<p><i class="fa fa-angle-right"></i> boilers</p>
+							<p><i class="fa fa-angle-right"></i> Washing</p>
+							<p><i class="fa fa-angle-right"></i> air compressor.</p>
+<p><i class="fa fa-angle-right"></i> gasifier system.</p>
+<p><i class="fa fa-angle-right"></i> heat exchanger.</p>
+<p><i class="fa fa-angle-right"></i> plastic moulding.</p>
+<p><i class="fa fa-angle-right"></i> captive power plant.</p>
+<p><i class="fa fa-angle-right"></i> induction furnace.</p>
+<p><i class="fa fa-angle-right"></i> jacket cooling.</p>
+<p><i class="fa fa-angle-right"></i> all small & Big industries having Hard water & scale issues.</p>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/in3.JPEG" alt="" class="img-responsive" />

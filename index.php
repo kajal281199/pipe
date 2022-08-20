@@ -379,7 +379,7 @@ top: 0;
 							<div class="header-inner " style="height:100px; width:100%">
 								<div class="overlay">
 									<div>
-										<h5 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px;">Total solution of scale & Hard water..</h5>
+										<h4 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px;">Total solution of scale & Hard water..</h4>
 									</div>
 								</div>
 							</div>
@@ -755,7 +755,7 @@ while($arr=mysqli_fetch_array($sql)){
 
                 <div class="sec-title-container text-left pb-0">
 
-                    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Why Excellent Water Solutions?
+                    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Why Sudarshan Water Solutions?
 
                     </h6>
 
