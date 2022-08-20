@@ -373,23 +373,22 @@ top: 0;
     <div class="clearfix"></div>
 
     <!-- START REVOLUTION SLIDER 5.0 -->
-    
     <div class="container-fluid">
-
-        <div class="row">
-        <div class="container-fluid">
-					<div class="row">
-						<div class="col-md-12 col-sm-12 col-xs-12 clearfix nopadding">
-							<div class="header-inner less-height">
+                    <div class="row">
+						<div class="col-md-12">
+							<div class="header-inner " style="height:100px; width:100%">
 								<div class="overlay">
-									<div class="text text-center">
-										<h3 class="uppercase text-white less-mar-1 title">Total solution of scale & Hard water..</h3>
+									<div>
+										<h5 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px;">Total solution of scale & Hard water..</h5>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+                    </div>
+    <div class="container-fluid">
+	
+                    <div class="row">
             <div class="col-md-12">
            
                 <div class="slideshow-container">
