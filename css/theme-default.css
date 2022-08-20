@@ -3831,7 +3831,7 @@ background-color: #fff;
     height: 100%;
     float: left;
 	overflow:hidden;
-	z-index:2;
+	z-index:1;
 	background-color:rgba(0, 0, 0, 0.7);
 }
 .header-inner .text {

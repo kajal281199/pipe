@@ -415,35 +415,7 @@
 							</div>
 						</div>
 					</section>
-					<div class="row">
-						<div class="col-md-5" style="margin-top:86px;">
-							<img src="images/make-in-india.png" class="img-responsive">
-						</div>
-						<div class="col-md-7">
-							<h4 class="text-dark font-weight-4 raleway">
-								<h3 class="uppercase font-weight-6">WELCOME TO SUDARSHAN TECHNOLOGY</h3>
-								<br>
-								<p>Shree Sudarshan uses a series of controlled complex modulating high frequency
-									waveform that neutralises the bonding ability of minerals that are contained in our
-									water. This field effectively agitates different size molecules likely to form scale
-									& to break the bonds between molecules & the water. This results the break down of
-									large mineral crystals into tiny mineral particles & then prevent them from reacting
-									with other minerals or bonding to any surface to from scales. The process is so
-									effective that existing scales are progressively broken down & flushed away in due
-									course of time. The conditioned gaseous ions results in non-corrosive & better
-									tasting water. It also helps the plants to grow well & healthy.</p>
-								<p>However it is said that output of this machines depends on the power of magnetic
-									field imposed, velocity of water flow, magnetic force, number of particles with
-									negative and positive charge in water and angle between particle velocity and
-									applied magnetic field.Apart from that hardness of water/impurities present in water
-									volume and range of mineral ions found in water also effects, if the incoming water
-									quality matches the requirements of this device then it will show the acceptable as
-									well as miracle results.</p>
-
-							</h4>
-						</div>
-
-					</div>
+					
 			</section>
 			<!-- end section -->
 			<div class="divider-line solid light"></div>

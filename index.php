@@ -226,7 +226,7 @@ a.lightbox img {
 height: 150px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
-margin: 94px 20px 20px 20px;
+margin: 15px 20px 20px 20px;
 }
 
 /* Styles the lightbox, removes it from sight and adds the fade-in transition */
@@ -238,6 +238,7 @@ width: 100%;
 background: rgba(0,0,0,.7);
 width: 100%;
 opacity: 0;
+z-index: 1;
 -webkit-transition: opacity .5s ease-in-out;
 -moz-transition: opacity .5s ease-in-out;
 -o-transition: opacity .5s ease-in-out;
@@ -689,7 +690,7 @@ This capacitance impulse frequency effectively change & prevent different size o
     <div class="clearfix"></div>
 
     <section >
-    <div class="text text-center" >
+    <div class="text text-center"  id="gallery">
 										<h3 class="uppercase text-white less-mar-1 title" style="color:black; padding:20px;"><b>PRODUCT GALLERY</b></h3>
 									</div>
             
@@ -707,7 +708,7 @@ while($arr=mysqli_fetch_array($sql)){
             </a> 
             <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
                     <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:55%; width:55%;" />
-                    <a class="lightbox-close" href="#"></a>
+                    <a class="lightbox-close" href="#gallery"></a>
                     </div>
                     
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
@@ -726,7 +727,7 @@ while($arr=mysqli_fetch_array($sql)){
             
     </section>
     <section class="sec-padding">
-    <div class="text text-center" >
+    <div class="text text-center" id="gal" >
 										<h3 class="uppercase text-white less-mar-1 title" style="color:black;padding:20px;"><b> GALLERY</b></h3>
 									</div>
             
@@ -738,7 +739,12 @@ while($arr=mysqli_fetch_array($sql)){
     while($arr=mysqli_fetch_array($sql)){
     ?>
 						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; weight:150px;" />
+                        <a class="lightbox" href="#<?php echo $arr['name'] ?>">
+							<img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; width:250px;" /></a>
+                            <div class="lightbox-target" id="<?php echo $arr['name'] ?>">
+                    <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:55%; width:55%;" />
+                    <a class="lightbox-close" href="#gal"></a>
+                    </div>
 							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
 						
