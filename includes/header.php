@@ -1,4 +1,4 @@
-
+<?php $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1); ?>
 <div class="clearfix"></div>
 
 <div class="col-md-12 nopadding">
@@ -29,22 +29,22 @@
                             <div id="menu" class="collapse">
 
                                 <ul class="nav navbar-nav">
-<li class=" active"> <a href="index.php">Home</a>      </li>
-                                    <li> <a href="about.php">About us</a> </li>
+                                    <li  class="<?= $page == 'index.php' ? 'active':'' ?>"> <a href="index.php">Home</a>      </li>
+                                    <li class="<?= $page == 'about.php' ? 'active':'' ?>" > <a href="about.php">About us</a> </li>
 
-                                    <li> <a href="howitworks.php">How it Works</a> </li>
+                                    <li class="<?= $page == 'howitworks.php' ? 'active':'' ?>" > <a href="howitworks.php">How it Works</a> </li>
 
                                     <li> <a href="#">Applications</a> <span class="arrow"></span>
 
                                         <ul class="dm-align-2">
 
-                                            <li> <a href="Industrial-app.php">Industrial Applications</a> </li>
+                                            <li class="<?= $page == 'Industrial-app.php' ? 'active':'' ?>" > <a href="Industrial-app.php">Industrial Applications</a> </li>
 
-                                            <li> <a href="residential&Commercial-app.php">Residential & Commercial Applications</a> </li>
+                                            <li class="<?= $page == 'residential&Commercial-app.php' ? 'active':'' ?>" > <a href="residential&Commercial-app.php">Residential & Commercial Applications</a> </li>
 
                                             
 
-                                            <li> <a href="Agriculture-app.php">Agriculture Applications</a> </li>
+                                            <li class="<?= $page == 'Agriculture-app.php' ? 'active':'' ?>" > <a href="Agriculture-app.php">Agriculture Applications</a> </li>
                                             <li> <a href="otheraplication.php">Other Applications</a> </li>
 
                                         </ul>
@@ -54,13 +54,13 @@
                                    
 
                                    
-                                    <li class="mega-menu"> <a href="product_g.php">Product Gallery</a>
+                                    <li class="<?= $page == 'product_g.php' ? 'active':'' ?>" > <a href="product_g.php">Product Gallery</a>
                                         
                                     
-                                      <li> <a href="gallery.php">Gallery</a> </li>
+                                      <li class="<?= $page == 'gallery.php' ? 'active':'' ?>"> <a href="gallery.php">Gallery</a> </li>
 
                                     
-                                    <li> <a href="contact.php">Contact</a> </li>
+                                    <li class="<?= $page == 'contact.php' ? 'active':'' ?>"> <a href="contact.php">Contact</a> </li>
 
                                 </ul>
 

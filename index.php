@@ -269,7 +269,7 @@ transition: .5s ease-in-out;
 
 /* Styles the close link, adds the slide down transition */
 
-.lightbox .lightbox-close {
+.lightbox-close {
 display: block;
 width:50px;
 height:50px;
@@ -288,7 +288,7 @@ transition: .5s ease-in-out;
 
 /* Provides part of the "X" to eliminate an image from the close link */
 
-.lightbox .lightbox-close:before {
+.lightbox-close:before {
 content: "";
 display: block;
 height: 30px;
@@ -305,7 +305,7 @@ transform:rotate(45deg);
 
 /* Provides part of the "X" to eliminate an image from the close link */
 
-.lightbox .lightbox-close:after {
+.lightbox-close:after {
 content: "";
 display: block;
 height: 30px;
@@ -326,6 +326,7 @@ transform:rotate(-45deg);
 opacity: 1;
 top: 0;
 bottom: 0;
+left:0;
   overflow:scroll;
 }
 
@@ -335,9 +336,19 @@ max-width: 100%;
 }
 
 .lightbox-target:target a.lightbox-close {
-top: 0;
+top:30%;
 }
 
+.margin-bottom {
+    margin-bottom: 0px;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: initial;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
         
     </style>
     
@@ -694,8 +705,9 @@ while($arr=mysqli_fetch_array($sql)){
             </a> 
             <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
                     <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
-                    </div>
                     <a class="lightbox-close" href="#"></a>
+                    </div>
+                    
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
                 </div>
 
