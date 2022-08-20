@@ -335,8 +335,10 @@ max-height: 100%;
 max-width: 100%;
 }
 
+
+
 .lightbox-target:target a.lightbox-close {
-top:30%;
+top:23%;
 }
 
 .margin-bottom {
@@ -701,10 +703,10 @@ while($arr=mysqli_fetch_array($sql)){
            
                 <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom" >
                 <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; weight:150px;" />
+            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; width:250px;" />
             </a> 
             <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
-                    <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:150px; weight:150px;" />
+                    <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:55%; width:55%;" />
                     <a class="lightbox-close" href="#"></a>
                     </div>
                     
