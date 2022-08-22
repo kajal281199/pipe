@@ -212,10 +212,10 @@ include('admin/config.php');
             right: 0;
         }
 
-        /* @media only screen and (max-width: 991px)
+        @media only screen and (max-width: 991px)
 .pdf{
     margin-bottom: 30px;
-} */
+} 
 
 /*Eliminates padding, centers the thumbnail */
 
