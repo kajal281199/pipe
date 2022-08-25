@@ -452,33 +452,10 @@ top:23%;
 <section>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
-                        <img src="images/sliders/c1.png" alt="" style="height:150px;">
+						<div class=" margin-bottom">
+                        <img src="images/sliders/cl.png" alt="" style="height:150px;">
 						</div>
-						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
-                        <img src="images/sliders/c2.png" alt="" style="height:150px;">
-							
-						</div>
-                       
-						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
-                        <img src="images/sliders/c3.png" alt="" style="height:150px; ">
 						
-						</div>
-                      
-						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
-                        <img src="images/sliders/c4.png" alt="" style="height:150px; ">
-							
-						</div>
-
-                        <div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
-                        <img src="images/sliders/c5.png" alt="" style="height:150px; ">
-							
-						</div>
-
-                        <div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
-                        <img src="images/sliders/c6.png" alt="" style="height:150px; ">
-							
-						</div>
 						<!--end item-->
 					</div>
 				
