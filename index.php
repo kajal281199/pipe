@@ -452,21 +452,31 @@ top:23%;
 <section>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-                        <img src="images/sliders/1img.jpeg" alt="" style="height:150px;">
+						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
+                        <img src="images/sliders/c1.png" alt="" style="height:150px;">
 						</div>
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-                        <img src="images/sliders/2img.jpeg" alt="" style="height:150px;">
+						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
+                        <img src="images/sliders/c2.png" alt="" style="height:150px;">
 							
 						</div>
                        
-						<div class="col-md-3 col-sm- col-xs-12 margin-bottom">
-                        <img src="images/sliders/4img.jpeg" alt="" style="height:150px; ">
+						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
+                        <img src="images/sliders/c3.png" alt="" style="height:150px; ">
 						
 						</div>
                       
-						<div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
-                        <img src="images/sliders/6img.png" alt="" style="height:150px; ">
+						<div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
+                        <img src="images/sliders/c4.png" alt="" style="height:150px; ">
+							
+						</div>
+
+                        <div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
+                        <img src="images/sliders/c5.png" alt="" style="height:150px; ">
+							
+						</div>
+
+                        <div class="col-md-3 col-sm-4 col-xs-12 margin-bottom">
+                        <img src="images/sliders/c6.png" alt="" style="height:150px; ">
 							
 						</div>
 						<!--end item-->
@@ -561,7 +571,7 @@ top:23%;
 
                         <div class="sec-title-container text-left pb-0">
 
-                            <!-- <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Why Excellent Water Solutions?
+                            <!-- <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Why Sudarshan Water Solutions?
 
 							</h6> -->
 
@@ -801,10 +811,13 @@ while($arr=mysqli_fetch_array($sql)){
 
                         <img src="images/img/homepage/maintenance-free.png" alt="" class="img-responsive pb-5 p-5">
 
-                        <h4 class="uppercase title font-weight-5 nopadding">Maintenance-free
+                        <h4 class="uppercase title font-weight-5 nopadding">Maintenance-free   :
 
                         </h4>
+                      
+                        <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow" style="text-align: justify;">Just fit & forget! Our units have zero maintenance cost no recurring cost, one time investment for long life!
 
+</h6>
                     </div>
 
                 </div>
@@ -823,10 +836,12 @@ while($arr=mysqli_fetch_array($sql)){
 
                         <img src="images/img/homepage/ecofriendly.png" alt="" class="img-responsive pb-5 p-5">
 
-                        <h4 class="uppercase title font-weight-5 nopadding">100% Eco-friendly
+                        <h4 class="uppercase title font-weight-5 nopadding">100% Eco-friendly  :
 
                         </h4>
+                        <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow" style="text-align: justify;">Sudarshan technology contributes to save world 🌎 for not using hazardous chemicals, Resins, salts for water treatment, our technology is 100% Environment friendly.
 
+</h6>
                     </div>
 
                 </div>
@@ -851,10 +866,12 @@ while($arr=mysqli_fetch_array($sql)){
 
                         <h4 class="uppercase title font-weight-5 n
 
-                        opadding">No Chemicals,No Salts, & No Magnetism
+                        opadding">No Chemicals,No Salts, & No Magnetism :
 
                         </h4>
+                        <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow" style="text-align: justify;">Apart from chemicals & salt our technology abstained MAGNET & ELECTRIC MAGNET because Magnet has very limited effects near wire only & Effect last 24 to 48 hrs. While IMPULSE last 5-7 days!
 
+</h6>
                     </div>
 
                 </div>
@@ -873,8 +890,10 @@ while($arr=mysqli_fetch_array($sql)){
 
                         <img src="images/img/homepage/efficient.png" alt="" class="img-responsive pb-5 p-5">
 
-                        <h4 class="uppercase title font-weight-5 nopadding">Efficient for All Pipes </h4>
+                        <h4 class="uppercase title font-weight-5 nopadding">Efficient for All Pipes  :</h4>
+                        <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow" style="text-align: justify;">technology is suitable for all types of material pipes, like steel, G.i., Copper, S.S. P.V.C, etc.
 
+</h6>
                     </div>
 
                 </div>

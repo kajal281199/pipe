@@ -304,8 +304,8 @@
 											different size of high minerals water molecules likely to Form Scale, same
 											time it Breaks the Hydrogen Bond between opposite water molecules with high
 											frequency, This Results the breakdown of Large minerals Crystals into tinny
-											Nano Mineral particals & disabled them to flush along with water
-											*Ca(Hco3)2 < IMPULSE> Co2 + H2O * = Calcium carbonate converts into
+											Nano Mineral particals & disabled them to flush along with water<br>
+											<b>*Ca(Hco3)2 < IMPULSE> Co2 + H2O * </b>= Calcium carbonate converts into
 												Bi-carbonate.
 												( Non soluble partcals covert into soluble particals)
 												This positively charged ions in water now Results Scale free,Non
@@ -348,24 +348,32 @@
 									have following qualities</h3>
 								<br>
 								<div class="col-md-6">
-									<p>1. 24v Operational.</p>
-									<p>2. Signal Strength:2 Feet</p>
-									<p>3. Wattage:7.5 Watts</p>
-									<p>4. Zero maintenance,20 years life</p>
-									<p>5. Ripple Filter Added For Clean Signal</p>
-									<p>6. 10 Programs</p>
-									<p>7. Output Coil Length: Upto 4 Meters</p>
-									<p>8. 100% Clean Impulse Signal</p>
+									<p>1. 24v & 36v Operational.</p>
+									<p>2. Signal Strength:more then 2 Feet.</p>
+									<p>3. Wattage:7.5 Watts & more.</p>
+									<p>4. Zero maintenance,25 years life!
+</p>
+									<p>5. Ripple Filter Added For Clean Signal.</p>
+									<p>6. 10 Programs.</p>
+									<p>7. Output Coil Length: Upto 4 Meters x 4 stages.</p>
+									<p>8. 100% Clean Impulse Signal.</p>
+									<p>9. Double excitation frequency type.</p>
+									<p>10. Max Pipe Diameter:6" to 20".</p>
 								</div>
 								<div class="col-md-6">
-									<p>9. 10 Impulse Type</p>
-									<p>10. Max Pipe Diameter:6" to 20"</p>
-									<p>11. Frequency Range: 3-32 khz(10 Types)</p>
-									<p>12. ESD Protection From Lightening</p>
-									<p>13. Power Control Circuit Added</p>
-									<p>14. 24V SMPS Works From 100V-240V</p>
-									<p>15. Used in Agriculture & Small Industries</p>
-									<p>16. Water remains treated for 5 to 7 days</p>
+									<p>11.  Frequency Range: 3-32 khz x 4 stages.</p>
+									<p>12. ESD Protection From Lightening.
+</p>
+									<p>13. Power Control Circuit Added.</p>
+									<p>14. 24V / 36 v SMPS Works From 100V-240V.</p>
+									<p>15. Consumes little electric power aprox cost 1200 INR per year!
+</p>
+									<p>16. Water remains treated for 5 to 7 days.</p>
+									<p>17. Automatic Reset backup last active program.</p>
+									<p>18. Our instruments works on 24x7 facility non stop.</p>
+									<p>19.<b> Our Impulse voltage amplitude is 400v to 500v volt impulses</b>
+( no one give in india now!)</p>
+									<p>20. High amplitude volt impulse frequency penetrate high flow water as well as it can penetrate & effect deeply inside water for assured Result, you can see in following image 👇🏻</p>
 								</div>
 							</h4>
 						</div>
@@ -375,10 +383,10 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
-									<h3 class="uppercase font-weight-7 col-md-9 col-centered text-center">WHY
+									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center">WHY
 										SUDARSHAN??</h3>
 									<br>
-									<div class="line" style="padding: 0 200px;">
+									<div class="line" >
 										
 											<p > <i class="fa fa-angle-right"></i>Long experience over 10years</p>
 											<p ><i class="fa fa-angle-right"></i>We use Best and standard quality materials, as device has 20years Life!
@@ -415,8 +423,42 @@
 							</div>
 						</div>
 					</section>
+
+					<section class="sec-padding">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12">
+									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center">
+										SAVE WATER  :</h3>
+									<br>
+									<div class="line" >
+										
+											<p style="text-align: justify;"> We feel proud to contribute in water saving though our Technology, in Agriculture we claim to save water 20% to 30% depending on salinity of water, In Domestic & Industries sector we save equally save water! We have used FIRST STAGE R.O. WASTE Water by using our technology, (Generally waste water is thrown away!) SAVE WATER SAVE WORLD 🌎</p>
+											
+										
+									</div>
+									<br>
+									<br>
+								</div>
+								<!--end item-->
+								<div class="row">
+									<div class="col-md-6 margin-bottom  col-centered">
+
+										<div style="margin: 0% 0px 0px;"
+											class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
+											<img src="images/save.jpeg" class="img-responsive">
+
+										</div>
+									</div>
+								</div>
+								<!--end item-->
+
+							</div>
+						</div>
+					</section>
 					
 			</section>
+			
 			<!-- end section -->
 			<div class="divider-line solid light"></div>
 

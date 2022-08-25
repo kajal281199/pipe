@@ -265,11 +265,11 @@
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-centjpger ">Chemicals</h4> -->
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/industrial/2.jpeg" alt="" class="img-responsive" />
+							<img src="images/industrial/22.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Cement</h4> -->
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-							<img src="images/industrial/3.jpeg" alt="" class="img-responsive" />
+							<img src="images/industrial/33.jpeg" alt="" class="img-responsive" />
 							<!-- <h4 class="uppercase title font-weight-5 pt-2 text-center ">Rubber</h4> -->
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
