@@ -441,13 +441,14 @@ if(isset($_POST['Submit'])){
 
                             <hr>
 
-                            <h4> Office info</h4>
+                            <h4> Factory:</h4>
+
 
                             <address>
 
              
 
-                <b>Jamnagar (Gujrat)</b>
+                <b>Jetpur,Rajkot (Gujrat)- 360370</b>
 
                 <br>
 
@@ -491,16 +492,7 @@ if(isset($_POST['Submit'])){
                     </div>
                     <br>
                     
-                    <div class="row">
-                        <div class="col-md-12">
-                        <div class="padding-4" style="padding: 4px; background-color: #fff; margin-top:32px;">
-                        
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7344.672771805183!2d72.503035!3d23.011418!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x654dd95839f20606!2sExcellent+Water+Technology!5e0!3m2!1sen!2sin!4v1495793288724" width="100%" height="360" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-
-                        </div>
-                        </div>
-                    </div>
+                   
                    
                     
 

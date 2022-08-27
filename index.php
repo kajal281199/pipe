@@ -212,10 +212,7 @@ include('admin/config.php');
             right: 0;
         }
 
-        @media only screen and (max-width: 991px)
-.pdf{
-    margin-bottom: 30px;
-} 
+      
 
 /*Eliminates padding, centers the thumbnail */
 
@@ -453,7 +450,7 @@ top:23%;
 				<div class="container">
 					<div class="row">
 						<div class=" margin-bottom">
-                        <img src="images/sliders/cl.png" alt="" style="height:150px;">
+                        <img src="images/sliders/cert.png" alt=""  style="height:150px;">
 						</div>
 						
 						<!--end item-->
