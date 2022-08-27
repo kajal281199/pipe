@@ -262,6 +262,23 @@ The strong impulse frequency affects the physical structure of the Minerals,ther
     <div class="col-md-6 margin-bottom  col-centered"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div>
     </div>
 
+    <div class="row">
+        
+        <!-- <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div> -->
+        <div class="col-md-12 margin-bottom">
+          <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
+          <div class="col-md-9 col-centered">
+          <h3 class="uppercase text-white less-mar-1 title" style="color:black;padding:20px;     margin-bottom: 2px; margin-left: 40%;"><b> Note :</b></h3>
+          <p  style="text-align: justify; ">This is not a R.O. or water purifire, so it does not make any chemical changes in water,in fact it changes the physical properties of water and make water molecules,bond free,energized and more bio-available. This water is not recommended for drinking purpose.
+
+</p>
+
+
+          <br/>
+        <!--end item-->
+          </div>
+      </div>
+    </div>
     <!-- <div class="row sec-padding">
       <div class="col-md-12 text-center chem-bg">
           <img src="images/img/working-chemarea2.png">

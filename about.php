@@ -379,6 +379,20 @@
 						</div>
 
 					</div>
+
+					<div class="row">
+						<div class="col-md-5">
+							<img src="images/red.jpeg" class="img-responsive" style="margin-left: 20px;">
+						</div>
+						<div class="col-md-5">
+						<img src="images/blue.jpeg" class="img-responsive" style="margin-left: 186px;">
+								
+								
+							
+						</div>
+
+					</div>
+
 					<section class="sec-padding">
 						<div class="container">
 							<div class="row">

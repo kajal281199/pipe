@@ -472,7 +472,7 @@ top:23%;
 </h6>
 									<br>
                                     
-
+                                </div>
                                     <div class="row sec-padding">
 						<div class="col-md-9 col-centered text-center">
 						<div class="col-md-12 col-centered">
@@ -612,17 +612,16 @@ This capacitance impulse frequency effectively change & prevent different size o
                     <div class="col-divider-margin-3"></div>
                     <div class="divider-line solid light"></div>
                     <div class="col-divider-margin-3"></div>
-                    <h3 class="nopadding font-weight-4">Industrial Applications </h3>
+                    <h3 class="nopadding font-weight-4">Sudarshan capacitance 4 stage water treatment model </h3>
                     <div class="tp-title-line"></div>
                     <div class="clearfix"></div>
                     
-                    <p style="text-align: justify;">"Water" the inevitable coolant in the industries,
-becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
-
+                    <p style="text-align: justify;">Technology is most effective & advanced in recent time in india, our 4 stage model releases  high impulse frequency from all 4 corners of the unit to treat every drop💧of water effectively,
+Our inbuilt<b> High Amplitude volt</b> impulse technology penetrate  water deep inside upto center of the pipe, 4 stage model devide the single water flow into 4, without reducing pressure and keep water longer time under impulse frequency effect for assured Result and Better De-scaling treatment.
 </p>
                     <div class="clearfix"></div>
                     <br />
-                    <a class="btn btn-dark-3 btn-medium uppercase" href="Industrial-app.php">Read more</a>
+                    
                 </div>
                 <!--<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
                     <div class="tp-feature-box-3 margin-bottom">
@@ -662,7 +661,56 @@ becomes an issue of concern when traces of Calcium, Magnesium integrated with Ca
             </div>
         </div>
     </section>
+    <div class="row">
+								<div class="col-md-12 line col-centered" style="padding-bottom: 30px;">
+									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center" style="padding-top:40px;">
+                                    Industrial Applications  :</h3>
+                                    
+									<br>
+                                    
+                                </div>
+                                    <div class="row sec-padding">
+						<div class="col-md-9 col-centered text-center">
+						<div class="col-md-12 col-centered">
+                        <p style="text-align: justify; margin-top: -32px;">"Water" the inevitable coolant in the industries,
+becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
+</p>
 
+                           
+						</div>
+						</div>
+
+
+
+
+									<div class="line col-md-9" >
+										
+                                   
+
+<br />
+
+<!--end item-->
+
+<div class="clearfix"></div>
+
+<br />
+
+<br />
+
+<a class="btn btn-dark-3 btn-medium uppercase " href="Industrial-app.php" style="margin-left: 59%;">Read more</a>
+											
+										
+									</div>
+									<br>
+									<br>
+								</div>
+								<!--end item-->
+								
+								<!--end item-->
+
+							</div>
+
+    <div class="clearfix"></div>
     <div class="clearfix"></div>
 
     <section >
