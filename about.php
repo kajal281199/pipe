@@ -424,38 +424,7 @@
 						</div>
 					</section>
 
-					<section class="sec-padding">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-12">
-									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center">
-										SAVE WATER  :</h3>
-									<br>
-									<div class="line" >
-										
-											<p style="text-align: justify;"> We feel proud to contribute in water saving though our Technology, in Agriculture we claim to save water 20% to 30% depending on salinity of water, In Domestic & Industries sector we save equally save water! We have used FIRST STAGE R.O. WASTE Water by using our technology, (Generally waste water is thrown away!) SAVE WATER SAVE WORLD 🌎</p>
-											
-										
-									</div>
-									<br>
-									<br>
-								</div>
-								<!--end item-->
-								<div class="row">
-									<div class="col-md-6 margin-bottom  col-centered">
-
-										<div style="margin: 0% 0px 0px;"
-											class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
-											<img src="images/save.jpeg" class="img-responsive">
-
-										</div>
-									</div>
-								</div>
-								<!--end item-->
-
-							</div>
-						</div>
-					</section>
+					
 					
 			</section>
 			

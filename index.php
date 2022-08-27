@@ -462,73 +462,58 @@ top:23%;
 
 				</div>
 			</section>
-    <section class="sec-padding">
+   
+    <div class="row">
+								<div class="col-md-12 line col-centered" style="padding-bottom: 30px;">
+									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center" style="padding-top:40px;">
+                                    Welcome to Sudarshan Technology  :</h3>
+                                    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow text-center">INDIA'S Leading anti-scale systems
 
-        <div class="container">
+</h6>
+									<br>
+                                    
 
-            <div class="row">
-
-                
-                <div style="margin: 0% 0px 0px; height:500%;" class="col-md-5 col-sm-6 col-xs-12 margin-bottom"> 
-					<video width="100%" height="300" src="images/sliders/index.mp4" type="video/mp4" frameborder="0" controls="" ></video>
-					<!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
-                </div>
-                <!--end item-->
-
-                <div class="col-md-7">
-
-                    <div class="col-md-10">
-
-                        <div class="col-xs-12 nopadding">
-
-                            <div class="sec-title-container less-padding-5 text-left">
-                            <h3 class="uppercase font-weight-7 less-mar-1">Welcome to Sudarshan Technology
-
-</h3>
-                                <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">INDIA'S Leading anti-scale systems
-
-								</h6>
-
-                               
-
-                                <div class="tp-title-line-1 align-left"></div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="clearfix"></div>
-
-                        <!--end title-->
-
+                                    <div class="row sec-padding">
+						<div class="col-md-9 col-centered text-center">
+						<div class="col-md-12 col-centered">
                         <p style="text-align: justify;">Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
 
 </p>
 <p style="text-align: justify;">Now as per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
 " Capacitance IMPULSE technology"</p>
-                        <br />
+                           
+						</div>
+						</div>
 
-                        <!--end item-->
 
-                        <div class="clearfix"></div>
 
-                        <br />
 
-                        <br />
+									<div class="line col-md-9" >
+										
+                                   
 
-                        <a class="btn btn-dark-3 btn-medium uppercase" href="about.php">Read more</a>
+<br />
 
-                    </div>
+<!--end item-->
 
-                </div>
+<div class="clearfix"></div>
 
-                <!--end item-->
+<br />
 
-            </div>
+<br />
 
-        </div>
+<a class="btn btn-dark-3 btn-medium uppercase " href="about.php" style="margin-left: 59%;">Read more</a>
+											
+										
+									</div>
+									<br>
+									<br>
+								</div>
+								<!--end item-->
+								
+								<!--end item-->
 
-    </section>
+							</div>
 
     <div class="clearfix"></div>
 
@@ -627,15 +612,17 @@ This capacitance impulse frequency effectively change & prevent different size o
                     <div class="col-divider-margin-3"></div>
                     <div class="divider-line solid light"></div>
                     <div class="col-divider-margin-3"></div>
-                    <h3 class="nopadding font-weight-4">Agriculture Application</h3>
+                    <h3 class="nopadding font-weight-4">Industrial Applications </h3>
                     <div class="tp-title-line"></div>
                     <div class="clearfix"></div>
                     
-                    <p style="text-align: justify;"> Hard water from a bore (well) typically has very high surface tension. This water is difficult to be taken up into the plant stem and absorbed into the cell structure. and If it is hard water then it becomes more difficult to be taken up by plant. It is not well absorbed and the result is the plant growth becomes slower.</p>
-                    <p style="text-align: justify;">It is known that there are thousands of CELL MEMBRANES found on the roots of plants , trees and crops, which keeps the plant alive, healthy. Bacteria free and fast growing if the cell membranes are active energized and magnetized , they help plant to intake required mineral, nutrients,…</p>
+                    <p style="text-align: justify;">"Water" the inevitable coolant in the industries,
+becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
+
+</p>
                     <div class="clearfix"></div>
                     <br />
-                    <a class="btn btn-dark-3 btn-medium uppercase" href="Agriculture-app.php">Read more</a>
+                    <a class="btn btn-dark-3 btn-medium uppercase" href="Industrial-app.php">Read more</a>
                 </div>
                 <!--<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
                     <div class="tp-feature-box-3 margin-bottom">
@@ -764,11 +751,9 @@ while($arr=mysqli_fetch_array($sql)){
 
                 <div class="sec-title-container text-left pb-0">
 
-                    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Why Sudarshan Water Solutions?
+                    
 
-                    </h6>
-
-                    <h3 class="uppercase font-weight-7 less-mar-1">Why Choose Us</h3>
+                    <h3 class="uppercase font-weight-7 less-mar-1">Sudarshan technology have additional benifits :</h3>
 
                     <div class="tp-title-line-1 align-left"></div>
 
@@ -890,7 +875,39 @@ while($arr=mysqli_fetch_array($sql)){
 </div>
 
 </section>
+<section class="sec-padding">
+						<div class="container">
+                        <div class="row">
+									<div class="col-md-6 margin-bottom  col-centered">
 
+										<div style="margin: 0% 0px 0px;"
+											class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
+											<img src="images/save.jpeg" class="img-responsive">
+
+										</div>
+									</div>
+								</div>
+							<div class="row">
+								<div class="col-md-12">
+									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center" style="padding-top:40px;">
+										SAVE WATER  :</h3>
+									<br>
+									<div class="line" >
+										
+											<p style="text-align: justify;"> We feel proud to contribute in water saving though our Technology, in Agriculture we claim to save water 20% to 30% depending on salinity of water, In Domestic & Industries sector we save equally save water! We have used FIRST STAGE R.O. WASTE Water by using our technology, (Generally waste water is thrown away!) SAVE WATER SAVE WORLD 🌎</p>
+											
+										
+									</div>
+									<br>
+									<br>
+								</div>
+								<!--end item-->
+								
+								<!--end item-->
+
+							</div>
+						</div>
+					</section>
 <div class="clearfix"></div>
 
 <!-- end section -->
