@@ -380,12 +380,12 @@
 
 					</div>
 
-					<div class="row">
+					<div class="row" style="text-align:center;" >
 						<div class="col-md-5">
-							<img src="images/red.jpeg" class="img-responsive" style="margin-left: 20px;">
+							<img src="images/blue.jpeg" class="img-responsive">
 						</div>
-						<div class="col-md-5">
-						<img src="images/blue.jpeg" class="img-responsive" style="margin-left: 186px;">
+						<div class="col-md-5 mr-5">
+						<img src="images/red.jpeg" class="img-responsive">
 								
 								
 							

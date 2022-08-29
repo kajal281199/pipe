@@ -1313,10 +1313,7 @@ while($arr=mysqli_fetch_array($sql)){
                                     <td>Limited effects - nears the wire only</td>
                                     <td>Impulse go upto 1 km </td>
                                 </tr>
-                                <tr>
-                                    <td>It has two wires one coming from the unit and one goes back to the unit, it creates a loop.</td>
-                                    <td>Only single wire emerges from the unit and goes to the pipe. No close loop formation.</td>
-                                </tr>
+                               
                                 <tr>
                                     <td>It works on induction</td>
                                     <td>It works on impulse </td>
@@ -1370,7 +1367,7 @@ while($arr=mysqli_fetch_array($sql)){
                                 </tr>
                                 <tr>
                                     <td>5 years resin life</td>
-                                    <td>5 years replacement warranty & 20 years product life</td>
+                                    <td>25 years long hassle free Life</td>
                                 </tr>
                                 <tr>
                                     <td>Need more space </td>
