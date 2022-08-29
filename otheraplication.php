@@ -260,12 +260,12 @@
           <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
           <div class="col-md-9 col-centered">
           <p style="text-align: justify;">After long observation and research by the scientists of impulse technology companies all over the world it is noted that using, treated water for drinking purpose of chicks and animals results:</p>
-          <p style="text-align: justify;"><i class="fa fa-angle-right"></i>   Increase in the process of bone formation.</p>
-          <p style="text-align: justify;"><i class="fa fa-angle-right"></i>   Improves morphology of blood.</p>
-          <p style="text-align: justify;"><i class="fa fa-angle-right"></i>   Helpful in the growth and development of some bones.</p>
-          <p style="text-align: justify;"><i class="fa fa-angle-right"></i>   Quality and quantity of meat improves</p>
-          <p style="text-align: justify;"><i class="fa fa-angle-right"></i>   Reduction in death rates by 2-3 times also noted.</p>
-          <p style="text-align: justify;"><i class="fa fa-angle-right"></i>   Average weight gain increse by 5 - 7% with egg laying quality by 10%.</p>
+          <p style="text-align: justify;">💧   Increase in the process of bone formation.</p>
+          <p style="text-align: justify;">💧   Improves morphology of blood.</p>
+          <p style="text-align: justify;">💧   Helpful in the growth and development of some bones.</p>
+          <p style="text-align: justify;">💧   Quality and quantity of meat improves</p>
+          <p style="text-align: justify;">💧   Reduction in death rates by 2-3 times also noted.</p>
+          <p style="text-align: justify;">💧   Average weight gain increse by 5 - 7% with egg laying quality by 10%.</p>
 
 
           <br/>
@@ -312,13 +312,13 @@
         <div class="col-md-12 margin-bottom">
           <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
           <div class="col-md-9 col-centered">
-          <p style="text-align: justify;">1. It increse the efficiency of concrete.</p>
-          <p style="text-align: justify;">2. Decrease in the volume of water become quite possible.</p>
-          <p style="text-align: justify;">3. The most important advantage : it increases the compressive strength of cement up to 27%.</p>
-          <p style="text-align: justify;">4. Concrete made in this way is more resistance against freezing  and more impermeable.</p>
-          <p style="text-align: justify;">5. Decrease in rate of breakage and wastage up to 25%.</p>
-          <p style="text-align: justify;">6. Decrease in water surface tension in magnetic water by 10% in comparison with ordunary water.</p>
-          <p>7. This device can be used and benefited any cement industry such as :</p>
+          <p style="text-align: justify;">💧 It increse the efficiency of concrete.</p>
+          <p style="text-align: justify;">💧 Decrease in the volume of water become quite possible.</p>
+          <p style="text-align: justify;">💧 The most important advantage : it increases the compressive strength of cement up to 27%.</p>
+          <p style="text-align: justify;">💧 Concrete made in this way is more resistance against freezing  and more impermeable.</p>
+          <p style="text-align: justify;">💧 Decrease in rate of breakage and wastage up to 25%.</p>
+          <p style="text-align: justify;">💧 Decrease in water surface tension in magnetic water by 10% in comparison with ordunary water.</p>
+          <p>💧 This device can be used and benefited any cement industry such as :</p>
 <p style="text-align: justify;">a) Paver Block Mfrs.</p>
 <p style="text-align: justify;">b) Cement Block Mfrs.</p>
 <p style="text-align: justify;">c) Cement Roof,Tops ,Sheets Mrfs.</p>

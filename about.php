@@ -348,32 +348,32 @@
 									have following qualities</h3>
 								<br>
 								<div class="col-md-6">
-									<p>1. 24v & 36v Operational.</p>
-									<p>2. Signal Strength:more then 2 Feet.</p>
-									<p>3. Wattage:7.5 Watts & more.</p>
-									<p>4. Zero maintenance,25 years life!
+									<p>💧 24v & 36v Operational.</p>
+									<p>💧 Signal Strength:more then 2 Feet.</p>
+									<p>💧 Wattage:7.5 Watts & more.</p>
+									<p>💧 Zero maintenance,25 years life!
 </p>
-									<p>5. Ripple Filter Added For Clean Signal.</p>
-									<p>6. 10 Programs.</p>
-									<p>7. Output Coil Length: Upto 4 Meters x 4 stages.</p>
-									<p>8. 100% Clean Impulse Signal.</p>
-									<p>9. Double excitation frequency type.</p>
-									<p>10. Max Pipe Diameter:6" to 20".</p>
+									<p>💧 Ripple Filter Added For Clean Signal.</p>
+									<p>💧 10 Programs.</p>
+									<p>💧 Output Coil Length: Upto 4 Meters x 4 stages.</p>
+									<p>💧 100% Clean Impulse Signal.</p>
+									<p>💧 Double excitation frequency type.</p>
+									<p>💧 Max Pipe Diameter:6" to 20".</p>
 								</div>
 								<div class="col-md-6">
-									<p>11.  Frequency Range: 3-32 khz x 4 stages.</p>
-									<p>12. ESD Protection From Lightening.
+									<p>💧  Frequency Range: 3-32 khz x 4 stages.</p>
+									<p>💧 ESD Protection From Lightening.
 </p>
-									<p>13. Power Control Circuit Added.</p>
-									<p>14. 24V / 36 v SMPS Works From 100V-240V.</p>
-									<p>15. Consumes little electric power aprox cost 1200 INR per year!
+									<p>💧 Power Control Circuit Added.</p>
+									<p>💧 24V / 36 v SMPS Works From 100V-240V.</p>
+									<p>💧 Consumes little electric power aprox cost 1200 INR per year!
 </p>
-									<p>16. Water remains treated for 5 to 7 days.</p>
-									<p>17. Automatic Reset backup last active program.</p>
-									<p>18. Our instruments works on 24x7 facility non stop.</p>
-									<p>19.<b> Our Impulse voltage amplitude is 400v to 500v volt impulses</b>
+									<p>💧 Water remains treated for 5 to 7 days.</p>
+									<p>💧 Automatic Reset backup last active program.</p>
+									<p>💧 Our instruments works on 24x7 facility non stop.</p>
+									<p>💧<b> Our Impulse voltage amplitude is 400v to 500v volt impulses</b>
 ( no one give in india now!)</p>
-									<p>20. High amplitude volt impulse frequency penetrate high flow water as well as it can penetrate & effect deeply inside water for assured Result, you can see in following image 👇🏻</p>
+									<p>💧 High amplitude volt impulse frequency penetrate high flow water as well as it can penetrate & effect deeply inside water for assured Result, you can see in following image 👇🏻</p>
 								</div>
 							</h4>
 						</div>
@@ -402,19 +402,19 @@
 									<br>
 									<div class="line" >
 										
-											<p > <i class="fa fa-angle-right"></i>Long experience over 10years</p>
-											<p ><i class="fa fa-angle-right"></i>We use Best and standard quality materials, as device has 20years Life!
+											<p >💧  Long experience over 10years</p>
+											<p >💧  We use Best and standard quality materials, as device has 20years Life!
 </p>
-											<p > <i class="fa fa-angle-right"></i>we surely give Money back guarantee if NO result found, costumers
-												satisfaction is our priority.</p>
-											<p ><i class="fa fa-angle-right"></i> We have all Range, size Models as per our clients Requirements &
-												Budget.</p>
-											<p ><i class="fa fa-angle-right"></i>Our products are of Best colours, Design, & packing Quality,
-												( just fit & forget)</p>
-											<p ><i class="fa fa-angle-right"></i> all over the world 🌍 we are most affordable price wise in impulse
-												technology and Best in performance,Quality & Design!</p>
-											<p ><i class="fa fa-angle-right"></i> our impulse technology have DOUBLE EXCITATION strong frequency wave
-												flow for excellent performance shown in GIF</p>
+											<p >💧  we surely give Money back guarantee if NO result found, costumers
+												    satisfaction is our priority.</p>
+											<p >💧  We have all Range, size Models as per our clients Requirements &
+												     Budget.</p>
+											<p >💧 Our products are of Best colours, Design, & packing Quality,
+												  ( just fit & forget)</p>
+											<p >💧 all over the world 🌍 we are most affordable price wise in impulse
+												   technology and Best in performance,Quality & Design!</p>
+											<p >💧 our impulse technology have DOUBLE EXCITATION strong frequency wave
+												   flow for excellent performance shown in GIF</p>
 										
 									</div>
 									<br>

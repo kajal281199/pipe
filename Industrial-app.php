@@ -271,25 +271,25 @@ becomes an issue of concern when traces of Calcium, Magnesium integrated with Ca
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text" style="text-align: justify;">1) Reduction of heat exchanging efficiency </div>
+								<div class="text" style="text-align: justify;">💧 Reduction of heat exchanging efficiency </div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text" style="text-align: justify;" >2) Reduction in mechanical efficiencies of equipment such as pump and the pipelines in terms of flow rates.</div>
+								<div class="text" style="text-align: justify;" >💧 Reduction in mechanical efficiencies of equipment such as pump and the pipelines in terms of flow rates.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text" style="text-align: justify;">3) Scaling results in huge energy losses electrical or thermal.</div>
+								<div class="text" style="text-align: justify;">💧 Scaling results in huge energy losses electrical or thermal.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text" style="text-align: justify;">4) Scaling is a pain area of all industry as the present process of de-scaling is very lengthy and expensive, where corrosive chemicals have to be handled and possibility of expensive parts that have been covered with heavy scales may be damaged in the process.
+								<div class="text" style="text-align: justify;">💧 Scaling is a pain area of all industry as the present process of de-scaling is very lengthy and expensive, where corrosive chemicals have to be handled and possibility of expensive parts that have been covered with heavy scales may be damaged in the process.
 
 </div>
 							</div>
@@ -343,17 +343,17 @@ The gaseous ions in the water are also conditioned, resulting in better tasting,
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 						<video width="100%" height="200" src="images/industrial/in2.mp4" type="video/mp4" frameborder="0" controls="" ></video>
 							<h3><i class="fa fa-angle-right"></i> APPLICATION IN :</h3>
-							<p><i class="fa fa-angle-right"></i> Cooling towers</p>
-							<p><i class="fa fa-angle-right"></i> boilers</p>
-							<p><i class="fa fa-angle-right"></i> Washing</p>
-							<p><i class="fa fa-angle-right"></i> air compressor.</p>
-<p><i class="fa fa-angle-right"></i> gasifier system.</p>
-<p><i class="fa fa-angle-right"></i> heat exchanger.</p>
-<p><i class="fa fa-angle-right"></i> plastic moulding.</p>
-<p><i class="fa fa-angle-right"></i> captive power plant.</p>
-<p><i class="fa fa-angle-right"></i> induction furnace.</p>
-<p><i class="fa fa-angle-right"></i> jacket cooling.</p>
-<p><i class="fa fa-angle-right"></i> all small & Big industries having Hard water & scale issues.</p>
+							<p>💧  Cooling towers</p>
+							<p>💧  boilers</p>
+							<p>💧  Washing</p>
+							<p>💧  air compressor.</p>
+<p>💧  gasifier system.</p>
+<p>💧  heat exchanger.</p>
+<p>💧  plastic moulding.</p>
+<p>💧  captive power plant.</p>
+<p>💧  induction furnace.</p>
+<p>💧  jacket cooling.</p>
+<p>💧  all small & Big industries having Hard water & scale issues.</p>
 						</div>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
 							<img src="images/industrial/in3.jpeg" alt="" class="img-responsive" />
@@ -391,44 +391,44 @@ The gaseous ions in the water are also conditioned, resulting in better tasting,
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom rmb-0">
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text" style="text-align: justify;">1) Huge savings of Time & money.</div>
+								<div class="text" style="text-align: justify;">💧 Huge savings of Time & money.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text"  style="text-align: justify;">2)  Heavy investment over stock of Chemicals.</div>
+								<div class="text"  style="text-align: justify;">💧 Heavy investment over stock of Chemicals.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></div>
-								<div class="text"  style="text-align: justify;">3) Chemical treatment of pipelines/tubes in interval of 1 to 6 month allow some scale to deposit.</div>
+								<div class="text"  style="text-align: justify;">💧 Chemical treatment of pipelines/tubes in interval of 1 to 6 month allow some scale to deposit.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text"  style="text-align: justify;">4)  Studies shows that 1 mm increase in scale thickness can reduce heating efficiency by an average of 6%, with the first 0.4mm showing a rate as high as 10%.
+								<div class="text"  style="text-align: justify;">💧  Studies shows that 1 mm increase in scale thickness can reduce heating efficiency by an average of 6%, with the first 0.4mm showing a rate as high as 10%.
 Hence continuous water treatment is required to reduce to running cost.
 </div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text"  style="text-align: justify;">5) De-Scale provides 24x7 water treatment without incurring chemical cost and maintain the efficiency throughout service period.
+								<div class="text"  style="text-align: justify;">💧 De-Scale provides 24x7 water treatment without incurring chemical cost and maintain the efficiency throughout service period.
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text"  style="text-align: justify;">6) Environment friendly .
+								<div class="text"  style="text-align: justify;">💧 Environment friendly .
 
 </div>
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text"  style="text-align: justify;">7)  over 20 years life No maintenance! 
+								<div class="text"  style="text-align: justify;">💧  over 20 years life No maintenance! 
 
 
 
@@ -436,7 +436,7 @@ Hence continuous water treatment is required to reduce to running cost.
 							</div>
 							<div class="iconlist-2">
 								<div class="icon dark"></i></div>
-								<div class="text"  style="text-align: justify;">8) save water save world 🌎
+								<div class="text"  style="text-align: justify;">💧 save water save world 🌎
 
 </div>
 							</div>

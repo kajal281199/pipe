@@ -256,6 +256,17 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="row" style="text-align:center;">
+									<div class="col-md-6 margin-bottom  col-centered">
+
+										<div 
+											class="col-md-12 col-sm-12">
+											<video width="70%" height="300px;" src="images/agriv.mp4" type="video/mp4" frameborder="0" controls="" style="margin-bottom: 27px;" ></video>
+
+										</div>
+									</div>
+								</div>
 			</section>
             <section>
 				<div class="container">

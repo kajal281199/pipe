@@ -387,10 +387,10 @@ top:23%;
     <div class="container-fluid">
                     <div class="row">
 						<div class="col-md-12">
-							<div class="header-inner " style="height:100px; width:100%">
+							<div class="header-inner " style="height:100px; width:100% ">
 								<div class="overlay">
 									<div>
-										<h4 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px;"><b>Total solution of scale & Hard water..</b></h4>
+										<h4 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px;  "><b>Total solution of scale & Hard water..</b></h4>
 									</div>
 								</div>
 							</div>
