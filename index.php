@@ -25,7 +25,7 @@ include('admin/config.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/wlogo.png">
+    <link rel="shortcut icon" href="images/logo/logo.png">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
     <!-- Google fonts  -->
@@ -449,13 +449,14 @@ top:23%;
 <section>
 				<div class="container">
 					<div class="row">
+                        <div class="col-sm-12">
 						<div class=" margin-bottom">
                         <img src="images/sliders/new.png" alt=""  style="height:150px;">
 						</div>
 						
 						<!--end item-->
 					</div>
-				
+                    </div>
 
 				</div>
 			</section>
@@ -470,17 +471,16 @@ top:23%;
 									<br>
                                     
                                 </div>
-                                    <div class="row sec-padding">
-						<div class="col-md-9 col-centered text-center">
-						<div class="col-md-12 col-centered">
-                        <p style="text-align: justify;">Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
-
-</p>
-<p style="text-align: justify;">Now as per the demand and requirements of New Era, our Highly skilled technical and research team has Developed a new Advanced, Effective and Unique 
-" Capacitance IMPULSE technology"</p>
-                           
-						</div>
-						</div>
+                                <div class="container-fluid">
+                                    <div class="row">
+                                    <div class="col-sm-6 col-centered text-center" style="text-align: justify;" >
+						
+                        Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
+                        </div>
+                        </div>
+                        </div>
+						
+						
 
 
 
@@ -499,7 +499,7 @@ top:23%;
 
 <br />
 
-<a class="btn btn-dark-3 btn-medium uppercase " href="about.php" style="margin-left: 59%;">Read more</a>
+<a class="btn btn-dark-3 btn-medium uppercase" href="about.php" style="margin-left: 59%;">Read more</a>
 											
 										
 									</div>

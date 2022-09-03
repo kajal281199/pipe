@@ -25,7 +25,7 @@ include('admin/config.php');
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/wlogo.png">
+    <link rel="shortcut icon" href="images/logo/logo.png">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 

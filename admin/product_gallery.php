@@ -60,7 +60,7 @@ $dnk=$_FILES['image']['tmp_name'];
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AdminLTE 3 | Advanced form elements</title>
+  <title>Product Gallery</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -109,12 +109,12 @@ $dnk=$_FILES['image']['tmp_name'];
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Advanced Form</h1>
+            <h1> Form</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Advanced Form</li>
+              <li class="breadcrumb-item active"> Form</li>
             </ol>
           </div>
         </div>
@@ -126,7 +126,7 @@ $dnk=$_FILES['image']['tmp_name'];
       <div class="container-fluid">
         <!-- SELECT2 EXAMPLE -->
         <div class="card card-default">
-          <div class="card-header">
+          <!-- <div class="card-header">
             <h3 class="card-title">Select2 (Default Theme)</h3>
 
             <div class="card-tools">
@@ -137,7 +137,7 @@ $dnk=$_FILES['image']['tmp_name'];
                 <i class="fas fa-times"></i>
               </button>
             </div>
-          </div>
+          </div> -->
           <!-- /.card-header -->
           <div class="card-body">
             <form method="POST" enctype="multipart/form-data">
@@ -196,9 +196,9 @@ $dnk=$_FILES['image']['tmp_name'];
             <!-- /.card -->
 
             <div class="card">
-              <div class="card-header">
+              <!-- <div class="card-header">
                 <h3 class="card-title">DataTable with default features</h3>
-              </div>
+              </div> -->
               <!-- /.card-header -->
               <div class="card-body">
                 <table id="example1" class="table table-bordered table-striped">

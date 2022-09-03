@@ -13,7 +13,7 @@
 
                     <div class="col-sm-3">
                         <a href="index.php" title="" class="logo mar-4 " style="margin-left:20px;">
-                            <img src="images/logo/wlogo.png" alt="" class="img-responsive">
+                            <img src="images/logo/logo.png" alt="" class="img-responsive">
                         </a>
                         <ul style="float: right;">
                             <li class="visible-xs menu-icon">
@@ -59,7 +59,8 @@
                                     
                                       <li class="<?= $page == 'gallery.php' ? 'active':'' ?>"> <a href="gallery.php">Gallery</a> </li>
 
-                                    
+                                      <li class="<?= $page == 'client_gallery.php' ? 'active':'' ?>"> <a href="client_gallery.php">Client Gallery</a> </li>
+
                                     <li class="<?= $page == 'contact.php' ? 'active':'' ?>"> <a href="contact.php">Contact</a> </li>
 
                                 </ul>
