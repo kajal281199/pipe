@@ -252,7 +252,12 @@ Water treated with New capacitance impulse technology keeps liquid ions, water m
 </p>
 <p style="text-align: justify;">When the Sudarshan Devices are fitted on a pipeline, the water flowing through the pipeline is subject to the intense, focused,effective Impulse frequency,
 The strong impulse frequency affects the physical structure of the Minerals,thereby altering their shape and physical properties. There is No chemistry involved, only physics. The Minerals continue to remain in the water, But now..the altered physical state prevents the Minerals from exibiting hardness,thus the water become soft.</p>
-
+<p style="text-align: justify;">It treats the water with capacitance electric impulses which are generated in the electronic panel and are controlled by a computerized programmed micro-chips. The strong signal-frequencies are delivered via impulse-copper cable that are wrapped around the pipe. The strong impulse frequency Run through the copper cable wire,  that changes the crystals and physical properties in the water as it flows by.
+Our patented 4 stage Impulse Model Technology modifies the crystallization of calcium and magnesium using the natural process of electrostatic . The crystals become smoother and rod-shaped Bond free and can no longer stick to each other. Limescale is now washed away in the water as a fine powder. The formation of new deposits is stopped. The more rod-shaped crystals that are created, the stronger the positive effect of limescale-prevention takes place. 
+*Ca(Hco3)2 < IMPULSE> Co2 + H2O * = Calcium carbonate converts into Bi-carbonate. ( Non soluble partcals covert into soluble particals) 
+This positively charged ions in water now Results Scale free,Non corrosive and Best solvent Water. 
+Our Double excitation capacitance impulse technology is programmed to kill the algae and stop corrosion formation simultaneously.The effect of impulse frequency remains in water for many days, This is the only technology in water 💧 conditioner that can keep water treated & scale-free for 5-7 days! Water can be stored! 
+You can say it Most advanced, Unique, well programmed, Most innovative and futuristic technology indeed.</p>
           <br/>
         <!--end item-->
           </div>

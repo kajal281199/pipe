@@ -450,7 +450,7 @@ top:23%;
 				<div class="container">
 					<div class="row">
 						<div class=" margin-bottom">
-                        <img src="images/sliders/cert.png" alt=""  style="height:150px;">
+                        <img src="images/sliders/new.png" alt=""  style="height:150px;">
 						</div>
 						
 						<!--end item-->

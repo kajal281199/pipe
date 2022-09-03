@@ -398,10 +398,9 @@ top:23%;
 
 			<!--end header inner-->
 			<section class="sec-padding" >
-				
-            
-                        <div class="container" id="g">
-					<div class="row">
+			
+                        <div class="container" >
+					<div class="row" id="g">
                     <?php     
     $sql=mysqli_query($conn,"select * from gallery");
 

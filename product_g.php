@@ -399,8 +399,26 @@ top:23%;
 			<section class="sec-padding">
 				
             
-                        <div class="container" id="pd">
-					<div class="row">
+                        <div class="container">
+								
+			<div class="row">
+        
+        <!-- <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div> -->
+        <div class="col-md-12 margin-bottom">
+          <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
+          <div class="col-md-9 col-centered">
+          <p  style="text-align: justify;">Our product quality is designed by our experts for every type of installation in  all sectors, we use isi standard material for Long life and zero complain, (just fit and forget) we use best colour, components & packing material for smooth and hassle free shipping. Our product size starts from 1" inch dia to 20" inch dia, whatever the clients requirement we fulfill on demand upto 40" inch dia model. <b>We are ISO CERTIFIED 9001-2015 company with EC & ANSI Certified</b>,*bound to maintain standard & quality of the products .
+We are the most affordable price wise in india 🇮🇳 as far the impulse technology is concerned & Best in Performance and Quantity.
+
+</p>
+
+
+          <br/>
+        <!--end item-->
+          </div>
+      </div>
+    </div>
+					<div class="row"  id="pd">
                     <?php     
     $sql=mysqli_query($conn,"select * from product_gallery");
 
