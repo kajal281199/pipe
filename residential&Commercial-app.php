@@ -341,40 +341,40 @@
 						<div class="col-md-7 col-sm-7 col-xs-12 margin-bottom">
 
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">Commercial buildings.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">Residential societies.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">High rise buildings.</div>
 							</div>
 							<!--end item-->
 
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">Hotels and restaurants.</div>
 							</div>
 							<!--end item-->
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">Club houses & Shopping malls.</div>
 							</div>
 							<!--end item-->
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">Hospitals.</div>
 							</div>
 							<!--end item-->
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark">💧</div>
 								<div class="text">Educational institutions and schools
 .</div>
 							</div>

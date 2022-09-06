@@ -9,23 +9,20 @@ if(isset($_GET['delsr_no'])){
   }
 if(isset($_POST['submit']))
 {
-  
-  $name = $_POST['name'];
+
+    $name = $_POST['name'];
     $subject =mysqli_real_escape_string($conn,$_POST['subject']);
     $image=$_FILES['image']['name'];
 
     $extension=substr( $image,strlen( $image)-4,strlen( $image));
-    $all_extension = array(".jpg","jpeg",".png","gif","mp4","mov");
-    if(!in_array($extension,$all_extension)){
-      $msg="Invalid format. Only jpg / jpeg/ png /gif /mp4 /mov format allowed";
-    } 
-        else{
-          $image=md5($image).$extension;
+    $image=md5($image).$extension;
     $dnk=$_FILES['image']['tmp_name'];
     $loc="dist/img/credit/".$image;
     move_uploaded_file($dnk,$loc);
+   
+   
+    
         
-            }
     $sql="INSERT INTO `client_gallery`(`name`, `image`, `subject`) VALUES ('$name','$image','$subject')";
     if (mysqli_query($conn, $sql)){
       echo "<script> alert ('New record has been added successfully !');</script>";
@@ -155,7 +152,7 @@ $dnk=$_FILES['image']['tmp_name'];
                   <label>image/video
                   </label>
                   <div class="custom-file">
-                        <input type="file"  name="image" id="exampleInputFile" class="form-control">
+                        <input type="file"  name="image" id="exampleInputFile"  class="form-control" accept=".jpg,.jpeg,.png,.gif,.mp4,.MP4,.mov">
                        
                       </div>
                 </div>
@@ -505,5 +502,8 @@ $dnk=$_FILES['image']['tmp_name'];
 
           });
           </script>
+          <script>
+        
+            </script>
 </body>
 </html>

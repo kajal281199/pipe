@@ -318,70 +318,70 @@
 							<!--end title-->
 						<div class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Saves water up to 30%.</div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Crop production 10 to 40% & crop quality increases.</div>
 							</div>
 							<!--end item-->
 							<div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Improves soil PH level for sure.</div>
 							</div>
 							<!--end item-->
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Remove and prevent scaling deposit on dripper and sprinkler</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Reduce tip burning problem in leaves upto 40 to 70%</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Make Soli softer and smoother & absorb capacity of soil.</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Treated soluble water dilute fertilizers easily,gives 100% benefits of fertilizers,</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Increase oxygen concentration which increase seed germination</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Reduces effect of Chlorides & Fluorides that helps to increase sub-roots efficiently</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Treated and conditioned water keep the Roots free from salt that helps increase sub-roots and crop production</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">soluble water makes Fertilizer and Pesticides mix very well for better use.</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Water absorption becomes more easy for roots and they become healthier.</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Basic nutrients are made available to root zone, it enhances plant growth.</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Reduces effect of Chlorides & Fluorides, increases roots efficiency</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Cleans root hair and root cap area to increase water absorption by roots</div>
 							</div>
                             <div class="iconlist-2">
-								<div class="icon dark"><i class="fa fa-arrow-circle-right"></i></div>
+								<div class="icon dark"> 🌱</div>
 								<div class="text">Pipe, Drip irrigation and sprinkler nozzles will be protected from scaling. & remain maintenance free.</div>
 							</div>
 

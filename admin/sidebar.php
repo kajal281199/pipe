@@ -58,7 +58,17 @@
             <a href="product_gallery.php" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-               Product_Gallery
+               Product Gallery
+                
+              </p>
+            </a>
+            
+          </li>
+          <li class="nav-item">
+            <a href="client_gallery.php" class="nav-link">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+               Client Gallery
                 
               </p>
             </a>
