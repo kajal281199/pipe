@@ -227,7 +227,7 @@
             <div class="header-inner less-height">
               <div class="overlay">
                 <div class="text text-center">
-                  <h3 class="uppercase text-white less-mar-1 title">Other Applications</h3>               
+                  <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">Other Applications</h3>               
                 </div>
               </div>
             </div>

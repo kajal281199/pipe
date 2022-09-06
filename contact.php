@@ -291,7 +291,7 @@ if(isset($_POST['Submit'])){
 
                                     <div class="text text-center">
 
-                                        <h3 class="uppercase text-white less-mar-1 title">Contact</h3>
+                                        <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">Contact</h3>
 
                                     </div>
 

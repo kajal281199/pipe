@@ -390,7 +390,7 @@ top:23%;
 							<div class="header-inner " style="height:100px; width:100% ">
 								<div class="overlay">
 									<div>
-										<h4 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px;  "><b>Total solution of scale & Hard water..</b></h4>
+										<h4 class="uppercase text-white less-mar-1 title " style="text-align:center; margin-top:40px; color: white;"  ><b>Total solution of scale & Hard water..</b></h4>
 									</div>
 								</div>
 							</div>

@@ -224,7 +224,7 @@
 							<div class="header-inner less-height">
 								<div class="overlay">
 									<div class="text text-center">
-										<h3 class="uppercase text-white less-mar-1 title">Residents & Commercial Application</h3>
+										<h3 class="uppercase text-white less-mar-1 title" style=" color: white;">Residents & Commercial Application</h3>
 									</div>
 								</div>
 							</div>
