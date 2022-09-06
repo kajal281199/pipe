@@ -428,7 +428,7 @@ top:23%;
                     <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:55%; width:55%;" />
                     <a class="lightbox-close" href="#g"></a>
                     </div>
-							<h4 class="uppercase title font-weight-5 pt-2 text-center ">rytguyhiuj</h4>
+							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 						</div>
 						
 						<?php }  ?>
