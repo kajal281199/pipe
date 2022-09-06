@@ -222,7 +222,7 @@ include('admin/config.php');
 height: 150px;
 border: 3px solid white;
 box-shadow: 0px 0px 8px rgba(0,0,0,.3);
-margin: 9px 20px 20px 55px;
+
 }
 
 /* Styles the lightbox, removes it from sight and adds the fade-in transition */
@@ -407,14 +407,28 @@ top:23%;
     while($arr=mysqli_fetch_array($sql)){
     ?>
 						<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-						<a class="lightbox" href="#<?php echo $arr['name'] ?>">
-							<video src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:250px; width:300px;" ></video></a>
+					
+							
+
+							<?php
+                               $img1 =  $arr['image']; 
+                                $upload=substr( $img1,strlen( $img1)-4,strlen( $img1));
+                             if ($upload==".MP4" || $upload =='.mp4'){ ?>
+                               <video class="img-responsive" style="height:250px; width:300px;"  controls>
+                            <source src="admin/dist/img/credit/<?php echo $arr['image'];?>" type="video/mp4">
+                              </video>
+                            <?php }else{ ?>
+								<a class="lightbox" href="#<?php echo $arr['name'] ?>">
+                           <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" class="img-responsive" style="height:250px; width:300px;" >
+                              <?php }                     
+                                    ?>  </a>                 
+
 
 							<div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
                     <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive" style="height:55%; width:55%;" />
                     <a class="lightbox-close" href="#g"></a>
                     </div>
-							<h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
+							<h4 class="uppercase title font-weight-5 pt-2 text-center ">rytguyhiuj</h4>
 						</div>
 						
 						<?php }  ?>

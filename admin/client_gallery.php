@@ -152,7 +152,7 @@ $dnk=$_FILES['image']['tmp_name'];
                   <label>image/video
                   </label>
                   <div class="custom-file">
-                        <input type="file"  name="image" id="exampleInputFile"  class="form-control" accept=".jpg,.jpeg,.png,.gif,.mp4,.MP4,.mov">
+                        <input type="file"  name="image" id="exampleInputFile"  class="form-control" accept="audio/*,video/*,image/*" />
                        
                       </div>
                 </div>
@@ -220,9 +220,17 @@ $dnk=$_FILES['image']['tmp_name'];
                     <td><?php echo $count;?></td>
                     <td><?php echo $arr['name'];?></td>
                     <td>
-                    <video width="150px" height="150px" controls>
+                      <?php
+                     $img1 =  $arr['image']; 
+$upload=substr( $img1,strlen( $img1)-4,strlen( $img1));
+if ($upload==".MP4" || $upload =='.mp4'){ ?>
+  <video width="150px" height="150px" controls>
   <source src="dist/img/credit/<?php echo $arr['image'];?>" type="video/mp4">
 </video>
+<?php }else{ ?>
+ <img src="dist/img/credit/<?php echo $arr['image'];?>" style="height:150px; width:150px;" >
+<?php }                     
+ ?>                   
                     </td>
                     <td><?php echo $arr['subject'];?></td>
                     <td> 
