@@ -373,7 +373,7 @@
 									<p>💧 Our instruments works on 24x7 facility non stop.</p>
 									<p>💧<b> Our Impulse voltage amplitude is 400v to 500v volt impulses</b>
 ( no one give in india now!)</p>
-									<p>💧High amplitude volt impulse frequency can penetrate high flow water, it has strong volt power support to reach  upto middle of the pipe for effective Result & De-scale process, you can see in following image 👇🏻</p>
+									<p>💧<b>High amplitude volt impulse frequency can penetrate high flow water, it has strong volt power support to reach  upto middle of the pipe for effective Result & De-scale process, you can see in following image </b>👇🏻</p>
 								</div>
 							</h4>
 						</div>

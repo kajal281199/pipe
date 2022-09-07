@@ -190,6 +190,12 @@
             z-index: 9999;
             right: 0;
         }
+
+        @media(max-width: 600px) {
+        .c1{
+    margin-top: -73px;
+  }
+}
     </style>
 
 
@@ -240,12 +246,12 @@
     <section class="sec-bpadding-1 sec-padding">
     <div class="container">
       <div class="row">
-      <div class="col-sm-12 nopadding">
+      <div class="col-sm-12 nopadding ">
 
 <div class="sec-title-container text-left pb-0">
 <div class="text text-center">
     
-    <h3 class="uppercase font-weight-7 less-mar-1">Impulse Technology for Poultry and Animal Trading:
+    <h3 class="uppercase font-weight-7 less-mar-1 ">Impulse Technology for Poultry and Animal Trading:
 
     </h3>
     </h6>
@@ -258,7 +264,7 @@
         <!-- <div class="col-md-6 margin-bottom"><img src="images/sliders/img7.jpeg" alt="" class="img-responsive"/></div> -->
         <div class="col-md-12 margin-bottom">
           <!-- <h4 class="uppercase font-weight-7 col-md-9 col-centered text-center">How it work </h4> -->
-          <div class="col-md-9 col-centered">
+          <div class="col-md-9 col-centered  ">
           <p style="text-align: justify;">After long observation and research by the scientists of impulse technology companies all over the world it is noted that using, treated water for drinking purpose of chicks and animals results:</p>
           <p style="text-align: justify;">💧   Increase in the process of bone formation.</p>
           <p style="text-align: justify;">💧   Improves morphology of blood.</p>
@@ -274,7 +280,8 @@
       </div>
     </div>
     
-
+      </div>
+    </div>
     <!-- <div class="row sec-padding">
       <div class="col-md-12 text-center chem-bg">
           <img src="images/img/working-chemarea2.png">

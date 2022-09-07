@@ -349,7 +349,23 @@ top:23%;
     padding-right: 15px;
     padding-left: 15px;
 }
-        
+
+@media(max-width: 600px) {
+  .c{
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+  .c1{
+    margin-bottom: -40px;
+  }
+  .c2{
+    padding-top: 24px;
+  }
+  .c3{
+    margin-bottom: 10px;
+  }
+}
+
     </style>
     
     
@@ -450,8 +466,8 @@ top:23%;
 				<div class="container">
 					<div class="row">
                         <div class="col-sm-12">
-						<div class=" margin-bottom">
-                        <img src="images/sliders/new.png" alt=""  style="height:150px;">
+						<div class=" margin-bottom ">
+                        <img src="images/sliders/new.png" alt=""  >
 						</div>
 						
 						<!--end item-->
@@ -462,7 +478,7 @@ top:23%;
 			</section>
    
     <div class="row">
-								<div class="col-md-12 line col-centered" style="padding-bottom: 30px;">
+								<div class="col-md-12 line col-centered c1" style="padding-bottom: 30px;">
 									<h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 col-centered text-center" style="padding-top:40px;">
                                     Welcome to Sudarshan Technology  :</h3>
                                     <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow text-center">INDIA'S Leading anti-scale systems
@@ -473,7 +489,7 @@ top:23%;
                                 </div>
                                 <div class="container-fluid">
                                     <div class="row">
-                                    <div class="col-sm-6 col-centered text-center" style="text-align: justify;" >
+                                    <div class="col-sm-6 col-centered text-center c" style="text-align: justify;" >
 						
                         Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past 10 years we have achieved Big highs  mainly in Agriculture and Domestic segments! With Electro-Magnet technology our successes rate is over 90% since last 10 years!
                         </div>
@@ -485,7 +501,7 @@ top:23%;
 
 
 
-									<div class="line col-md-9" >
+									<div class="line col-md-9" style="padding-bottom: 30px;">
 										
                                    
 
@@ -571,7 +587,7 @@ This capacitance impulse frequency effectively change & prevent different size o
                     
 
                     <!-- end item-->
-                    <div class="col-md-5"> <img src="images/sliders/img.jpg" alt="" class="img-responsive" /> </div>
+                    <div class="col-md-5 c2"> <img src="images/sliders/img.jpg" alt="" class="img-responsive" /> </div>
 
                 </div>
 
@@ -668,7 +684,7 @@ Our inbuilt<b> High Amplitude volt</b> impulse technology penetrate  water deep 
                                 </div>
                                     <div class="row sec-padding">
 						<div class="col-md-9 col-centered text-center">
-						<div class="col-md-12 col-centered">
+						<div class="col-md-12 col-centered c">
                         <p style="text-align: justify; margin-top: -32px;">"Water" the inevitable coolant in the industries,
 becomes an issue of concern when traces of Calcium, Magnesium integrated with Carbonates, Bicarbonates or Sulphates are found in term of 'HARD WATER'. Minerals in water create problem when they collect, compact and form scales. The problems posed by such 'HARD WATER' to industry are costly and time consuming as far the de-scaling & cleaning of industrial equipments are concerned.
 </p>
@@ -1154,12 +1170,12 @@ while($arr=mysqli_fetch_array($sql)){
             <div class="row">
             
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; ">
-                <a class="btn btn-dark-3 btn-medium uppercase pdf" href="images/sliders/english-brochure.pdf"  target="_blank"><i
+                <a class="btn btn-dark-3 btn-medium uppercase pdf c3" href="images/sliders/english-brochure.pdf"  target="_blank"><i
                         class="fa fa-download"></i>&nbsp;&nbsp;Digital Card</a></div>
                 
                 <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom" style="display:flex;justify-content: center; float:right;">
 
-                <a class="btn btn-dark-3 btn-medium uppercase pdf" href="images/sliders/Brochure.pdf"target="_blank"><i
+                <a class="btn btn-dark-3 btn-medium uppercase pdf c3" href="images/sliders/Brochure.pdf"target="_blank"><i
                         class="fa fa-download"></i>&nbsp;&nbsp;For Download</a></div>
                     <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 
