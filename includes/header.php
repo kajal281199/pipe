@@ -59,7 +59,7 @@
                                     
                                       <li class="<?= $page == 'gallery.php' ? 'active':'' ?>"> <a href="gallery.php">Gallery</a> </li>
 
-                                      <li class="<?= $page == 'client_gallery.php' ? 'active':'' ?>"> <a href="client_gallery.php">Client Gallery</a> </li>
+                                      <li class="<?= $page == 'client_gallery.php' ? 'active':'' ?>"> <a href="client_gallery.php">Clients Gallery</a> </li>
 
                                     <li class="<?= $page == 'contact.php' ? 'active':'' ?>"> <a href="contact.php">Contact</a> </li>
 
