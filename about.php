@@ -373,7 +373,7 @@
 									<p>💧 Our instruments works on 24x7 facility non stop.</p>
 									<p>💧<b> Our Impulse voltage amplitude is 400v to 500v volt impulses</b>
 ( no one give in india now!)</p>
-									<p>💧 High amplitude volt impulse frequency penetrate high flow water as well as it can penetrate & effect deeply inside water for assured Result, you can see in following image 👇🏻</p>
+									<p>💧High amplitude volt impulse frequency can penetrate high flow water, it has strong volt power support to reach  upto middle of the pipe for effective Result & De-scale process, you can see in following image 👇🏻</p>
 								</div>
 							</h4>
 						</div>
@@ -413,8 +413,9 @@
 												  ( just fit & forget)</p>
 											<p >💧 all over the world 🌍 we are most affordable price wise in impulse
 												   technology and Best in performance,Quality & Design!</p>
-											<p >💧 our impulse technology have DOUBLE EXCITATION strong frequency wave
-												   flow for excellent performance shown in GIF</p>
+											<p ><b>💧 Our impulse technology have 
+( TWO WAY)
+DOUBLE EXCITATION strong frequency wave flow for excellent performance shown in GIF</b></p>
 										
 									</div>
 									<br>
