@@ -72,6 +72,14 @@ include('admin/config.php');
      .img-responsive {
         border-radius: 10px;
     }
+    .modal-img{
+        width:55%;
+    }
+    @media (max-width:768px) {
+        .modal-img{
+        width:90%;
+    }
+    }
     </style>
 </head>
 
@@ -123,7 +131,7 @@ include('admin/config.php');
                 <div class="container">
                     <h1 class="uppercase font-weight-7 text-gyellow text-center">Gallery</h1>
                     <div class="tp-title-line-2"></div>
-                    <div class="row" id="g">
+                    <div class="row mt-5" id="g">
                         <?php     
                              $sql=mysqli_query($conn,"select * from gallery");
 
@@ -136,7 +144,7 @@ include('admin/config.php');
 
                             <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
                                 <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
-                                    class="img-responsive" style="height:55%; width:55%;" />
+                                    class="img-responsive modal-img" />
                                 <a class="lightbox-close" href="#g"></a>
                             </div>
                             <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>

@@ -476,8 +476,8 @@ include('admin/config.php');
 
                     <div class="mySlides fade">
                         <div class="numbertext">1 / 4</div>
-                        <img src="images/sliders/chakra.jpeg" style="width:100%; height: 550px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/chakra.jpeg" class="mobile-slide">
+                        <img src="images/sliders/chakra.webp" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/chakra.webp" class="mobile-slide">
 
                     </div>
 

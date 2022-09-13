@@ -12,7 +12,7 @@
 
                     <div class="col-sm-3">
                         <a href="index.php" title="" class="logo mar-4 " style="margin-left:20px;">
-                            <img src="images/logo/logo.png" alt="" class="img-responsive">
+                            <img src="images/logo/logo.webp" alt="" class="img-responsive">
                         </a>
                         <ul style="float: right;">
                             <li class="visible-xs menu-icon">
@@ -47,7 +47,8 @@
 
                                             <li class="<?= $page == 'residential&Commercial-app.php' ? 'active':'' ?>">
                                                 <a href="residential&Commercial-app.php">Residential & Commercial
-                                                    Applications</a> </li>
+                                                    Applications</a>
+                                            </li>
 
 
 

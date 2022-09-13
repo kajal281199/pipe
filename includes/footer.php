@@ -8,7 +8,7 @@
 
                 <div class="fo-map">
 
-                    <div class="footer-logo pl-0 ps-0 mb-2"><img src="images/logo/logo.png" alt=""
+                    <div class="footer-logo pl-0 ps-0 mb-2"><img src="images/logo/logo.webp" alt=""
                             class="img-responsive m-0" /></div>
 
                     <div class="para1">
