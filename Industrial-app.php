@@ -381,17 +381,17 @@
                             <p>💧 all small & Big industries having Hard water & scale issues.</p>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                            <img src="images/industrial/in3.jpeg" alt="" class="img-responsive" />
+                            <img src="images/industrial/in3.webp" alt="" class="img-responsive" />
                             <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 
-                            <img src="images/industrial/in4.jpeg" alt="" class="img-responsive" />
+                            <img src="images/industrial/in4.webp" alt="" class="img-responsive" />
                             <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                            <img src="images/industrial/in1.jpeg" alt="" class="img-responsive" />
+                            <img src="images/industrial/in1.webp" alt="" class="img-responsive" />
                             <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
 
-                            <img src="images/industrial/in5.jpeg" alt="" class="img-responsive" />
+                            <img src="images/industrial/in5.webp" alt="" class="img-responsive" />
                             <h4 class="uppercase title font-weight-5 pt-2 text-center "> </h4>
                         </div>
                         <!--end item-->

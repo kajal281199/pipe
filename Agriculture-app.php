@@ -303,26 +303,26 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
                             <div class="row m-1 p-1">
-                                <img src="images/industrial/6.jpeg" alt="" class="img-responsive" />
+                                <img src="images/industrial/6.webp" alt="" class="img-responsive" />
                             </div>
                             <div class="row m-1 p-1">
-                                <img src="images/industrial/1.jpeg" alt="" class="img-responsive" />
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                            <div class="row m-1 p-1">
-                                <img src="images/industrial/33.jpeg" alt="" class="img-responsive" />
-                            </div>
-                            <div class="row m-1 p-1">
-                                <img src="images/industrial/22.jpeg" alt="" class="img-responsive" />
+                                <img src="images/industrial/1.webp" alt="" class="img-responsive" />
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
                             <div class="row m-1 p-1">
-                                <img src="images/industrial/5.jpeg" alt="" class="img-responsive" />
+                                <img src="images/industrial/33.webp" alt="" class="img-responsive" />
                             </div>
                             <div class="row m-1 p-1">
-                                <img src="images/industrial/4.jpeg" alt="" class="img-responsive" />
+                                <img src="images/industrial/22.webp" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
+                            <div class="row m-1 p-1">
+                                <img src="images/industrial/5.webp" alt="" class="img-responsive" />
+                            </div>
+                            <div class="row m-1 p-1">
+                                <img src="images/industrial/4.webp" alt="" class="img-responsive" />
                             </div>
                         </div>
                         <!--end item-->

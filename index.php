@@ -484,24 +484,24 @@ include('admin/config.php');
 
                     <div class="mySlides fade">
                         <div class="numbertext">2 / 4</div>
-                        <img src="images/sliders/indeximg.jpeg" style="width:100%; height: 550px;"
+                        <img src="images/sliders/indeximg.webp" style="width:100%; height: 550px;"
                             class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/indeximg.jpeg" class="mobile-slide">
+                        <img src="images/sliders/phone%20slider/indeximg.webp" class="mobile-slide">
 
                     </div>
 
                     <div class="mySlides fade">
                         <div class="numbertext">3 / 4</div>
-                        <img src="images/sliders/agri.jpeg" style="width:100%; height: 550px;" class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/agri.jpeg" class="mobile-slide">
+                        <img src="images/sliders/agri.webp" style="width:100%; height: 550px;" class="desktop-slide">
+                        <img src="images/sliders/phone%20slider/agri.webp" class="mobile-slide">
 
                     </div>
 
                     <div class="mySlides fade">
                         <div class="numbertext">4 / 4</div>
-                        <img src="images/sliders/indeximg2.jpeg" style="width:100%; height: 550px;"
+                        <img src="images/sliders/indeximg2.webp" style="width:100%; height: 550px;"
                             class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/indeximg2.jpeg" class="mobile-slide">
+                        <img src="images/sliders/phone%20slider/indeximg2.webp" class="mobile-slide">
 
                     </div>
 
@@ -519,7 +519,7 @@ include('admin/config.php');
         <div class="row">
             <div class="col-sm-12">
                 <div class=" margin-bottom ">
-                    <img src="images/sliders/new.png" alt="" style="width:100%;">
+                    <img src="images/sliders/new.webp" alt="" style="width:100%;">
                 </div>
 
                 <!--end item-->
@@ -598,7 +598,7 @@ include('admin/config.php');
                         </p>
                         <a class="btn btn-dark-3 mt-2 btn-medium uppercase" href="howitworks.php">Read more</a>
                     </div>
-                    <div class="col-md-5 c2"> <img src="images/sliders/img.jpg" alt="" class="img-responsive" /> </div>
+                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt="" class="img-responsive" /> </div>
                 </div>
             </div>
         </section>
@@ -607,7 +607,7 @@ include('admin/config.php');
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 col-xs-12">
-                        <img src="images/sliders/agri.jpeg" alt="" class="img-responsive" />
+                        <img src="images/sliders/agri.webp" alt="" class="img-responsive" />
                         <h6 class="text-center text-gyellow mb-0"><b>Capacitance Impulse 4 Stage Model</b> </h6>
                         <p class="text-center">(Design applied for patent)</p>
                     </div>
@@ -827,7 +827,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/maintenance-free.png" alt=""
+                                    <img src="images/img/homepage/maintenance-free.webp" alt=""
                                         class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">Maintenance-free
@@ -856,7 +856,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/ecofriendly.png" alt=""
+                                    <img src="images/img/homepage/ecofriendly.webp" alt=""
                                         class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">100% Eco-friendly
@@ -887,7 +887,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/chemical-free.png" alt=""
+                                    <img src="images/img/homepage/chemical-free.webp" alt=""
                                         class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">No Chemicals,No Salts, &
@@ -919,7 +919,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/efficient.png" alt="" class="img-responsive pb-5 p-5">
+                                    <img src="images/img/homepage/efficient.webp" alt="" class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">Efficient for All Pipes</h4>
                                     <h6 class="font-weight-4 para">Technology is suitable for all types of
@@ -957,7 +957,7 @@ include('admin/config.php');
                     <div class="col-md-6 pt-3 col-centered">
 
                         <div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
-                            <img src="images/save.jpeg" class="img-responsive">
+                            <img src="images/save.webp" class="img-responsive">
 
                         </div>
                     </div>
@@ -1019,7 +1019,7 @@ include('admin/config.php');
 
                             <div class="col-md-6 text-center ">
 
-                                <img src="images/img/homepage/dif1.jpeg" class="img-responsive">
+                                <img src="images/img/homepage/dif1.webp" class="img-responsive">
 
                                 <h5 class="raleway" style="color:#fff;">
 
@@ -1035,7 +1035,7 @@ include('admin/config.php');
 
                             <div class="col-md-6 text-center pt-m-1">
 
-                                <img src="images/img/homepage/dif.jpeg" class="img-responsive w-100">
+                                <img src="images/img/homepage/dif.webp" class="img-responsive w-100">
 
                                 <h5 class="raleway" style="color:#fff;">Water Softeners Vs. Sudarshan Anti
                                     Scale System

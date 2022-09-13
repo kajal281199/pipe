@@ -230,7 +230,7 @@
 
             <section class="section-side-image">
                 <div class="img-holder col-md-12 col-sm-12 col-xs-12">
-                    <div class="background-imgholder" style="background:url(images/img/inner-back.png);"><img
+                    <div class="background-imgholder" style="background:url(images/img/inner-back.webp);"><img
                             class="nodisplay-image" src="images/header-inner-4.html" alt="" /> </div>
                 </div>
                 <div class="container-fluid">
@@ -313,7 +313,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-8 margin-bottom  col-centered"><img src="images/sliders/img7.jpeg" alt=""
+                        <div class="col-md-8 margin-bottom  col-centered"><img src="images/sliders/img7.webp" alt=""
                                 class="img-responsive" /></div>
                     </div>
 

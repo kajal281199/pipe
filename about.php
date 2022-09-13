@@ -411,11 +411,11 @@
                     <div class="row" style="text-align:center;">
                         <div class="col-md-6">
 						<h1 class="font-weight-8" style="color:red;">High Amplitude</h1>
-                            <img src="images/red1.jpeg" class="img-responsive">
+                            <img src="images/red1.webp" class="img-responsive">
                         </div>
                         <div class="col-md-6 mr-6">
 						<h1 class="font-weight-8">Low Amplitude</h1>
-                            <img src="images/blue1.jpeg" class="img-responsive">
+                            <img src="images/blue1.webp" class="img-responsive">
                         </div>
 
                     </div>
