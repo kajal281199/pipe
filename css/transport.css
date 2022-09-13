@@ -195,18 +195,60 @@ Design and Developed by: Codelayers
 	height:1px;
 	float:left;
 	margin:8px 0 18px 0;
-	background-color:#136290 !important;
+	background-color:#7bc14b !important;
 }
 
 /*============ Section Titles ============ */
+.Hero {
+	width: 100%;
+	overflow: hidden;
+}
+
+.subhead-green {
+	color: #7bc14b;
+}
+
+.para {
+	font-size: 17px;
+	text-align: justify;
+	line-height: 30px;
+}
+.para1 {
+	font-size: 15px;
+	text-align: justify;
+	line-height: 25px;
+}
+.fIcon{
+color: #136290 ;
+}
+@media only screen and (max-width: 768px)  {
+	.fLinkL, .fLinkR{
+		text-align: center !important;
+	}
+}
+
+.fLinkL{
+	text-align: left;
+}
+.fLinkR{
+	text-align: right;
+}
 
 /* title line
  ------------------------------ */
-.tp-title-line-1 {
+.tp-title-line-2 {
 	width: 70px;
 	height:2px;
 	margin:15px auto 10px auto;
-	background-color:#101010;
+	background-color:#7bc14b;
+}
+.tp-title-line-1 {
+	width: 70px;
+	height:2px;
+	float:left;
+
+	margin:10px auto auto auto;
+	background-color:#7bc14b;
 }
 .tp-title-line-1.align-left {
 	width: 70px;
@@ -336,4 +378,325 @@ width:90%;
 	
 	
 
+}
+.cal:hover {
+	width: 45px;
+	cursor: pointer;
+}
+
+.cal {
+	border: 2px solid #226bb4;
+	background: #226bb4;
+	color: #fff;
+	padding: 16px 8px 0 10px;
+	line-height: 50px;
+	font-size: 18px;
+	height: 50px;
+	top: 60%;
+	transition-property: width;
+	overflow: hidden;
+}
+
+.cal {
+	width: 45px;
+	transition-timing-function: linear;
+	position: fixed;
+	z-index: 9999;
+}
+
+.eml:hover {
+	width: 45px;
+	cursor: pointer;
+}
+
+.eml {
+	border: 2px solid #226bb4;
+	background: #226bb4;
+	color: #fff;
+	padding: 16px 8px 0 14px;
+	line-height: 50px;
+	font-size: 18px;
+	height: 50px;
+	top: 68%;
+	transition-property: width;
+	overflow: hidden;
+}
+
+.eml {
+	width: 45px;
+	transition-timing-function: linear;
+	position: fixed;
+	z-index: 9999;
+}
+
+.what:hover {
+	width: 45px;
+	cursor: pointer;
+}
+
+.what {
+	border: 2px solid #226bb4;
+	background: #226bb4;
+	color: #fff;
+	padding: 16px 8px 0 14px;
+	line-height: 50px;
+	font-size: 18px;
+	height: 50px;
+	top: 76%;
+	transition-property: width;
+	overflow: hidden;
+}
+
+.what {
+	width: 45px;
+	transition-timing-function: linear;
+	position: fixed;
+	z-index: 9999;
+}
+
+.ins:hover {
+	width: 45px;
+	cursor: pointer;
+}
+
+.ins {
+	border: 2px solid #226bb4;
+	background: #226bb4;
+	color: #fff;
+	padding: 16px 8px 0 14px;
+	line-height: 50px;
+	font-size: 18px;
+	height: 50px;
+	top: 84%;
+	transition-property: width;
+	overflow: hidden;
+}
+
+.ins {
+	width: 45px;
+	transition-timing-function: linear;
+	position: fixed;
+	z-index: 9999;
+}
+
+.phone:hover {
+	width: 45px;
+	cursor: pointer;
+}
+
+.phone {
+	border: 2px solid #226bb4;
+	background: #226bb4;
+	color: #fff;
+	padding: 16px 8px 0 14px;
+	line-height: 50px;
+	font-size: 18px;
+	height: 50px;
+	top: 92%;
+	transition-property: width;
+	overflow: hidden;
+}
+
+.phone {
+	width: 45px;
+	transition-timing-function: linear;
+	position: fixed;
+	z-index: 9999;
+}
+
+.download {
+	color: #fff;
+	padding: 0 0px 0 0px;
+	line-height: 50px;
+	font-size: 18px;
+	top: 57%;
+	transition-property: width;
+	overflow: hidden;
+}
+
+.download {
+	width: 33px;
+	transition-timing-function: linear;
+	position: fixed;
+	z-index: 9999;
+	right: 0;
+}
+
+
+a.lightbox img {
+	height: 150px;
+	border: 3px solid white;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
+	margin: 9px 20px 20px 55px;
+}
+
+/* Styles the lightbox, removes it from sight and adds the fade-in transition */
+
+.lightbox-target {
+	position: fixed;
+	top: -100%;
+	width: 100%;
+	background: rgba(0, 0, 0, .7);
+	width: 100%;
+	opacity: 0;
+	z-index: 1;
+	-webkit-transition: opacity .5s ease-in-out;
+	-moz-transition: opacity .5s ease-in-out;
+	-o-transition: opacity .5s ease-in-out;
+	transition: opacity .5s ease-in-out;
+	overflow: hidden;
+
+}
+
+/* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
+
+.lightbox-target img {
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	max-height: 0%;
+	max-width: 0%;
+	border: 3px solid white;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
+	box-sizing: border-box;
+	-webkit-transition: .5s ease-in-out;
+	-moz-transition: .5s ease-in-out;
+	-o-transition: .5s ease-in-out;
+	transition: .5s ease-in-out;
+
+}
+
+/* Styles the close link, adds the slide down transition */
+
+.lightbox-close {
+	display: block;
+	width: 50px;
+	height: 50px;
+	box-sizing: border-box;
+	background: white;
+	color: black;
+	text-decoration: none;
+	position: absolute;
+	top: -80px;
+	right: 0;
+	-webkit-transition: .5s ease-in-out;
+	-moz-transition: .5s ease-in-out;
+	-o-transition: .5s ease-in-out;
+	transition: .5s ease-in-out;
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+.lightbox-close:before {
+	content: "";
+	display: block;
+	height: 30px;
+	width: 1px;
+	background: black;
+	position: absolute;
+	left: 26px;
+	top: 10px;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+.lightbox-close:after {
+	content: "";
+	display: block;
+	height: 30px;
+	width: 1px;
+	background: black;
+	position: absolute;
+	left: 26px;
+	top: 10px;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+/* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
+
+.lightbox-target:target {
+	opacity: 1;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	overflow: scroll;
+}
+
+.lightbox-target:target img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+
+
+.lightbox-target:target a.lightbox-close {
+	top: 23%;
+}
+
+.margin-bottom {
+	margin-bottom: 0px;
+}
+
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 {
+	position: initial;
+	min-height: 1px;
+	padding-right: 15px;
+	padding-left: 15px;
 }

@@ -1,5 +1,5 @@
 
-	
+	/*
 ======================================
 [ END CSS TABLE CONTENT ]
 ======================================
@@ -2466,7 +2466,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
 	float: left;
 	display: block;
 	margin-bottom: 40px;
-	background-color: #000;
+	background-color: #7bc14b;
 }
 .footer-title-bottomstrip.gyellow {
 	background-color: #136290 !important;
@@ -2604,7 +2604,7 @@ a.topbar-btn:hover, a.topbar-btn.active {
 	display: inline-block;
 }
 .footer-quick-links-4 li a:hover {
-	color: #fff;
+	color: #136290 ;
 }
 .footer-quick-links-4 li a i {
 	padding:0 10px 0 0;
@@ -3832,7 +3832,7 @@ background-color: #fff;
     float: left;
 	overflow:hidden;
 	z-index:1;
-	background-color:rgba(0, 0, 0, 0.7);
+	background-color:rgba(0, 0, 0, 0.4);
 }
 .header-inner .text {
     position: absolute;

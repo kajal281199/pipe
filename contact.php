@@ -42,15 +42,17 @@ if(isset($_POST['Submit'])){
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/logo.png"href="#">
+    <link rel="shortcut icon" href="images/logo/logo.png" href="#">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
     <!-- Google fonts  -->
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+        rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700"
+        rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet">
 
@@ -66,7 +68,8 @@ if(isset($_POST['Submit'])){
 
     <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="fonts/Simple-Line-Icons-Webfont/simple-line-icons.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="fonts/Simple-Line-Icons-Webfont/simple-line-icons.css"
+        media="screen" />
 
     <link rel="stylesheet" href="fonts/et-line-font/et-line-font.css">
 
@@ -83,158 +86,159 @@ if(isset($_POST['Submit'])){
     <link rel="stylesheet" type="text/css" href="js/style-customizer/css/style-customizer.css">
 
     <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" href="css/transport.css" type="text/css">
 
-   <!-- <script src='https://www.google.com/recaptcha/api.js'></script>-->
+
+    <!-- <script src='https://www.google.com/recaptcha/api.js'></script>-->
 
     <!-- Style Customizer's stylesheets END -->
 
     <!-- Skin stylesheet -->
-    
-    
-     <style>
-        .cal:hover 
-        {
-    	    width: 45px;
-    	    cursor: pointer;
-        }
-        .cal 
-        {
-        	border: 2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 10px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 60%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .cal 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .eml:hover 
-        {
-             width: 45px;
-    	    cursor: pointer;
-        }
-        .eml 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 68%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .eml 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .what:hover 
-        {
-        	width: 45px;
-        	cursor: pointer;
-        }
-        .what 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 76%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .what 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .ins:hover 
-        {
-        	width: 45px;
-        	cursor: pointer;
-        }
-        .ins 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 84%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .ins 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .phone:hover 
-        {
-        	width: 45px;
-        	cursor: pointer;
-        }
-        .phone 
-        {
-        	border:2px solid  #226bb4;
-        	background: #226bb4;
-        	color: #fff;
-        	padding: 16px 8px 0 14px;
-        	line-height: 50px;
-        	font-size: 18px;
-        	height: 50px;
-        	top: 92%;
-        	transition-property: width;
-        	overflow: hidden;
-        }
-        .phone 
-        {
-        	width: 45px;
-        	transition-timing-function: linear;
-        	position: fixed;
-        	z-index: 9999;
-        }
-        .download 
-        {
-            color: #fff;
-            padding: 0 0px 0 0px;
-            line-height: 50px;
-            font-size: 18px;
-            top: 57%;
-            transition-property: width;
-            overflow: hidden;
-        }
-        .download 
-        {
-        	width: 33px;
-            transition-timing-function: linear;
-            position: fixed;
-            z-index: 9999;
-            right: 0;
-        }
+
+
+    <style>
+    .cal:hover {
+        width: 45px;
+        cursor: pointer;
+    }
+
+    .cal {
+        border: 2px solid #226bb4;
+        background: #226bb4;
+        color: #fff;
+        padding: 16px 8px 0 10px;
+        line-height: 50px;
+        font-size: 18px;
+        height: 50px;
+        top: 60%;
+        transition-property: width;
+        overflow: hidden;
+    }
+
+    .cal {
+        width: 45px;
+        transition-timing-function: linear;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    .eml:hover {
+        width: 45px;
+        cursor: pointer;
+    }
+
+    .eml {
+        border: 2px solid #226bb4;
+        background: #226bb4;
+        color: #fff;
+        padding: 16px 8px 0 14px;
+        line-height: 50px;
+        font-size: 18px;
+        height: 50px;
+        top: 68%;
+        transition-property: width;
+        overflow: hidden;
+    }
+
+    .eml {
+        width: 45px;
+        transition-timing-function: linear;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    .what:hover {
+        width: 45px;
+        cursor: pointer;
+    }
+
+    .what {
+        border: 2px solid #226bb4;
+        background: #226bb4;
+        color: #fff;
+        padding: 16px 8px 0 14px;
+        line-height: 50px;
+        font-size: 18px;
+        height: 50px;
+        top: 76%;
+        transition-property: width;
+        overflow: hidden;
+    }
+
+    .what {
+        width: 45px;
+        transition-timing-function: linear;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    .ins:hover {
+        width: 45px;
+        cursor: pointer;
+    }
+
+    .ins {
+        border: 2px solid #226bb4;
+        background: #226bb4;
+        color: #fff;
+        padding: 16px 8px 0 14px;
+        line-height: 50px;
+        font-size: 18px;
+        height: 50px;
+        top: 84%;
+        transition-property: width;
+        overflow: hidden;
+    }
+
+    .ins {
+        width: 45px;
+        transition-timing-function: linear;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    .phone:hover {
+        width: 45px;
+        cursor: pointer;
+    }
+
+    .phone {
+        border: 2px solid #226bb4;
+        background: #226bb4;
+        color: #fff;
+        padding: 16px 8px 0 14px;
+        line-height: 50px;
+        font-size: 18px;
+        height: 50px;
+        top: 92%;
+        transition-property: width;
+        overflow: hidden;
+    }
+
+    .phone {
+        width: 45px;
+        transition-timing-function: linear;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    .download {
+        color: #fff;
+        padding: 0 0px 0 0px;
+        line-height: 50px;
+        font-size: 18px;
+        top: 57%;
+        transition-property: width;
+        overflow: hidden;
+    }
+
+    .download {
+        width: 33px;
+        transition-timing-function: linear;
+        position: fixed;
+        z-index: 9999;
+        right: 0;
+    }
     </style>
 
 
@@ -263,19 +267,20 @@ if(isset($_POST['Submit'])){
     <div class="wrapper-boxed">
 
         <div class="site-wrapper">
-        <?php include"includes/header.php";?>
+            <?php include"includes/header.php";?>
 
             <!--end menu-->
 
-            <div class="clearfix"></div>
+
 
             <section class="section-side-image clearfix">
 
                 <div class="img-holder col-md-12 col-sm-12 col-xs-12">
 
-                    <div class="background-imgholder" style="background:url(images/img/inner-back.png);">
+                    <div class="background-imgholder" style="background:url(images/bg/contact-us.webp);">
 
-                        <img class="nodisplay-image" src="images/header-inner-4.html" alt="" /> </div>
+                        <img class="nodisplay-image" src="images/header-inner-4.html" alt="" />
+                    </div>
 
                 </div>
 
@@ -291,7 +296,8 @@ if(isset($_POST['Submit'])){
 
                                     <div class="text text-center">
 
-                                        <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">Contact</h3>
+                                        <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">Contact
+                                        </h3>
 
                                     </div>
 
@@ -307,28 +313,27 @@ if(isset($_POST['Submit'])){
 
             </section>
 
-            <div class=" clearfix"></div>
+
 
             <!--end header section -->
 
-            <div class="clearfix"></div>
+
 
             <!--end section-->
 
             <section class="sec-padding section-light">
 
                 <div class="container">
-                    <div class="row">
+
+                    <h1 class="uppercase font-weight-7 text-gyellow text-center">Contact Us</h1>
+                    <div class="tp-title-line-2"></div>
+                    <div class="row mt-5">
 
                         <div class="col-md-8">
 
-                            <h3 class="uppercase">Contact Form</h3>
 
-                            <br />
-
-                            <br />
-
-                            <div class="padding-4" style="padding: 30px; background-color: #fff;"> <!-- text-box white padding-4 -->
+                            <div class="padding-4" style="padding: 30px; background-color: #fff; box-shadow: 1px 1px 15px #a19f9f;">
+                                <!-- text-box white padding-4 -->
 
                                 <div class="smartforms-modal-body">
 
@@ -336,60 +341,48 @@ if(isset($_POST['Submit'])){
 
                                         <div class="smart-forms smart-container transparent wrap-full">
                                             <div class="form-body no-padd">
-                                           
-		                	<form  method="post">
-								<div class="section">
-									<label class="field prepend-icon">
-										<input type="text" name="name" class="gui-input" placeholder="Enter Name" required>
-										<span class="field-icon"><i class="fa fa-user"></i></span>
-									</label>
-								</div>
-								<div class="section">
-									<label class="field prepend-icon">
-										<input type="email" name="email" class="gui-input" placeholder="Email Address" required>
-										<span class="field-icon"><i class="fa fa-envelope"></i></span>
-									</label>
-								</div>
-								<div class="section">
-									<label class="field prepend-icon">
-										<input type="text" name="mobile" class="gui-input" placeholder="Enter Telephone" required>
-										<span class="field-icon"><i class="fa fa-phone-square"></i></span>
-									</label>
-								</div>
-								<!-- <div class="section">
-									<label class="field prepend-icon">
-										<input type="text" name="city" class="gui-input" placeholder="Enter City">
-										<span class="field-icon"><i class="fa fa-building"></i></span>
-									</label>
-								</div> -->
-								<!-- <div class="section">
-									<label class="field prepend-icon">
-										<select name="services" class="gui-input">
-											<option value="">Choose Service</option>
-											<option value="I want dealership">I want dealership</option>
-											<option value="Residential Installation">Residential Installation</option>
-											<option value="Commercial Installation">Commercial Installation</option>
-											<option value="Industrial Installation">Industrial Installation</option>
-											<option value="Other">Other</option>
-										</select>
-										<span class="field-icon"><i class="fa fa-lightbulb-o"></i></span>
-									</label>
-								</div> -->
-							   <div class="section">
-									<label class="field prepend-icon">
-										<textarea class="gui-textarea" name="message" placeholder="Enter Message"></textarea>
-										<span class="field-icon"><i class="fa fa-comments"></i></span>
-										<span class="input-hint"> <strong>Hint:</strong> Please enter between 80 - 300 characters.</span>
-									</label>
-								</div>
-				
-								<div class="form-footer text-left">
-									<button class="button btn-primary" type="submit" name="Submit">Submit Now</button>
-									<!-- <button type="reset" class="button"> Cancel </button> -->
-								</div>
-							</form>
 
-			
+                                                <form method="post">
+                                                    <div class="section">
+                                                        <label class="field prepend-icon">
+                                                            <input type="text" name="name" class="gui-input"
+                                                                placeholder="Enter Name" required>
+                                                            <span class="field-icon"><i class="fa fa-user"></i></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="section">
+                                                        <label class="field prepend-icon">
+                                                            <input type="email" name="email" class="gui-input"
+                                                                placeholder="Email Address" required>
+                                                            <span class="field-icon"><i
+                                                                    class="fa fa-envelope"></i></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="section">
+                                                        <label class="field prepend-icon">
+                                                            <input type="text" name="mobile" class="gui-input"
+                                                                placeholder="Enter Telephone" required>
+                                                            <span class="field-icon"><i
+                                                                    class="fa fa-phone-square"></i></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="section">
+                                                        <label class="field prepend-icon">
+                                                            <textarea class="gui-textarea" name="message"
+                                                                placeholder="Enter Message"></textarea>
+                                                            <span class="field-icon"><i
+                                                                    class="fa fa-comments"></i></span>
+                                                            <span class="input-hint"> <strong>Hint:</strong> Please
+                                                                enter between 80 - 300 characters.</span>
+                                                        </label>
+                                                    </div>
+
+                                                    <div class="form-footer text-left">
+                                                        <button class="button btn-primary" type="submit"
+                                                            name="Submit">Submit Now</button>
+                                                        <!-- <button type="reset" class="button"> Cancel </button> -->
+                                                    </div>
+                                                </form>
 
                                             </div>
                                             <!-- end .form-body section -->
@@ -413,106 +406,95 @@ if(isset($_POST['Submit'])){
 
                         <div class="col-md-4 text-left">
 
-                            <h4>Head Office</h4>
-
+                            <h4 class="text-gyellow">Head Office :</h4>
                             <address>
 
-                <strong>Address:</strong><br>
+                                <strong class="text-dark">Address:</strong><br>
 
-                <b>SUDARSHAN Water Technology - India</b>
+                                <b>SUDARSHAN Water Technology - India</b>
 
-                <br>
+                                <br>
 
-                Cidco colony, sectors 18. C/5/36. Ground floor, Panvel,
+                                Cidco colony, sectors 18. C/5/36. Ground floor, Panvel,
 
-                <br>
+                                <br>
 
-                New Bombay, Maharashtra-410206.
+                                New Bombay, Maharashtra-410206.
 
-              </address>
+                            </address>
 
-                            <strong>Mobile:</strong>+91 9820474954
+                            <strong class="text-dark">Mobile:</strong>+91 9820474954
                             <br>
 
-                            
 
-                           
-                            <strong>Email:</strong>shreesudarshan_wc@yahoo.com
+
+
+                            <strong class="text-dark">Email:</strong>shreesudarshan_wc@yahoo.com
 
                             <hr>
 
-                            <h4> Factory:</h4>
+                            <h4 class="text-gyellow"> Factory:</h4>
 
 
                             <address>
-
-             
-
-                <b>Jetpur,Rajkot (Gujrat)- 360370</b>
-
-                <br>
-
-              
-
-
-              </address>
-
-                            <strong>Mobile:</strong> 075064 74532
+                                <b>Jetpur,Rajkot (Gujrat)- 360370</b>
+                            </address>
+                            <strong class="text-dark">Mobile: </strong> 075064 74532
                             <br>
 
                             <br>
                             <br>
-                            
+
                             <div>
-                            <h4> Office info</h4>
+                                <h4 class="text-gyellow"> Office info :</h4>
 
-<address>
-
-
-
-<b>Kovilpatti ( Tamilnadu)</b>
-
-<br>
+                                <address>
 
 
 
+                                    <b>Kovilpatti ( Tamilnadu)</b>
 
-</address>
+                                    <br>
 
-<strong>Mobile:</strong>  +91 72996 74371
-<br>
 
-                                
+
+
+                                </address>
+
+                                <strong class="text-dark">Mobile: </strong> +91 72996 74371
+                                <br>
+
+
                             </div>
 
-                        
 
-                        <!--end item-->
+
+                            <!--end item-->
+
+                        </div>
+                        <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                     </div>
-                    <br>
-                    
-                   
-                   
-                    
-
-                      
-                     
-
-                    
-                 
-
-               
-                   
-                    
-                   
-
-
-                </div>
 
             </section>
 
-            <div class="clearfix"></div>
+
 
             <!-- end section -->
 
@@ -521,15 +503,15 @@ if(isset($_POST['Submit'])){
             </div>
             <div class="divider-line solid light"></div>
 
-          
-            <div class="clearfix"></div>
+
+
 
             <!--end section-->
 
-                
-    
-        	<?php include"includes/footer.php";?>
-            <div class="clearfix"></div>
+
+
+            <?php include"includes/footer.php";?>
+
 
             <!-- end section -->
 
@@ -550,9 +532,9 @@ if(isset($_POST['Submit'])){
 			href="https://api.whatsapp.com/send?phone=917600442211&amp;text=Excellent water technology is a leading Water Solution Company "><img
 				src="images/whatsapp-icon.png" style="width:50px;"></a><a>
 		</a></div>-->
-		
-		
-		<!--<div class="cal">
+
+
+    <!--<div class="cal">
         	 <a style="color: #fff;" href="https://www.youtube.com/watch?v=nA77R9WJmkQ&feature=youtu.be" target="_blank"><i class="fa fa-youtube"></i></a>
         </div>
         <div class="eml">
@@ -567,12 +549,12 @@ if(isset($_POST['Submit'])){
         <div class="phone">
         	 <a style="color: #fff;" href="tel:+917600442211" target="_blank"><i class="fa fa-phone"></i></a>
         </div>-->
-        <!-- <div class="download">
+    <!-- <div class="download">
         	 <a style="color: #fff;" href="download-catalogue.html"><img src="images/download-catalogue.png"></a>
         </div> -->
-		
-		
-		
+
+
+
     <!-- Scripts -->
 
     <script src="js/jquery/jquery.js"></script>
@@ -608,75 +590,79 @@ if(isset($_POST['Submit'])){
     <script src="js/jFlickrFeed/jflickrfeed.min.js"></script>
 
     <script>
-        $('#basicuse').jflickrfeed({
+    $('#basicuse').jflickrfeed({
 
-            limit: 6,
+        limit: 6,
 
-            qstrings: {
+        qstrings: {
 
-                id: '133294431@N08'
+            id: '133294431@N08'
 
-            },
+        },
 
-            itemTemplate:
+        itemTemplate:
 
-                '<li>' +
+            '<li>' +
 
-                '<a href="{{image_b}}"><img src="{{image_s}}" alt="{{title}}" /></a>' +
+            '<a href="{{image_b}}"><img src="{{image_s}}" alt="{{title}}" /></a>' +
 
-                '</li>'
+            '</li>'
 
-        });
+    });
     </script>
 
     <script>
-        $(window).load(function() {
+    $(window).load(function() {
 
-            setTimeout(function() {
+        setTimeout(function() {
 
-                $('.loader-live').fadeOut();
+            $('.loader-live').fadeOut();
 
-            }, 1000);
+        }, 1000);
 
-        })
+    })
     </script>
 
     <script src="js/functions/functions.js"></script>
-    
+
     <script>
+    gtag('config', 'AW-873400912/-CU8CITdhckBENCUvKAD', {
 
-  gtag('config', 'AW-873400912/-CU8CITdhckBENCUvKAD', {
+        'phone_conversion_number': 'REPLACE WITH VALUE'
 
-    'phone_conversion_number': 'REPLACE WITH VALUE'
+    });
+    </script>
 
-  });
+    <!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-</script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
- <!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-10885534940');
-</script>
-
+    gtag('config', 'AW-10885534940');
+    </script>
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-85600731-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-85600731-1');
-</script>
-    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85600731-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-    
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-85600731-1');
+    </script>
+
+
+
 </body>
 
 

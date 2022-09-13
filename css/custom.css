@@ -155,16 +155,14 @@ hr {
 }
 .section-dark
 {
-	background-color:#9cc1d6;
+	background-color:#ede9e9;
 }
 .bg-opacity-8
 {
-	background-color: #136290;
+	/* background-color: #136290; */
+	background-color: rgba(0, 0, 0, 0.86);
 }
-.header-inner .overlay
-{
-	background-color: rgba(19, 98, 144, 0.7);
-}
+
 img
 {
 	max-width: 100%;
