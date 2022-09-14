@@ -871,7 +871,7 @@ include('admin/config.php');
                                     </h4>
                                     <h6 class="para font-weight-4">Apart from chemicals & salt our technology
                                         abstained
-                                        MAGNET & ELECTRIC MAGNET because Magnet has very limited effects near
+                                        MAGNET & ELECTRO MAGNET because Magnet has very limited effects near
                                         wire only
                                         &
                                         Effect last 24 to 48 hrs. While IMPULSE last 5-7 days!
