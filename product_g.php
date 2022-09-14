@@ -145,7 +145,7 @@ include('admin/config.php');
                                 inch dia model.
                                 <p> <b class="text-gyellow">We are ISO CERTIFIED 9001-2015 company with EC & ANSI
                                     Certified</b>,*bound to maintain standard & quality of the products .
-                                We are the most affordable price wise in india 🇮🇳 as far the impulse technology is
+                                We are the most affordable price wise in india as far the impulse technology is
                                 concerned & Best in Performance and Quantity.
                                 </p>
                             </p>
