@@ -72,8 +72,17 @@ include('admin/config.php');
 
 
 <style>
-    .img-responsive{
+     .img-gallery {
+        border-radius: 10px;
         width:100%;
+    }
+    .modal-img{
+        width:55%;
+    }
+    @media (max-width:768px) {
+        .modal-img{
+        width:90%;
+    }
     }
     .cal:hover {
         width: 45px;
@@ -600,7 +609,7 @@ include('admin/config.php');
                         </p>
                         <a class="btn btn-dark-3 mt-2 btn-medium uppercase" href="howitworks.php">Read more</a>
                     </div>
-                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt="" class="img-responsive" /> </div>
+                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt="" class="img-responsive img-gallery" /> </div>
                 </div>
             </div>
         </section>
@@ -609,7 +618,7 @@ include('admin/config.php');
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-6 col-xs-12">
-                        <img src="images/sliders/agri.webp" alt="" class="img-responsive" />
+                        <img src="images/sliders/agri.webp" alt="" class="img-responsive img-gallery" />
                         <h6 class="text-center text-gyellow mb-0"><b>Capacitance Impulse 4 Stage Model</b> </h6>
                         <p class="text-center">(Design applied for patent)</p>
                     </div>
@@ -698,12 +707,11 @@ include('admin/config.php');
 
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive"
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
                                 style="height:250px; width:250px;" />
                         </a>
                         <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive"
-                                style="height:55%; width:55%;" />
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
                             <a class="lightbox-close" href="#gallery"></a>
                         </div>
 
@@ -736,11 +744,10 @@ include('admin/config.php');
                      ?>
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive"
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
                                 style="height:250px; width:250px;" /></a>
                         <div class="lightbox-target" id="<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive"
-                                style="height:55%; width:55%;" />
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
                             <a class="lightbox-close" href="#gal"></a>
                         </div>
                         <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
@@ -926,7 +933,7 @@ include('admin/config.php');
                     <div class="col-md-6 pt-3 col-centered">
 
                         <div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
-                            <img src="images/save.webp" class="img-responsive">
+                            <img src="images/save.webp" class="img-responsive img-gallery">
 
                         </div>
                     </div>
@@ -988,7 +995,7 @@ include('admin/config.php');
 
                             <div class="col-md-6 text-center ">
 
-                                <img src="images/img/homepage/dif1.webp" class="img-responsive">
+                                <img src="images/img/homepage/dif1.webp" class="img-responsive img-gallery">
 
                                 <h5 class="raleway" style="color:#fff;">
 
@@ -1004,7 +1011,7 @@ include('admin/config.php');
 
                             <div class="col-md-6 text-center pt-m-1">
 
-                                <img src="images/img/homepage/dif.webp" class="img-responsive w-100">
+                                <img src="images/img/homepage/dif.webp" class="img-responsive img-gallery w-100">
 
                                 <h5 class="raleway" style="color:#fff;">Water Softeners Vs. Sudarshan Anti
                                     Scale System
