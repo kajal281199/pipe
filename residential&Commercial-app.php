@@ -256,18 +256,18 @@
                                 Sudashan Water Softner all the appliance, tools, floors, tiles, bathroom fittings,
                                 shower, washing machine, pressure pump , R.O. remain scale free and Removes old
                                 deposited scale from all surfaces including pipeline.</p>
-                            <p>While washing clothes, less water and less washing
+                            <p>💧While washing clothes, less water and less washing
                                 powder or soap required for better results.
 
                             </p>
-                            <p>You wil feel fresh after taking bath with this water and
+                            <p>💧You will feel fresh after taking bath with this water and
                                 your hair will remain silky, may help to prevent hair loss and keep you away from
                                 skin disease and dry skin problems!</p>
-                            <p>Gas and electric water heater requires less power
+                            <p>💧Gas and electric water heater requires less power
                                 consumption because of No scale deposition
 
                             </p>
-                            <p>Our Commercial devices are efficiently designed to treat
+                            <p>💧Our Commercial devices are efficiently designed to treat
                                 pipe diameters from 1/2" to 8" for small and large commercial buildings and
                                 complexes. We provide all necessary knowledge and training for such applications and
                                 fulfill every requirements of clients all over india.
