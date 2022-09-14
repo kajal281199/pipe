@@ -64,7 +64,7 @@
 
                             <br>
 
-                            sectors 18. C/5/28. 1<sub>st </sub> floor, Panvel, New Bombay,
+                            sectors 18. C/5/28. 1<sup>st </sup> floor, Panvel, New Bombay,
 
                             <br>
 
