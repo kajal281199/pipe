@@ -318,7 +318,7 @@
                     </div>
 
                     <div class="row mt-5">
-                        <h5 class="uppercase font-weight-3 text-dark col-centered text-center">Note</h5>
+                        <h5 class="uppercase font-weight-5 text-dark col-centered text-center">Note</h5>
                         <div class="tp-title-line-2"></div>
                         <p class="para" style="text-align: justify; ">This is not a R.O. or water purifire, so it does
                             not
