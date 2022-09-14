@@ -745,7 +745,7 @@ include('admin/config.php');
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
                             <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
-                                style="height:250px; width:250px;" /></a>
+                                style="height:240px; width:360px;" /></a>
                         <div class="lightbox-target" id="<?php echo $arr['name'] ?>">
                             <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
                             <a class="lightbox-close" href="#gal"></a>
