@@ -151,7 +151,7 @@ include('admin/config.php');
                             </p>
                         </div>
                     </div>
-                    <div class="row" id="pd">
+                    <div class="row mt-5" id="pd">
                         <?php     
                                 $sql=mysqli_query($conn,"select * from product_gallery");
 
