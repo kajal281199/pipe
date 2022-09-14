@@ -69,16 +69,18 @@ include('admin/config.php');
     <link rel="stylesheet" href="css/transport.css" type="text/css">
 
     <style>
-     .img-responsive {
+    .img-responsive {
         border-radius: 10px;
     }
-    .modal-img{
-        width:55%;
+
+    .modal-img {
+        width: 55%;
     }
+
     @media (max-width:768px) {
-        .modal-img{
-        width:90%;
-    }
+        .modal-img {
+            width: 90%;
+        }
     }
     </style>
 
@@ -159,7 +161,7 @@ include('admin/config.php');
                                     class="img-responsive" style="height:250px; width:300px;" /></a>
                             <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
                                 <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
-                                    class="img-responsive modal-img"/>
+                                    class="img-responsive modal-img" />
                                 <a class="lightbox-close" href="#<?php echo $arr['image'];?>"></a>
                             </div>
                             <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
@@ -169,8 +171,21 @@ include('admin/config.php');
 
                         <!--end item-->
                     </div>
+                   
                 </div>
             </section>
+
+            <div class="">
+                        <div class="col-sm-12">
+                            <div class=" margin-bottom ">
+                                <img src="images/sliders/new.webp" alt="" style="width:100%;">
+                            </div>
+
+                            <!--end item-->
+                        </div>
+                        <!-- </div> -->
+
+                    </div>
             <!-- end section -->
             <div class="divider-line solid light"></div>
 
