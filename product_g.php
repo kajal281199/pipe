@@ -142,10 +142,12 @@ include('admin/config.php');
                                 zero complain, (just fit and forget) we use best colour, components & packing
                                 material for smooth and hassle free shipping. Our product size starts from 1" inch
                                 dia to 20" inch dia, whatever the clients requirement we fulfill on demand upto 40"
-                                inch dia model. <b>We are ISO CERTIFIED 9001-2015 company with EC & ANSI
+                                inch dia model.
+                                <p> <b class="text-gyellow">We are ISO CERTIFIED 9001-2015 company with EC & ANSI
                                     Certified</b>,*bound to maintain standard & quality of the products .
                                 We are the most affordable price wise in india 🇮🇳 as far the impulse technology is
                                 concerned & Best in Performance and Quantity.
+                                </p>
                             </p>
                         </div>
                     </div>
@@ -175,17 +177,7 @@ include('admin/config.php');
                 </div>
             </section>
 
-            <div class="">
-                        <div class="col-sm-12">
-                            <div class=" margin-bottom ">
-                                <img src="images/sliders/new.webp" alt="" style="width:100%;">
-                            </div>
-
-                            <!--end item-->
-                        </div>
-                        <!-- </div> -->
-
-                    </div>
+            
             <!-- end section -->
             <div class="divider-line solid light"></div>
 

@@ -527,7 +527,17 @@ include('admin/config.php');
         </div>
 
         <!-- <div class="container"> -->
-       
+        <div class="row">
+            <div class="col-sm-12">
+                <div class=" margin-bottom ">
+                    <img src="images/sliders/new.webp" alt="" style="width:100%;">
+                </div>
+
+                <!--end item-->
+            </div>
+            <!-- </div> -->
+
+        </div>
     </Section>
 
     <main id="main">
