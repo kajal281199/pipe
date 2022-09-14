@@ -279,11 +279,11 @@
                                 low production etc., that is the reason why Sudarshan technology should be used for
                                 irrigation and Nourishment.</p>
                             <p>On the other hand any hard water that is treated with
-                                Electro-Magnetic water softener, the surface tension of the water is Reduced
+                                Sudarshan water softener, the surface tension of the water is Reduced
                                 significantly. This allows the water and minerals to be easily absorbed by the
                                 plant. The water provides support and the minerals provide nourishment so that the
                                 plant growth will faster and total yield will increase.</p>
-                            <p>Sudarshan Water softener changes the chemical structure
+                            <p>Sudarshan Water softener changes the physical structure
                                 of the hard Water. This forces to decomposes the molecules into a new form, It just
                                 changes molecular structure of the minerals which makes it in pure form , so the
                                 calcium, iron and other minerals stay in the water but never form hard scale at

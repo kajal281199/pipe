@@ -71,19 +71,22 @@ include('admin/config.php');
     <!-- Style Customizer's stylesheets END -->
 
 
-<style>
-     .img-gallery {
+    <style>
+    .img-gallery {
         border-radius: 10px;
         /* width:100%; */
     }
-    .modal-img{
-        width:55%;
+
+    .modal-img {
+        width: 55%;
     }
+
     @media (max-width:768px) {
-        .modal-img{
-        width:90%;
+        .modal-img {
+            width: 90%;
+        }
     }
-    }
+
     .cal:hover {
         width: 45px;
         cursor: pointer;
@@ -434,7 +437,7 @@ include('admin/config.php');
     .header-inner .overlay {
         background-color: rgba(19, 98, 144, 0.7);
     }
-</style>
+    </style>
 
 
 </head>
@@ -561,7 +564,8 @@ include('admin/config.php');
                         <div class="row">
                             <div class="col-sm-12 col-centered para text-center c pb-3">
 
-                                Shree Sudarshan Brand in water conditioner & water treatment is well known in India, in past
+                                Shree Sudarshan Brand in water conditioner & water treatment is well known in India, in
+                                past
                                 10 years
                                 we
                                 have achieved Big highs mainly in Agriculture and Domestic segments! With Electro-Magnet
@@ -609,7 +613,8 @@ include('admin/config.php');
                         </p>
                         <a class="btn btn-dark-3 mt-2 btn-medium uppercase" href="howitworks.php">Read more</a>
                     </div>
-                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt="" class="img-responsive img-gallery" /> </div>
+                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt=""
+                            class="img-responsive img-gallery" /> </div>
                 </div>
             </div>
         </section>
@@ -707,11 +712,12 @@ include('admin/config.php');
 
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
-                                style="height:250px; width:250px;" />
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive img-gallery" style="height:250px; width:250px;" />
                         </a>
                         <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive modal-img img-gallery" />
                             <a class="lightbox-close" href="#gallery"></a>
                         </div>
 
@@ -744,10 +750,11 @@ include('admin/config.php');
                      ?>
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
-                                style="height:250px; width:250px;" /></a>
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive img-gallery" style="height:250px; width:250px;" /></a>
                         <div class="lightbox-target" id="<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive modal-img img-gallery" />
                             <a class="lightbox-close" href="#gal"></a>
                         </div>
                         <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
@@ -872,7 +879,7 @@ include('admin/config.php');
                                     <h6 class="para font-weight-4">Apart from chemicals & salt our technology
                                         abstained
                                         MAGNET & ELECTRO MAGNET because Magnet has very limited effects near
-                                        wire 
+                                        wire
                                         &
                                         Effect last 24 to 48 hrs only. While IMPULSE last 5-7 days!
 
@@ -930,12 +937,10 @@ include('admin/config.php');
                         class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 text-gyellow col-centered text-center">
                         SAVE WATER</h3>
                     <div class="tp-title-line-2"></div>
-                        <div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
-                            <img src="images/save.webp" class="img-responsive img-gallery">
+                    <div style="margin: 0% 0px 0px;" class="col-lg-6 col-md-12 col-sm-12 col-xs-12 margin-bottom">
+                        <img src="images/save.webp" class="img-responsive img-gallery">
 
-                        </div>
-                </div>
-                <div class="row mt-3">
+                    </div>
                     <div class="col-md-12">
                         <div class="line">
 
