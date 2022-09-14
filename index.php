@@ -72,6 +72,9 @@ include('admin/config.php');
 
 
 <style>
+    .img-responsive{
+        width:100%;
+    }
     .cal:hover {
         width: 45px;
         cursor: pointer;
