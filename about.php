@@ -295,16 +295,16 @@
                         <div class="col-md-8 col-lg-8 col-sm-12 para">
                             <h1 class="uppercase font-weight-7 text-gyellow text-center">About US</h1>
                             <div class="tp-title-line-2"></div>
-                            <p class="para"><b>Shree Sudarshan Brand</b> in water conditioner & treatment is well known
+                            <p class="para"><b>Shree Sudarshan Brand</b> in water conditioner & water treatment is well known
                                 in India, in
                                 past 10 years we have achieved Big highs mainly in Agriculture and Domestic segments!
                                 With Electro-Magnet technology our successes rate is over 90% since last 10 years!</p>
-                            <p class="para"> <b>Now </b> per the demand and requirements of New Era, our Highly skilled
+                            <p class="para"> <b>Now </b> as per the demand and requirements of New Era, our Highly skilled
                                 technical and
                                 research team has Developed a new Advanced, Effective and Unique
                                 <b>" Capacitance IMPULSE technology" </b>This technology is uniquely different from old,
                                 Because it is not related to Magnetisms and Magnetic field, its a capacitance Impulse
-                                frequency...highly advance,microcontroller based,
+                                frequency...highly advance, microcontroller based,
                                 systematically programmed by computer software.
                             </p>
                         </div>
@@ -401,7 +401,7 @@
                             <p>💧<b> Our Impulse voltage amplitude is 400v to 500v volt impulses</b>
                                 ( no one give in india now!)</p>
                             <p>💧<b>High amplitude volt impulse frequency can penetrate high flow water, it has
-                                    strong volt power support to reach upto middle of the pipe for effective
+                                    strong volt power support to reach upto center of the pipe for effective
                                     Result & De-scale process, you can see in following image </b>👇🏻</p>
                         </div>
 

@@ -281,8 +281,8 @@
                                     Impulse frequency,
                                     The strong impulse frequency affects the physical structure of the Minerals,thereby
                                     altering their shape and physical properties. There is No chemistry involved, only
-                                    physics. The Minerals continue to remain in the water, But now..the altered physical
-                                    state prevents the Minerals from exibiting hardness,thus the water become soft.</p>
+                                    physics. The Minerals continue to remain in the water, Now the altered physical
+                                    state prevents the Minerals from exibiting hardness, thus the water become soft.</p>
                             </div>
                             <div class="col-md-12 col-lg-12 col-sm-12 para">
                                 <p style="text-align: justify;">It treats the water with capacitance electric impulses
@@ -297,12 +297,12 @@
                                     Limescale is now washed away in the water as a fine powder. The formation of new
                                     deposits is stopped. The more rod-shaped crystals that are created, the stronger the
                                     positive effect of limescale-prevention takes place.
-                                    *Ca(Hco3)2 < IMPULSE> Co2 + H2O * = Calcium carbonate converts into Bi-carbonate. (
+                                   <b> *Ca(Hco3)2 < IMPULSE> Co2 + H2O *</b> = Calcium carbonate converts into Bi-carbonate. (
                                         Non soluble partcals covert into soluble particals)
                                         This positively charged ions in water now Results Scale free,Non corrosive and
                                         Best solvent Water.
                                         Our Double excitation capacitance impulse technology is programmed to kill the
-                                        algae and stop corrosion formation simultaneously.The effect of impulse
+                                        algae and stop corrosion formation simultaneously. The effect of impulse
                                         frequency remains in water for many days, This is the only technology in water
                                         💧 conditioner that can keep water treated & scale-free for 5-7 days! Water can
                                         be stored!
@@ -322,8 +322,8 @@
                         <div class="tp-title-line-2"></div>
                         <p class="para" style="text-align: justify; ">This is not a R.O. or water purifire, so it does
                             not
-                            make any chemical changes in water,in fact it changes the physical properties of
-                            water and make water molecules,bond free,energized and more bio-available. This
+                            make any chemical changes in water, in fact it changes the physical properties of
+                            water and make water molecules, bond free, scale-free and more bio-available. This
                             water is not recommended for drinking purpose.
 
                         </p>

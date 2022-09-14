@@ -561,7 +561,7 @@ include('admin/config.php');
                         <div class="row">
                             <div class="col-sm-12 col-centered para text-center c pb-3">
 
-                                Shree Sudarshan Brand in water conditioner & treatment is well known in India, in past
+                                Shree Sudarshan Brand in water conditioner & water treatment is well known in India, in past
                                 10 years
                                 we
                                 have achieved Big highs mainly in Agriculture and Domestic segments! With Electro-Magnet
