@@ -28,14 +28,14 @@ include('admin/config.php');
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
     <!-- Google fonts  -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
         rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700"
         rel="stylesheet">
 
-    <link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet"> -->
 
     <link rel="stylesheet" href="js/megamenu/stylesheets/screen.css">
 
@@ -71,7 +71,7 @@ include('admin/config.php');
     <!-- Style Customizer's stylesheets END -->
 
 
-    <style>
+<style>
     .cal:hover {
         width: 45px;
         cursor: pointer;
@@ -419,11 +419,10 @@ include('admin/config.php');
         }
     }
 
-    .header-inner .overlay
-{
-	background-color: rgba(19, 98, 144, 0.7);
-}
-    </style>
+    .header-inner .overlay {
+        background-color: rgba(19, 98, 144, 0.7);
+    }
+</style>
 
 
 </head>
@@ -633,41 +632,6 @@ include('admin/config.php');
 
 
                     </div>
-                    <!--<div class="col-md-4 col-sm-6 col-xs-12 margin-bottom">
-                    <div class="tp-feature-box-3 margin-bottom">
-						<?php #include('form.php'); ?>
-						<?php #if(!empty($response)) {?>
-						<div class="form-group col-12 text-center">
-						  <div class="alert text-center <?php #echo $response['status']; ?>">
-							<?php #echo $response['message']; ?>
-						  </div>
-						</div>
-						<?php #}?>
-                        <form action="" name="contactForm" id="contactForm" method="post" enctype="multipart/form-data">
-                            <input class="input" type="text" name="name" id="name" placeholder="Enter Name" required>
-                            <input class="input" type="email" name="email" id="email" placeholder="Email Address" required>
-                            <input class="input" type="text" name="mobile" id="mobile" placeholder="Enter Telephone" required>
-                            <input class="input" type="text" name="city" id="city" placeholder="Enter City">
-                            <select name="services" id="services" required>
-                                <option value="">Choose Service</option>
-                                <option value="I want dealership">I want dealership</option>
-                                <option value="Residential Installation">Residential Installation</option>
-                                <option value="Commercial Installation">Commercial Installation</option>
-                                <option value="Industrial Installation">Industrial Installation</option>
-                                <option value="Other">Other</option>
-                            </select>
-                            <textarea class="textarea" name="message" id="message" placeholder="Enter Message"></textarea>
-							<div class="form-group">
-								<div class="g-recaptcha" data-sitekey="6Lesla0aAAAAAGPZrOx8eExL9j7jiAv0c9aQQ2ml"></div>
-							</div>
-                            <div class="pt-1">
-                                <button class="btn btn-gyellow-2 less-padding uppercase" type="submit" name="send">Submit Quote
-                                </button>
-                            </div>
-                        </form>
-                    </div>
-                </div>-->
-
                 </div>
             </div>
         </section>
@@ -919,7 +883,8 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/efficient.webp" alt="" class="img-responsive pb-5 p-5">
+                                    <img src="images/img/homepage/efficient.webp" alt=""
+                                        class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">Efficient for All Pipes</h4>
                                     <h6 class="font-weight-4 para">Technology is suitable for all types of
@@ -951,9 +916,10 @@ include('admin/config.php');
         <section class="g py-3 my-5">
             <div class="container">
                 <div class="row">
-                <h3 class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 text-gyellow col-centered text-center">
-                            SAVE WATER</h3>
-                        <div class="tp-title-line-2"></div>
+                    <h3
+                        class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 text-gyellow col-centered text-center">
+                        SAVE WATER</h3>
+                    <div class="tp-title-line-2"></div>
                     <div class="col-md-6 pt-3 col-centered">
 
                         <div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
@@ -1008,7 +974,7 @@ include('admin/config.php');
                                     Different?
 
                                 </h3>
-                        <div class="tp-title-line-2"></div>
+                                <div class="tp-title-line-2"></div>
 
 
                             </div>
