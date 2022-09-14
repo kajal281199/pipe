@@ -802,7 +802,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/maintenance-free.webp" alt=""
+                                    <img src="images/img/homepage/maintenance-free1.png" alt=""
                                         class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">Maintenance-free
@@ -831,7 +831,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/ecofriendly.webp" alt=""
+                                    <img src="images/img/homepage/ecofriendly1.png" alt=""
                                         class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">100% Eco-friendly
@@ -862,10 +862,10 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/chemical-free.webp" alt=""
+                                    <img src="images/img/homepage/chemical-free1.png" alt=""
                                         class="img-responsive pb-5 p-5">
 
-                                    <h4 class="uppercase title font-weight-7 text-gyellow">No Chemicals,No Salts, &
+                                    <h4 class="uppercase title font-weight-7 text-gyellow">No Chemicals, No Salts, &
                                         No
                                         Magnetism
 
@@ -894,7 +894,7 @@ include('admin/config.php');
 
                                 <div class="text-box-right">
 
-                                    <img src="images/img/homepage/efficient.webp" alt=""
+                                    <img src="images/img/homepage/efficient1.png" alt=""
                                         class="img-responsive pb-5 p-5">
 
                                     <h4 class="uppercase title font-weight-7 text-gyellow">Efficient for All Pipes</h4>

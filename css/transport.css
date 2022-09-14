@@ -92,7 +92,8 @@ Design and Developed by: Codelayers
 	float:right;
 }
 .tp-feature-box-2 .title{
-	font-size:18px;text-align: center;
+	font-size:17px;
+	text-align: center;
 }
 .tp-feature-box-2:hover .icon-plain-msmall, .tp-feature-box-2.active .icon-plain-msmall{
 	color:#136290 !important;
@@ -209,7 +210,7 @@ Design and Developed by: Codelayers
 }
 
 .para {
-	font-size: 17px;
+	font-size: 16px;
 	text-align: justify;
 	line-height: 30px;
 }
