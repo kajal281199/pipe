@@ -264,7 +264,7 @@
                             <p>Hard water from a bore (well) typically has very high
                                 surface tension. This water is difficult to be taken up into the plant stem and
                                 absorbed into the cell structure. and If it is very hard water then it becomes more
-                                difficult to be taken up by plant. And not well absorbed as a result the
+                                difficult to be taken up by plant and not well absorbed, as a result the
                                 plant growth becomes slower.</p>
                             <p>CELL MEMBRANES found on the roots of plants , trees and
                                 crops, which keeps the plant alive, healthy. Bacteria free and fast growing if the
