@@ -15,7 +15,7 @@
                         <p>Sudarshan water treatment technology is leading Mfr. Company in India having its own
                             developed
                             capacitance IMPULSE technology with 4 stage water softening process units for guaranteed
-                            solution of Hard water.<br>
+                            solution of Hard water & scale.<br>
                             <b>TRUST BEST...CHOOSE SMART</b>
                     </div>
                     </p>
@@ -64,7 +64,7 @@
 
                             <br>
 
-                            sectors 18. C/5/36. Ground floor, Panvel, New Bombay,
+                            sectors 18. C/5/28. 1<sub>st </sub> floor, Panvel, New Bombay,
 
                             <br>
 

@@ -415,7 +415,7 @@ if(isset($_POST['Submit'])){
 
                                 <br>
 
-                                Cidco colony, sectors 18. C/5/36. Ground floor, Panvel,
+                                Cidco colony, sectors 18. C/5/28. 1<sup>st </sup> floor, Panvel,
 
                                 <br>
 

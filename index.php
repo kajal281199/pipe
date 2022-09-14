@@ -872,9 +872,9 @@ include('admin/config.php');
                                     <h6 class="para font-weight-4">Apart from chemicals & salt our technology
                                         abstained
                                         MAGNET & ELECTRO MAGNET because Magnet has very limited effects near
-                                        wire only
+                                        wire 
                                         &
-                                        Effect last 24 to 48 hrs. While IMPULSE last 5-7 days!
+                                        Effect last 24 to 48 hrs only. While IMPULSE last 5-7 days!
 
                                     </h6>
                                 </div>
@@ -942,12 +942,12 @@ include('admin/config.php');
                     <div class="col-md-12">
                         <div class="line">
 
-                            <p class="para"> We feel proud to contribute in water saving though
+                            <p class="para"> We feel proud to contribute in water saving movement though
                                 our
                                 Technology, in Agriculture we claim to save water 20% to 30% depending on
                                 salinity of
                                 water,
-                                In Domestic & Industries sector we save equally save water! We have used FIRST
+                                In Domestic & Industries sector we equally save water! We have used FIRST
                                 STAGE
                                 R.O.
                                 WASTE Water by using our technology, (Generally waste water is thrown away!)
