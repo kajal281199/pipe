@@ -260,6 +260,7 @@
                         </div>
                     </div>
                     <div class="row sec-padding">
+                        
                         <div class="col-md-12 col-centered text-center para">
                             <p>Hard water from a bore (well) typically has very high
                                 surface tension. This water is difficult to be taken up into the plant stem and
