@@ -505,7 +505,7 @@ color:#000 !important;
   border-bottom:1px solid #1f1f1f;
 }
 .header-section.style1 ul li a {
-  padding: 35px 10px;
+  padding: 35px 8px;
 }
 .header-section.style1 ul li a.dark {
   color:#101010;
@@ -635,7 +635,7 @@ color:#000 !important;
   padding: 30px 15px;
 }
 .header-section.white {
-  background-color: #ede9e9     ;
+  background-color: #fff     ;
 }
 .header-section.light {
   background-color: #f5f5f5;
@@ -755,13 +755,13 @@ color:#000 !important;
     transition: all .6s;
   }
   .header-section.pin-style.pin ul li a {
-    color: #fff;
+    /* color: #fff; */
     /* background: none !important;
     padding: 30px 15px;
     text-decoration: none !important; */
 }
   .header-section.white.pin-style.pin {
-    /* background:#fff; */
+    background:#fff;
   }
   /* line 390, ../sass/screen.scss */
   .header-section.pin-style.before {

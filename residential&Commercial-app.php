@@ -217,8 +217,9 @@
 
             <section class="section-side-image clearfix">
                 <div class="img-holder col-md-12 col-sm-12 col-xs-12">
-                    <div class="background-imgholder" style="background:url(images/bg/resident.webp);"><img
-                            class="nodisplay-image" src="images/header-inner-4.html" alt="" /> </div>
+                    <!-- <div class="background-imgholder" style="background:url(images/bg/resident.webp);"> -->
+                    <div class="background-imgholder">
+                    <img class="nodisplay-image" src="images/header-inner-4.html" alt="" /> </div>
                 </div>
                 <div class="container-fluid">
                     <div class="row">
@@ -382,7 +383,9 @@
 
             <!-- end section -->
 
-            <a href="#" class="scrollup"></a><!-- end scroll to top of the page-->
+             <a href="#" class="scrollup"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+<!-- end scroll to top of the page-->
 
         </div>
         <!--end site wrapper-->

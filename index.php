@@ -434,6 +434,7 @@ include('admin/config.php');
     .header-inner .overlay {
         background-color: rgba(19, 98, 144, 0.7);
     }
+
 </style>
 
 
@@ -1313,7 +1314,9 @@ include('admin/config.php');
 
     <?php include ("includes/footer.php") ?>
 
-    <a href="#" class="scrollup"></a>
+     <a href="#" class="scrollup"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+
     <!-- end scroll to top of the page-->
 
     <!-- Scripts -->
