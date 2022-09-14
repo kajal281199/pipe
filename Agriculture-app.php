@@ -260,24 +260,24 @@
                         </div>
                     </div>
                     <div class="row sec-padding">
-                        
+
                         <div class="col-md-12 col-centered text-center para">
                             <p>Hard water from a bore (well) typically has very high
                                 surface tension. This water is difficult to be taken up into the plant stem and
                                 absorbed into the cell structure. and If it is very hard water then it becomes more
                                 difficult to be taken up by plant and not well absorbed, as a result the
                                 plant growth becomes slower.</p>
-                            <p>CELL MEMBRANES found on the roots of plants , trees and
+                            <p>Thousands of CELL MEMBRANES found on the roots of plants , trees and
                                 crops, which keeps the plant alive, healthy. Bacteria free and fast growing if the
-                                cell membranes are active energized and magnetized , they help plant to intake
+                                cell membranes are active energized and scale-free , they help plant to intake
                                 required mineral, nutrients, and the micro nutrient element from the soil with the
                                 help of water.</p>
-                            <p><b>BUT THE HIGH SALINITY OR HARD WATER FORMS</b></p>
+                            <p><b>BUT THE HIGH SALINITY HARD WATER FORMS</b></p>
                             <p>WHITE COATING LAYER on the Root of the plant or crops,
                                 and very hard water makes the cell membranes deactivate or dead up to 80% and as a
                                 result of that plants start to suffocate. This result in decrease of growth rate and
-                                low production etc., that is the reason why Sudarshan water should be used for
-                                irrigation for Nourishment.</p>
+                                low production etc., that is the reason why Sudarshan technology should be used for
+                                irrigation and Nourishment.</p>
                             <p>On the other hand any hard water that is treated with
                                 Electro-Magnetic water softener, the surface tension of the water is Reduced
                                 significantly. This allows the water and minerals to be easily absorbed by the

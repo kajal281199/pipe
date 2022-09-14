@@ -930,13 +930,10 @@ include('admin/config.php');
                         class="uppercase font-weight-7 col-md-9 col-sm-9 col-lg-9 text-gyellow col-centered text-center">
                         SAVE WATER</h3>
                     <div class="tp-title-line-2"></div>
-                    <div class="col-md-6 pt-3 col-centered">
-
                         <div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
                             <img src="images/save.webp" class="img-responsive img-gallery">
 
                         </div>
-                    </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-md-12">
