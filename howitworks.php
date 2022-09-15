@@ -297,7 +297,7 @@
                                     Limescale is now washed away in the water as a fine powder. The formation of new
                                     deposits is stopped. The more rod-shaped crystals that are created, the stronger the
                                     positive effect of limescale-prevention takes place.
-                                   <b> *Ca(Hco3)2 < IMPULSE> Co2 + H2O *</b> = Calcium carbonate converts into Bi-carbonate. (
+                                   <b> *Ca(HCO3)2	+ impulse ->	CaCo3	+	CO2	+	H2O *</b> = Calcium carbonate converts into Bi-carbonate. (
                                         Non soluble partcals covert into soluble particals)
                                         This positively charged ions in water now Results Scale free,Non corrosive and
                                         Best solvent Water.

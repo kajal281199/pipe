@@ -343,8 +343,8 @@
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <p class="para">
-                                <b>*Ca(Hco3)2 < IMPULSE> Co2 + H2O * </b>= Calcium carbonate converts into
+                            <p class="para">    
+                                <b>*Ca(HCO3)2	+ impulse ->	CaCo3	+	CO2	+	H2O * </b>= Calcium carbonate converts into
                                 Bi-carbonate.
                                 ( Non soluble partcals covert into soluble particals)
                                 This positively charged ions in water now Results Scale free,Non
