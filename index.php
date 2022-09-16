@@ -64,7 +64,7 @@ include('admin/config.php');
 
     <link rel="stylesheet" type="text/css" href="js/style-customizer/css/style-customizer.css">
 
-    <!-- <link rel="stylesheet" type="text/css" href="css/custom.css"> -->
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
 
     <script src='../www.google.com/recaptcha/api.js'></script>
 
