@@ -47,7 +47,7 @@ include('admin/config.php');
 
     <link rel="stylesheet" href="css/transport.css" type="text/css">
 
-    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="fonts/font-awesome/css/fa.css" type="text/css">
 
     <link rel="stylesheet" type="text/css" href="fonts/Simple-Line-Icons-Webfont/simple-line-icons.css"
         media="screen" />
