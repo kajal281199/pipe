@@ -1166,7 +1166,7 @@ include('admin/config.php');
                         BROCHURES
                     </h3>
                     <div class="tp-title-line-2"></div>
-                    <h6 class="uppercase font-weight-4 less-mar-1">Download our brochures to be downloaded.
+                    <h6 class="uppercase font-weight-4 less-mar-1">Download our brochures.
 
                     </h6>
                 </div>

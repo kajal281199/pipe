@@ -38,7 +38,7 @@
                                     <li class="<?= $page == 'howitworks.php' ? 'active':'' ?>"> <a
                                             href="howitworks.php">How it Works</a> </li>
 
-                                    <li> <a href="#">Applications</a> <span class="arrow"></span>
+                                    <li  class="<?= $page == 'Industrial-app.php' || 'residential&Commercial-app.php' ||'Agriculture-app.php'|| "otheraplication.php" ? 'active':'' ?>" > <a href="#">Applications</a> <span class="arrow"></span>
 
                                         <ul class="dm-align-2">
 
@@ -54,7 +54,7 @@
 
                                             <li class="<?= $page == 'Agriculture-app.php' ? 'active':'' ?>"> <a
                                                     href="Agriculture-app.php">Agriculture Applications</a> </li>
-                                            <li> <a href="otheraplication.php">Other Applications</a> </li>
+                                            <li  class="<?= $page == 'otheraplication.php' ? 'active':'' ?>"> <a href="otheraplication.php">Other Applications</a> </li>
 
                                         </ul>
 

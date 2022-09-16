@@ -216,10 +216,10 @@
 
 
             <section class="section-side-image clearfix">
-                <div class="img-holder col-md-12 col-sm-12 col-xs-12">
-                    <!-- <div class="background-imgholder" style="background:url(images/bg/resident.webp);"> -->
-                    <div class="background-imgholder">
-                    <img class="nodisplay-image" src="images/header-inner-4.html" alt="" /> </div>
+            <div class="img-holder col-md-12 col-sm-12 col-xs-12">
+                    <div class="background-imgholder" style="background:url(images/bg/residential.webp);">
+                        <img class="nodisplay-image" src="images/header-inner-4.html" alt="" />
+                    </div>
                 </div>
                 <div class="container-fluid">
                     <div class="row">

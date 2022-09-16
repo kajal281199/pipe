@@ -297,19 +297,38 @@
                                     Limescale is now washed away in the water as a fine powder. The formation of new
                                     deposits is stopped. The more rod-shaped crystals that are created, the stronger the
                                     positive effect of limescale-prevention takes place.
-                                   <b> *Ca(HCO3)2	+ impulse ->	CaCo3	+	CO2	+	H2O *</b> = Calcium carbonate converts into Bi-carbonate. (
-                                        Non soluble partcals covert into soluble particals)
-                                        This positively charged ions in water now Results Scale free,Non corrosive and
-                                        Best solvent Water.
-                                        Our Double excitation capacitance impulse technology is programmed to kill the
-                                        algae and stop corrosion formation simultaneously. The effect of impulse
-                                        frequency remains in water for many days, This is the only technology in water
-                                        💧 conditioner that can keep water treated & scale-free for 5-7 days! Water can
-                                        be stored!
-                                        You can say it Most advanced, Unique, well programmed, Most innovative and
-                                        futuristic technology indeed.</p>
+                                    <b> *Ca(HCO3)2 + impulse -> CaCo3 + CO2 + H2O *</b> = Calcium carbonate converts
+                                    into Bi-carbonate. (
+                                    Non soluble partcals covert into soluble particals)
+                                    This positively charged ions in water now Results Scale free,Non corrosive and
+                                    Best solvent Water.
+                                    Our Double excitation capacitance impulse technology is programmed to kill the
+                                    algae and stop corrosion formation simultaneously. The effect of impulse
+                                    frequency remains in water for many days, This is the only technology in water
+                                    💧 conditioner that can keep water treated & scale-free for 5-7 days! Water can
+                                    be stored!
+                                    You can say it Most advanced, Unique, well programmed, Most innovative and
+                                    futuristic technology indeed.
+                                </p>
                                 <!--end item-->
                             </div>
+                            <div class="col-md-12 col-lg-12 col-sm-12 para">
+                                <p style="text-align: justify;">When water comes under the influence of IMPULSE
+                                    FREQUENCY the hard water ions are forced to precipitate. Impulse frequency alters
+                                    the hard water ions in a suspended,polarizd form It changes the physical property of
+                                    Hard water, same time it decomposes the molecule into a new form, It never forms
+                                    hard scale at walls of pipe, surface and soil. It increases solubility of Water and
+                                    make it best solvent.</p>
+                                <p style="text-align: justify;"><b> CaCO3 (s) + CO2 (aq) + H2O (l) Ca2+ (aq) + 2HCO3- (aq)
+                                </b> </p>
+                                <p style="text-align: justify;">After this process nature of opposite water molecules
+                                    not to travel freely together,sticking to each other or developing cluster are being
+                                    changed!and transformed in to 100% non-sticking & travel freely together.
+                                    Like that they cannot develop any cluster or layer on water surface.Nature of water
+                                    is now changed into best solvent water.</p>
+                                <!--end item-->
+                            </div>
+
                         </div>
                     </div>
                     <div class="row">
@@ -337,9 +356,10 @@
 
             <?php include"includes/footer.php";?>
 
-             <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
-<!-- end scroll to top of the page-->
+            <a href="#" class="scrollup"></a>
+            <a class="whatsapp" href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png"
+                    style="width:45px;"></a>
+            <!-- end scroll to top of the page-->
 
         </div>
         <!--end site wrapper-->
