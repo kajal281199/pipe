@@ -332,7 +332,7 @@ if(isset($_POST['Submit'])){
                         <div class="col-md-8">
 
 
-                            <div class="padding-4" style="padding: 30px; background-color: #fff; box-shadow: 1px 1px 15px #a19f9f;">
+                            <div class="padding-4" style="padding: 20px; background-color: #fff; box-shadow: 1px 1px 15px #a19f9f;">
                                 <!-- text-box white padding-4 -->
 
                                 <div class="smartforms-modal-body">
@@ -423,13 +423,13 @@ if(isset($_POST['Submit'])){
 
                             </address>
 
-                            <strong class="text-dark">Mobile:</strong>+91 9820474954
+                            <strong class="text-dark">Mobile:</strong> +91 9820474954
                             <br>
 
 
 
 
-                            <strong class="text-dark">Email:</strong>shreesudarshan_wc@yahoo.com
+                            <strong class="text-dark">Email:</strong> shreesudarshan_wc@yahoo.com
 
                             <hr>
 
@@ -437,9 +437,9 @@ if(isset($_POST['Submit'])){
 
 
                             <address>
-                                <b>Jetpur,Rajkot (Gujrat)- 360370</b>
+                                <b> Jetpur,Rajkot (Gujrat)- 360370</b>
                             </address>
-                            <strong class="text-dark">Mobile: </strong> 075064 74532
+                            <strong class="text-dark">Mobile: </strong> +91 75064 74532
                             <br>
 
                             <br>
@@ -452,7 +452,7 @@ if(isset($_POST['Submit'])){
 
 
 
-                                    <b>Kovilpatti ( Tamilnadu)</b>
+                                    <b> Kovilpatti ( Tamilnadu)</b>
 
                                     <br>
 
