@@ -313,7 +313,7 @@
                                 <!--end item-->
                             </div>
                             <div class="text-center mb-2">
-                             <h3 class="uppercase font-weight-7 col-centered text-center" style="color:#00008B">In Simple Language</h3>
+                             <h3 class="uppercase font-weight-7 col-centered text-center text-gyellow">In Simple Language</h3>
                             </div>
                             <div class="col-md-12 col-lg-12 col-sm-12 para">
                                 <p style="text-align: justify;">When water comes under the influence of IMPULSE
