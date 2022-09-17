@@ -513,7 +513,7 @@ include('admin/config.php');
                         <div class="numbertext">4 / 4</div>
                         <img src="images/sliders/indeximg2.webp" style="width:100%; height: 550px;"
                             class="desktop-slide">
-                        <img src="images/sliders/phone%20slider/indeximg2.webp" class="mobile-slide">
+                            <img src="images/sliders/phone%20slider/indeximg2.webp" class="mobile-slide">
 
                     </div>
 
