@@ -231,8 +231,8 @@
                                     <div class="text text-center">
                                         <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">अब होगी
                                             खारे पानी से खेती</h3>
-                                        <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">
-                                            Agriculture Application</h3>
+                                        <!-- <h3 class="uppercase text-white less-mar-1 title" style=" color: white;">
+                                            Agriculture Application</h3> -->
                                     </div>
                                 </div>
                             </div>
