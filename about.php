@@ -274,10 +274,10 @@
                         <div class="col-md-12 col-sm-12 col-xs-12 clearfix nopadding">
                             <div class="header-inner less-height">
                                 <div class="overlay">
-                                    <div class="text text-center">
+                                    <!-- <div class="text text-center">
                                         <h1 class="uppercase text-white less-mar-1 title" style=" color: white;">About
                                             Us</h1>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -293,8 +293,8 @@
                             <img src="images/pages/about.webp" class="img-responsive">
                         </div>
                         <div class="col-md-8 col-lg-8 col-sm-12 para">
-                            <!-- <h1 class="uppercase font-weight-7 text-gyellow text-center">About US</h1>
-                            <div class="tp-title-line-2"></div> -->
+                            <h1 class="uppercase font-weight-7 text-gyellow text-center">About US</h1>
+                            <div class="tp-title-line-2"></div>
                             <p class="para"><b>Shree Sudarshan Brand</b> in water conditioner & water treatment is well known
                                 in India, in
                                 past 10 years we have achieved Big highs mainly in Agriculture and Domestic segments!
