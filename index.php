@@ -437,7 +437,6 @@ include('admin/config.php');
 
 </style>
 
-
 </head>
 
 <body>
