@@ -288,7 +288,7 @@
 
                         <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow"><b>ADVANTAGES :</b>
                         </h6>
-                        
+
                         <div class="col-md-8 col-lg-7 col-sm-12 para">
                             <p>💧 It increse the efficiency of concrete.</p>
                             <p>💧 Decrease in the volume of water become quite
@@ -317,11 +317,37 @@
                 </div>
             </section>
 
+
+            <section class="sec-bpadding-1 sec-padding">
+                <div class="container">
+                    <h3 class="uppercase font-weight-7 text-gyellow text-center">SWIMMING POOL</h3>
+                    <div class="tp-title-line-2"></div>
+                    <div class="row para">
+
+
+                        <div class="col-md-4 col-lg-5 col-sm-12">
+                            <img src="images/pages/pool.webp" class="img-responsive">
+                        </div>
+
+                        <div class="col-md-8 col-lg-7 col-sm-12 para">
+                            <p>Your POOL fitted with circulation system of SUDARSHAN IMPULSE TECHNOLOGY, gets more
+                                sparkling, scale -free & crystal clear water for years to come. You will realise and
+                                feel more refreshing after swimming in pool. Moreover it will be much easier for you to
+                                maintain your Pool with less chlorine then now, that will make you feel happy and
+                                delight.</p>
+                           
+                            <!--end item-->
+                        </div>
+
+                    </div>
+                </div>
+            </section>
             <?php include"includes/footer.php";?>
 
-             <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
-<!-- end scroll to top of the page-->
+            <a href="#" class="scrollup"></a>
+            <a class="whatsapp" href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png"
+                    style="width:45px;"></a>
+            <!-- end scroll to top of the page-->
 
         </div>
         <!--end site wrapper-->

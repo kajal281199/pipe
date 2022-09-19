@@ -800,7 +800,7 @@ include('admin/config.php');
 
                             <div class="tp-feature-box-2 margin-bottom">
 
-                                <div class="text-box-right">
+                                <div class="">
 
                                     <img src="images/img/homepage/maintenance-free1.webp" alt=""
                                         class="img-responsive pb-5 p-5">
@@ -829,7 +829,7 @@ include('admin/config.php');
 
                             <div class="tp-feature-box-2 margin-bottom">
 
-                                <div class="text-box-right">
+                                <div class="">
 
                                     <img src="images/img/homepage/ecofriendly1.webp" alt=""
                                         class="img-responsive pb-5 p-5">
@@ -860,7 +860,7 @@ include('admin/config.php');
 
                             <div class="tp-feature-box-2 margin-bottom">
 
-                                <div class="text-box-right">
+                                <div class="">
 
                                     <img src="images/img/homepage/chemical-free1.webp" alt=""
                                         class="img-responsive pb-5 p-5">
@@ -892,7 +892,7 @@ include('admin/config.php');
 
                             <div class="tp-feature-box-2 margin-bottom ">
 
-                                <div class="text-box-right">
+                                <div class="">
 
                                     <img src="images/img/homepage/efficient1.webp" alt=""
                                         class="img-responsive pb-5 p-5">
