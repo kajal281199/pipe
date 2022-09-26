@@ -25,7 +25,7 @@ include('admin/config.php');
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/logo.png">
+    <link rel="shortcut icon" href="images/logo/logo.webp">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
@@ -84,14 +84,7 @@ include('admin/config.php');
 
 
 <body>
-    <div class="over-loader loader-live">
-        <div class="loader">
-            <div class="loader-item style4">
-                <div class="cube1"></div>
-                <div class="cube2"></div>
-            </div>
-        </div>
-    </div>
+
     <!--end loading-->
 
     <div class="wrapper-boxed">
@@ -190,7 +183,7 @@ include('admin/config.php');
             <!-- end section -->
 
              <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
 <!-- end scroll to top of the page-->
 
         </div>
@@ -232,32 +225,6 @@ include('admin/config.php');
     </script>
     <script src="js/functions/functions.js"></script>
 
-    <!--	<div class="flip animated hinge" style="z-index: 99999; position: fixed;top: 500px;">
-
-		<a
-			href="https://api.whatsapp.com/send?phone=917600442211&amp;text=Excellent water technology is a leading Water Solution Company "><img
-				src="images/whatsapp-icon.png" style="width:50px;"></a><a>
-		</a></div>-->
-
-
-    <!--<div class="cal">
-        	 <a style="color: #fff;" href="https://www.youtube.com/watch?v=nA77R9WJmkQ&feature=youtu.be" target="_blank"><i class="fa fa-youtube"></i></a>
-        </div>
-        <div class="eml">
-        	 <a style="color: #fff;" href="https://www.facebook.com/KashyapAntiScaleSystem/" target="_blank"><i class="fa fa-facebook"></i></a>
-        </div>
-         <div class="ins">
-        	 <a style="color: #fff;" href="https://www.instagram.com/kashyap_antiscale_system/" target="_blank"><i class="fa fa-instagram"></i></a>
-        </div>
-        <div class="what">
-        	 <a style="color: #fff;" href="https://api.whatsapp.com/send?phone=917600442211&amp;text=Excellent water technology is a leading Water Solution Company" target="_blank"><i class="fa fa-whatsapp"></i></a>
-        </div>
-        <div class="phone">
-        	 <a style="color: #fff;" href="tel:+917600442211" target="_blank"><i class="fa fa-phone"></i></a>
-        </div>-->
-    <!-- <div class="download">
-        	 <a style="color: #fff;" href="download-catalogue.html"><img src="images/download-catalogue.png"></a>
-        </div> -->
 
     <!-- Global site tag (gtag.js) - Google Ads: 10885534940 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>

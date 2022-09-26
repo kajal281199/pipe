@@ -24,7 +24,7 @@ include('admin/config.php');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/logo.png">
+    <link rel="shortcut icon" href="images/logo/logo.webp">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
     <!-- Google fonts  -->
@@ -442,21 +442,7 @@ include('admin/config.php');
 <body>
     <?php include ("includes/header.php") ?>
 
-    <div class="over-loader loader-live">
 
-        <div class="loader">
-
-            <div class="loader-item style4">
-
-                <div class="cube1"></div>
-
-                <div class="cube2"></div>
-
-            </div>
-
-        </div>
-
-    </div>
 
     <!--end loading-->
 
@@ -1034,129 +1020,6 @@ include('admin/config.php');
 
         </section>
 
-        <!-- <section class="parallax-50">
-
-            <div class="container-fluid nopadding">
-
-                <div class="parallax-overlay light">
-
-                    <div class="container sec-tpadding-2 sec-bpadding-2">
-
-                        <div class="row">
-
-                            <div class="col-xs-12 nopadding">
-
-                                <div class="sec-title-container text-center">
-
-                                    <h6 class="uppercase font-weight-3 less-mar-1 text-gyellow">Latest News</h6>
-
-                                    <h3 class="uppercase font-weight-7 less-mar-1">OFrom The Blog</h3>
-
-                                    <div class="tp-title-line-1"></div>
-
-                                </div>
-
-                            </div>
-
-
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-
-                                <div class="tp-feature-box-4 margin-bottom"> <img src="images/tp-9.jpg" alt=""
-                                        class="img-responsive" />
-
-                                    <div class="text-box text-left">
-
-                                        <div class="inner-box">
-
-                                            <h5 class="uppercase less-mar-1 title"><a href="#">Cargo
-                                                    Services</a></h5>
-
-                                            <div class="title-line"></div>
-
-
-
-
-
-                                            <p>Consectetuer adipiscing elit sit et justo Suspendisse et justo.
-                                            </p>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-
-                                <div class="tp-feature-box-4 active margin-bottom"> <img src="images/tp-10.jpg" alt=""
-                                        class="img-responsive" />
-
-                                    <div class="text-box text-left">
-
-                                        <div class="inner-box">
-
-                                            <h5 class="uppercase less-mar-1 title"><a href="#">Shipment
-                                                    Services</a>
-                                            </h5>
-
-                                            <div class="title-line"></div>
-
-
-
-
-
-                                            <p>Consectetuer adipiscing elit sit et justo Suspendisse et justo.
-                                            </p>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-
-                                <div class="tp-feature-box-4 margin-bottom"> <img src="images/tp-11.jpg" alt=""
-                                        class="img-responsive" />
-
-                                    <div class="text-box text-left">
-
-                                        <div class="inner-box">
-
-                                            <h5 class="uppercase less-mar-1 title"><a href="#">Heavy
-                                                    Transport</a></h5>
-
-                                            <div class="title-line"></div>
-
-
-
-
-
-                                            <p>Consectetuer adipiscing elit sit et justo Suspendisse et justo.
-                                            </p>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section> -->
 
         <section class="py-5 my-5">
             <div class="container" id="btn">
@@ -1314,7 +1177,7 @@ include('admin/config.php');
     <?php include ("includes/footer.php") ?>
 
      <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
 
     <!-- end scroll to top of the page-->
 

@@ -104,9 +104,9 @@
 
                 <div class="social-iconbox">
 
-                    <div class="side-shape1"><img src="images/fo-icon-box-shape1.png" alt="" /></div>
+                    <div class="side-shape1"><img src="images/fo-icon-box-shape1.webp" alt="" /></div>
 
-                    <div class="side-shape1 right-icon"><img src="images/fo-icon-box-shape2.png" alt="" /></div>
+                    <div class="side-shape1 right-icon"><img src="images/fo-icon-box-shape2.webp" alt="" /></div>
 
                     <ul class="sc-icons">
 
@@ -154,7 +154,7 @@
                     <ul class="sc-icons">
 
                         <li style="margin-bottom: 20px;"><a class="twitter" href="https://wa.me/+919820474954"
-                                target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a></li>
+                                target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a></li>
 
                         <li style="margin-bottom: 37px;
                                         background: #226bb4;

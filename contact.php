@@ -42,7 +42,7 @@ if(isset($_POST['Submit'])){
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/logo.png" href="#">
+    <link rel="shortcut icon" href="images/logo/logo.webp" href="#">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
@@ -246,21 +246,7 @@ if(isset($_POST['Submit'])){
 
 <body>
 
-    <div class="over-loader loader-live">
 
-        <div class="loader">
-
-            <div class="loader-item style4">
-
-                <div class="cube1"></div>
-
-                <div class="cube2"></div>
-
-            </div>
-
-        </div>
-
-    </div>
 
     <!--end loading-->
 
@@ -516,7 +502,7 @@ if(isset($_POST['Submit'])){
             <!-- end section -->
 
              <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
 
             <!-- end scroll to top of the page-->
 

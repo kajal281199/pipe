@@ -21,7 +21,7 @@
 
     <!-- Favicon -->
 
-    <link rel="shortcut icon" href="images/logo/logo.png">
+    <link rel="shortcut icon" href="images/logo/logo.webp">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
@@ -246,14 +246,8 @@
 
 
 <body>
-    <div class="over-loader loader-live">
-        <div class="loader">
-            <div class="loader-item style4">
-                <div class="cube1"></div>
-                <div class="cube2"></div>
-            </div>
-        </div>
-    </div>
+
+
     <!--end loading-->
 
     <div class="wrapper-boxed">
@@ -339,7 +333,6 @@
                             <div style="margin: 0% 0px 0px;" class="col-md-12 col-sm-12 col-xs-12 margin-bottom">
                                 <video width="100%" src="images/sliders/Sudarshan HD.mp4" type="video/mp4"
                                     frameborder="0" controls=""></video>
-                                <!--<img src="images/img/homepage_why.png" alt="" class="img-responsive pt-5">-->
                             </div>
                         </div>
                         <div class="col-md-12">
@@ -473,7 +466,7 @@
             <!-- end section -->
 
              <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
 <!-- end scroll to top of the page-->
 
         </div>

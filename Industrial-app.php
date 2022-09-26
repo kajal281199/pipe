@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/logo/logo.png">
+    <link rel="shortcut icon" href="images/logo/logo.webp">
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
 
     <!-- Google fonts  -->
@@ -199,14 +199,7 @@
 </head>
 
 <body>
-    <div class="over-loader loader-live">
-        <div class="loader">
-            <div class="loader-item style4">
-                <div class="cube1"></div>
-                <div class="cube2"></div>
-            </div>
-        </div>
-    </div>
+
     <!--end loading-->
 
     <!-- Style customizer END -->
@@ -490,7 +483,7 @@
             <!-- end section -->
 
              <a href="#" class="scrollup"></a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.png" style="width:45px;"></a>
+    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
 <!-- end scroll to top of the page-->
 
         </div>
@@ -539,7 +532,7 @@
 
 		<a
 			href="https://api.whatsapp.com/send?phone=917600442211&amp;text=Excellent water technology is a leading Water Solution Company "><img
-				src="images/whatsapp-icon.png" style="width:50px;"></a><a>
+				src="images/whatsapp-icon.webp" style="width:50px;"></a><a>
 		</a></div>-->
 
     <!--<div class="cal">
