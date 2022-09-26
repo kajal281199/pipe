@@ -1173,7 +1173,7 @@ include('admin/config.php');
 
                     <div class="col-md-4 col-sm-6 col-xs-12 margin-bottom"
                         style="display:flex;justify-content: center; ">
-                        <a class="btn btn-dark-3 btn-medium uppercase pdf c3" href="images/sliders/english-brochure.pdf"
+                        <a class="btn btn-dark-3 btn-medium uppercase pdf c3" href="images/sliders/SSEMWC2.pdf"
                             target="_blank"><i class="fa fa-download"></i>&nbsp;&nbsp;Digital Card</a>
                     </div>
 
