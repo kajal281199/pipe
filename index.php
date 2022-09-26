@@ -1176,7 +1176,7 @@ include('admin/config.php');
 
     <?php include ("includes/footer.php") ?>
 
-     <a href="#" class="scrollup"></a>
+     <a href="#" class="scrollup"> </a>
     <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
 
     <!-- end scroll to top of the page-->
