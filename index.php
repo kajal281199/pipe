@@ -1224,7 +1224,7 @@ include('admin/config.php');
     <!-- Scripts -->
 
     <script src="js/jquery/jquery.js"></script>
-    <script src="js/bootstrap/bootstrap.min.js"></script>
+    <!-- <script src="js/bootstrap/bootstrap.min.js"></script> -->
     <script src="js/style-customizer/js/spectrum.js"></script>
     <script src="js/less/less.min.js" data-env="development"></script>
     <script src="js/style-customizer/js/style-customizer.js"></script>
