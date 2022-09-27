@@ -27,15 +27,11 @@ include('admin/config.php');
     <link rel="shortcut icon" href="images/logo/logo.webp">
 
     <link rel="stylesheet" type="text/css" href="js/bootstrap/bootstrap.min.css">
+
+    <!-- <link rel="stylesheet" type="text/css" href="bootstrap.min.css"> -->
+
+
     <!-- Google fonts  -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
-        rel="stylesheet">
-
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700"
-        rel="stylesheet">
-
-    <link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet"> -->
 
     <link rel="stylesheet" href="js/megamenu/stylesheets/screen.css">
 
@@ -43,6 +39,8 @@ include('admin/config.php');
 
     <link rel="stylesheet" href="js/loaders/stylesheets/screen.css">
     <!-- <link rel="stylesheet" href="admin/dist/css/adminlte.min.css"> -->
+
+
 
 
     <link rel="stylesheet" href="css/transport.css" type="text/css">
@@ -53,10 +51,6 @@ include('admin/config.php');
         media="screen" />
 
     <link rel="stylesheet" href="fonts/et-line-font/et-line-font.css">
-
-    <link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
-
-    <link href="js/owl-carousel/owl.theme.css" rel="stylesheet">
 
     <!-- Style Customizer's stylesheets -->
 
@@ -71,379 +65,390 @@ include('admin/config.php');
     <!-- Style Customizer's stylesheets END -->
 
 
-<style>
-     .img-gallery {
-        border-radius: 10px;
-        /* width:100%; */
-    }
-    .modal-img{
-        width:55%;
-    }
-    @media (max-width:768px) {
-        .modal-img{
-        width:90%;
-    }
-    }
-    .cal:hover {
-        width: 45px;
-        cursor: pointer;
-    }
-
-    .cal {
-        border: 2px solid #226bb4;
-        background: #226bb4;
-        color: #fff;
-        padding: 0 8px 0 10px;
-        line-height: 50px;
-        font-size: 18px;
-        height: 50px;
-        top: 60%;
-        transition-property: width;
-        overflow: hidden;
-    }
-
-    .cal {
-        width: 45px;
-        transition-timing-function: linear;
-        position: fixed;
-        z-index: 9999;
-    }
-
-    .eml:hover {
-        width: 45px;
-        cursor: pointer;
-    }
-
-    .eml {
-        border: 2px solid #226bb4;
-        background: #226bb4;
-        color: #fff;
-        padding: 0 8px 0 14px;
-        line-height: 50px;
-        font-size: 18px;
-        height: 50px;
-        top: 68%;
-        transition-property: width;
-        overflow: hidden;
-    }
-
-    .eml {
-        width: 45px;
-        transition-timing-function: linear;
-        position: fixed;
-        z-index: 9999;
-    }
-
-    .what:hover {
-        width: 45px;
-        cursor: pointer;
-    }
-
-    .what {
-        border: 2px solid #226bb4;
-        background: #226bb4;
-        color: #fff;
-        padding: 0 8px 0 14px;
-        line-height: 50px;
-        font-size: 18px;
-        height: 50px;
-        top: 76%;
-        transition-property: width;
-        overflow: hidden;
-    }
-
-    .what {
-        width: 45px;
-        transition-timing-function: linear;
-        position: fixed;
-        z-index: 9999;
-    }
-
-    .ins:hover {
-        width: 45px;
-        cursor: pointer;
-    }
-
-    .ins {
-        border: 2px solid #226bb4;
-        background: #226bb4;
-        color: #fff;
-        padding: 0 8px 0 14px;
-        line-height: 50px;
-        font-size: 18px;
-        height: 50px;
-        top: 84%;
-        transition-property: width;
-        overflow: hidden;
-    }
-
-    .ins {
-        width: 45px;
-        transition-timing-function: linear;
-        position: fixed;
-        z-index: 9999;
-    }
-
-    .phone:hover {
-        width: 45px;
-        cursor: pointer;
-    }
-
-    .phone {
-        border: 2px solid #226bb4;
-        background: #226bb4;
-        color: #fff;
-        padding: 0 8px 0 14px;
-        line-height: 50px;
-        font-size: 18px;
-        height: 50px;
-        top: 92%;
-        transition-property: width;
-        overflow: hidden;
-    }
-
-    .phone {
-        width: 45px;
-        transition-timing-function: linear;
-        position: fixed;
-        z-index: 9999;
-    }
-
-    .download {
-        color: #fff;
-        padding: 0 0px 0 0px;
-        line-height: 50px;
-        font-size: 18px;
-        top: 57%;
-        transition-property: width;
-        overflow: hidden;
-    }
-
-    .download {
-        width: 33px;
-        transition-timing-function: linear;
-        position: fixed;
-        z-index: 9999;
-        right: 0;
-    }
-
-
-
-    /*Eliminates padding, centers the thumbnail */
-
-
-    /* Styles the thumbnail */
-
-    a.lightbox img {
-        height: 150px;
-        border: 3px solid white;
-        box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
-        margin: 15px 20px 20px 20px;
-    }
-
-    /* Styles the lightbox, removes it from sight and adds the fade-in transition */
-
-    .lightbox-target {
-        position: fixed;
-        top: -100%;
-        width: 100%;
-        background: rgba(0, 0, 0, .7);
-        width: 100%;
-        opacity: 0;
-        z-index: 1;
-        -webkit-transition: opacity .5s ease-in-out;
-        -moz-transition: opacity .5s ease-in-out;
-        -o-transition: opacity .5s ease-in-out;
-        transition: opacity .5s ease-in-out;
-        overflow: hidden;
-
-    }
-
-    /* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
-
-    .lightbox-target img {
-        margin: auto;
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        max-height: 0%;
-        max-width: 0%;
-        border: 3px solid white;
-        box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
-        box-sizing: border-box;
-        -webkit-transition: .5s ease-in-out;
-        -moz-transition: .5s ease-in-out;
-        -o-transition: .5s ease-in-out;
-        transition: .5s ease-in-out;
-
-    }
-
-    /* Styles the close link, adds the slide down transition */
-
-    .lightbox-close {
-        display: block;
-        width: 50px;
-        height: 50px;
-        box-sizing: border-box;
-        background: white;
-        color: black;
-        text-decoration: none;
-        position: absolute;
-        top: -80px;
-        right: 0;
-        -webkit-transition: .5s ease-in-out;
-        -moz-transition: .5s ease-in-out;
-        -o-transition: .5s ease-in-out;
-        transition: .5s ease-in-out;
-    }
-
-    /* Provides part of the "X" to eliminate an image from the close link */
-
-    .lightbox-close:before {
-        content: "";
-        display: block;
-        height: 30px;
-        width: 1px;
-        background: black;
-        position: absolute;
-        left: 26px;
-        top: 10px;
-        -webkit-transform: rotate(45deg);
-        -moz-transform: rotate(45deg);
-        -o-transform: rotate(45deg);
-        transform: rotate(45deg);
-    }
-
-    /* Provides part of the "X" to eliminate an image from the close link */
-
-    .lightbox-close:after {
-        content: "";
-        display: block;
-        height: 30px;
-        width: 1px;
-        background: black;
-        position: absolute;
-        left: 26px;
-        top: 10px;
-        -webkit-transform: rotate(-45deg);
-        -moz-transform: rotate(-45deg);
-        -o-transform: rotate(-45deg);
-        transform: rotate(-45deg);
-    }
-
-    /* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
-
-    .lightbox-target:target {
-        opacity: 1;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        overflow: scroll;
-    }
-
-    .lightbox-target:target img {
-        max-height: 100%;
-        max-width: 100%;
-    }
-
-
-
-    .lightbox-target:target a.lightbox-close {
-        top: 23%;
-    }
-
-    .margin-bottom {
-        margin-bottom: 0px;
-    }
-
-    .col-lg-1,
-    .col-lg-10,
-    .col-lg-11,
-    .col-lg-12,
-    .col-lg-2,
-    .col-lg-3,
-    .col-lg-4,
-    .col-lg-5,
-    .col-lg-6,
-    .col-lg-7,
-    .col-lg-8,
-    .col-lg-9,
-    .col-md-1,
-    .col-md-10,
-    .col-md-11,
-    .col-md-12,
-    .col-md-2,
-    .col-md-3,
-    .col-md-4,
-    .col-md-5,
-    .col-md-6,
-    .col-md-7,
-    .col-md-8,
-    .col-md-9,
-    .col-sm-1,
-    .col-sm-10,
-    .col-sm-11,
-    .col-sm-12,
-    .col-sm-2,
-    .col-sm-3,
-    .col-sm-4,
-    .col-sm-5,
-    .col-sm-6,
-    .col-sm-7,
-    .col-sm-8,
-    .col-sm-9,
-    .col-xs-1,
-    .col-xs-10,
-    .col-xs-11,
-    .col-xs-12,
-    .col-xs-2,
-    .col-xs-3,
-    .col-xs-4,
-    .col-xs-5,
-    .col-xs-6,
-    .col-xs-7,
-    .col-xs-8,
-    .col-xs-9 {
-        position: initial;
-        min-height: 1px;
-        padding-right: 15px;
-        padding-left: 15px;
-    }
-
-    @media(max-width: 600px) {
-        .c {
-            margin-left: 35px;
-            margin-right: 35px;
+    <style>
+        .img-gallery {
+            border-radius: 10px;
+            /* width:100%; */
         }
 
-        .c1 {
-            margin-bottom: -40px;
+        .modal-img {
+            width: 55%;
         }
 
-        .c2 {
-            padding-top: 24px;
+        @media (max-width:768px) {
+            .modal-img {
+                width: 90%;
+            }
         }
 
-        .c3 {
-            margin-bottom: 10px;
+        .cal:hover {
+            width: 45px;
+            cursor: pointer;
         }
-    }
 
-    .header-inner .overlay {
-        background-color: rgba(19, 98, 144, 0.7);
-    }
+        .cal {
+            border: 2px solid #226bb4;
+            background: #226bb4;
+            color: #fff;
+            padding: 0 8px 0 10px;
+            line-height: 50px;
+            font-size: 18px;
+            height: 50px;
+            top: 60%;
+            transition-property: width;
+            overflow: hidden;
+        }
 
-</style>
+        .cal {
+            width: 45px;
+            transition-timing-function: linear;
+            position: fixed;
+            z-index: 9999;
+        }
+
+        .eml:hover {
+            width: 45px;
+            cursor: pointer;
+        }
+
+        .eml {
+            border: 2px solid #226bb4;
+            background: #226bb4;
+            color: #fff;
+            padding: 0 8px 0 14px;
+            line-height: 50px;
+            font-size: 18px;
+            height: 50px;
+            top: 68%;
+            transition-property: width;
+            overflow: hidden;
+        }
+
+        .eml {
+            width: 45px;
+            transition-timing-function: linear;
+            position: fixed;
+            z-index: 9999;
+        }
+
+        .what:hover {
+            width: 45px;
+            cursor: pointer;
+        }
+
+        .what {
+            border: 2px solid #226bb4;
+            background: #226bb4;
+            color: #fff;
+            padding: 0 8px 0 14px;
+            line-height: 50px;
+            font-size: 18px;
+            height: 50px;
+            top: 76%;
+            transition-property: width;
+            overflow: hidden;
+        }
+
+        .what {
+            width: 45px;
+            transition-timing-function: linear;
+            position: fixed;
+            z-index: 9999;
+        }
+
+        .ins:hover {
+            width: 45px;
+            cursor: pointer;
+        }
+
+        .ins {
+            border: 2px solid #226bb4;
+            background: #226bb4;
+            color: #fff;
+            padding: 0 8px 0 14px;
+            line-height: 50px;
+            font-size: 18px;
+            height: 50px;
+            top: 84%;
+            transition-property: width;
+            overflow: hidden;
+        }
+
+        .ins {
+            width: 45px;
+            transition-timing-function: linear;
+            position: fixed;
+            z-index: 9999;
+        }
+
+        .phone:hover {
+            width: 45px;
+            cursor: pointer;
+        }
+
+        .phone {
+            border: 2px solid #226bb4;
+            background: #226bb4;
+            color: #fff;
+            padding: 0 8px 0 14px;
+            line-height: 50px;
+            font-size: 18px;
+            height: 50px;
+            top: 92%;
+            transition-property: width;
+            overflow: hidden;
+        }
+
+        .phone {
+            width: 45px;
+            transition-timing-function: linear;
+            position: fixed;
+            z-index: 9999;
+        }
+
+        .download {
+            color: #fff;
+            padding: 0 0px 0 0px;
+            line-height: 50px;
+            font-size: 18px;
+            top: 57%;
+            transition-property: width;
+            overflow: hidden;
+        }
+
+        .download {
+            width: 33px;
+            transition-timing-function: linear;
+            position: fixed;
+            z-index: 9999;
+            right: 0;
+        }
+
+
+
+        /*Eliminates padding, centers the thumbnail */
+
+
+        /* Styles the thumbnail */
+
+        a.lightbox img {
+            height: 150px;
+            border: 3px solid white;
+            box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
+            margin: 15px 20px 20px 20px;
+        }
+
+        /* Styles the lightbox, removes it from sight and adds the fade-in transition */
+
+        .lightbox-target {
+            position: fixed;
+            top: -100%;
+            width: 100%;
+            background: rgba(0, 0, 0, .7);
+            width: 100%;
+            opacity: 0;
+            z-index: 1;
+            -webkit-transition: opacity .5s ease-in-out;
+            -moz-transition: opacity .5s ease-in-out;
+            -o-transition: opacity .5s ease-in-out;
+            transition: opacity .5s ease-in-out;
+            overflow: hidden;
+
+        }
+
+        /* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
+
+        .lightbox-target img {
+            margin: auto;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            max-height: 0%;
+            max-width: 0%;
+            border: 3px solid white;
+            box-shadow: 0px 0px 8px rgba(0, 0, 0, .3);
+            box-sizing: border-box;
+            -webkit-transition: .5s ease-in-out;
+            -moz-transition: .5s ease-in-out;
+            -o-transition: .5s ease-in-out;
+            transition: .5s ease-in-out;
+
+        }
+
+        /* Styles the close link, adds the slide down transition */
+
+        .lightbox-close {
+            display: block;
+            width: 50px;
+            height: 50px;
+            box-sizing: border-box;
+            background: white;
+            color: black;
+            text-decoration: none;
+            position: absolute;
+            top: -80px;
+            right: 0;
+            -webkit-transition: .5s ease-in-out;
+            -moz-transition: .5s ease-in-out;
+            -o-transition: .5s ease-in-out;
+            transition: .5s ease-in-out;
+        }
+
+        /* Provides part of the "X" to eliminate an image from the close link */
+
+        .lightbox-close:before {
+            content: "";
+            display: block;
+            height: 30px;
+            width: 1px;
+            background: black;
+            position: absolute;
+            left: 26px;
+            top: 10px;
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+
+        /* Provides part of the "X" to eliminate an image from the close link */
+
+        .lightbox-close:after {
+            content: "";
+            display: block;
+            height: 30px;
+            width: 1px;
+            background: black;
+            position: absolute;
+            left: 26px;
+            top: 10px;
+            -webkit-transform: rotate(-45deg);
+            -moz-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+        }
+
+        /* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
+
+        .lightbox-target:target {
+            opacity: 1;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            overflow: scroll;
+        }
+
+        .lightbox-target:target img {
+            max-height: 100%;
+            max-width: 100%;
+        }
+
+
+
+        .lightbox-target:target a.lightbox-close {
+            top: 23%;
+        }
+
+        .margin-bottom {
+            margin-bottom: 0px;
+        }
+
+        .col-lg-1,
+        .col-lg-10,
+        .col-lg-11,
+        .col-lg-12,
+        .col-lg-2,
+        .col-lg-3,
+        .col-lg-4,
+        .col-lg-5,
+        .col-lg-6,
+        .col-lg-7,
+        .col-lg-8,
+        .col-lg-9,
+        .col-md-1,
+        .col-md-10,
+        .col-md-11,
+        .col-md-12,
+        .col-md-2,
+        .col-md-3,
+        .col-md-4,
+        .col-md-5,
+        .col-md-6,
+        .col-md-7,
+        .col-md-8,
+        .col-md-9,
+        .col-sm-1,
+        .col-sm-10,
+        .col-sm-11,
+        .col-sm-12,
+        .col-sm-2,
+        .col-sm-3,
+        .col-sm-4,
+        .col-sm-5,
+        .col-sm-6,
+        .col-sm-7,
+        .col-sm-8,
+        .col-sm-9,
+        .col-xs-1,
+        .col-xs-10,
+        .col-xs-11,
+        .col-xs-12,
+        .col-xs-2,
+        .col-xs-3,
+        .col-xs-4,
+        .col-xs-5,
+        .col-xs-6,
+        .col-xs-7,
+        .col-xs-8,
+        .col-xs-9 {
+            position: initial;
+            min-height: 1px;
+            padding-right: 15px;
+            padding-left: 15px;
+        }
+
+        @media(max-width: 600px) {
+            .c {
+                margin-left: 35px;
+                margin-right: 35px;
+            }
+
+            .c1 {
+                margin-bottom: -40px;
+            }
+
+            .c2 {
+                padding-top: 24px;
+            }
+
+            .c3 {
+                margin-bottom: 10px;
+            }
+        }
+
+        .header-inner .overlay {
+            background-color: rgba(19, 98, 144, 0.7);
+        }
+
+        .carouselIcon {
+            font-size: 40px;
+            font-weight: 900;
+        }
+
+        .carousleFoter {
+            background-color: black !important;
+            border: 1px black;
+        }
+    </style>
 
 </head>
 
 <body>
-    <?php include ("includes/header.php") ?>
 
 
-
+    <?php include "includes/header.php" ?>
     <!--end loading-->
 
     <!-- Style customizer END -->
@@ -468,8 +473,38 @@ include('admin/config.php');
 
         <div class="row">
             <div class="col-md-12">
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
-                <div class="slideshow-container">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block" src="images/sliders/chakra.webp" style="width:100%; height: 550px;"
+                                alt="First slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="images/sliders/indeximg.webp" style="width:100%; height: 550px;"
+                                alt="Second slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block " src="images/sliders/agri.webp" style="width:100%; height: 550px;"
+                                alt="Third slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block" src="images/sliders/indeximg2.webp" style="width:100%; height: 550px;"
+                                alt="Fourth slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="" aria-hidden="true"><i
+                                class="fa fa-angle-left fIcon text-dark carouselIcon"></i></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="" aria-hidden="true"><i
+                                class="fa fa-angle-right fIcon text-dark carouselIcon"></i></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                <!-- <div class="slideshow-container">
 
                     <div class="mySlides fade">
                         <div class="numbertext">1 / 4</div>
@@ -498,7 +533,7 @@ include('admin/config.php');
                         <div class="numbertext">4 / 4</div>
                         <img src="images/sliders/indeximg2.webp" style="width:100%; height: 550px;"
                             class="desktop-slide">
-                            <img src="images/sliders/phone%20slider/indeximg2.webp" class="mobile-slide">
+                        <img src="images/sliders/phone%20slider/indeximg2.webp" class="mobile-slide">
 
                     </div>
 
@@ -506,7 +541,7 @@ include('admin/config.php');
 
                     <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-                </div>
+                </div> -->
 
             </div>
 
@@ -547,7 +582,8 @@ include('admin/config.php');
                         <div class="row">
                             <div class="col-sm-12 col-centered para text-center c pb-3">
 
-                                Shree Sudarshan Brand in water conditioner & water treatment is well known in India, in past
+                                Shree Sudarshan Brand in water conditioner & water treatment is well known in India, in
+                                past
                                 10 years
                                 we
                                 have achieved Big highs mainly in Agriculture and Domestic segments! With Electro-Magnet
@@ -595,7 +631,8 @@ include('admin/config.php');
                         </p>
                         <a class="btn btn-dark-3 mt-2 btn-medium uppercase" href="howitworks.php">Read more</a>
                     </div>
-                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt="" class="img-responsive img-gallery" /> </div>
+                    <div class="col-md-5 c2"> <img src="images/sliders/img.webp" alt=""
+                            class="img-responsive img-gallery" /> </div>
                 </div>
             </div>
         </section>
@@ -693,11 +730,12 @@ include('admin/config.php');
 
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
-                                style="height:250px; width:250px;" />
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive img-gallery" style="height:250px; width:250px;" />
                         </a>
                         <div class=" lightbox-target" id="<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive modal-img img-gallery" />
                             <a class="lightbox-close" href="#gallery"></a>
                         </div>
 
@@ -730,10 +768,11 @@ include('admin/config.php');
                      ?>
                     <div class="col-md-3 col-sm-6 col-xs-12 margin-bottom">
                         <a class="lightbox" href="#<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive img-gallery"
-                                style="height:250px; width:250px;" /></a>
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive img-gallery" style="height:250px; width:250px;" /></a>
                         <div class="lightbox-target" id="<?php echo $arr['name'] ?>">
-                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt="" class="img-responsive modal-img img-gallery"/>
+                            <img src="admin/dist/img/credit/<?php echo $arr['image'];?>" alt=""
+                                class="img-responsive modal-img img-gallery" />
                             <a class="lightbox-close" href="#gal"></a>
                         </div>
                         <h4 class="uppercase title font-weight-5 pt-2 text-center "></h4>
@@ -858,7 +897,7 @@ include('admin/config.php');
                                     <h6 class="para font-weight-4">Apart from chemicals & salt our technology
                                         abstained
                                         MAGNET & ELECTRO MAGNET because Magnet has very limited effects near
-                                        wire 
+                                        wire
                                         &
                                         Effect last 24 to 48 hrs only. While IMPULSE last 5-7 days!
 
@@ -1176,8 +1215,9 @@ include('admin/config.php');
 
     <?php include ("includes/footer.php") ?>
 
-     <a href="#" class="scrollup"> </a>
-    <a class="whatsapp"  href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp" style="width:45px;"></a>
+    <a href="#" class="scrollup"> </a>
+    <a class="whatsapp" href="https://wa.me/+919820474954" target="_blank"><img src="images/whatsapp-icon.webp"
+            style="width:45px;"></a>
 
     <!-- end scroll to top of the page-->
 
@@ -1190,83 +1230,86 @@ include('admin/config.php');
     <script src="js/style-customizer/js/style-customizer.js"></script>
     <!-- Scripts END -->
     <!-- Template scripts -->
+    <script src="bootstrap.min.js"></script>
+
     <script src="js/megamenu/js/main.js"></script>
     <script src="js/owl-carousel/owl.carousel.js"></script>
     <script src="js/owl-carousel/custom.js"></script>
     <script src="js/parallax/jquery.parallax-1.1.3.js"></script>
+
     <script>
-    $(window).load(function() {
+        $(window).load(function () {
 
-        setTimeout(function() {
-            $('.loader-live').fadeOut();
+            setTimeout(function () {
+                $('.loader-live').fadeOut();
 
-        }, 1000);
+            }, 1000);
 
-    })
+        })
     </script>
     <script src="js/functions/functions.js"></script>
     <script>
-    var slideIndex = 1;
-    showSlides(slideIndex);
+        var slideIndex = 1;
+        showSlides(slideIndex);
 
-    function plusSlides(n) {
-        showSlides(slideIndex += n);
-    }
-
-    function currentSlide(n) {
-        showSlides(slideIndex = n);
-    }
-
-    function showSlides(n) {
-        var i;
-        var slides = document.getElementsByClassName("mySlides");
-        var dots = document.getElementsByClassName("dot");
-        if (n > slides.length) {
-            slideIndex = 1
-        }
-        if (n < 1) {
-            slideIndex = slides.length
-        }
-        for (i = 0; i < slides.length; i++) {
-            slides[i].style.display = "none";
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
         }
 
-        for (i = 0; i < dots.length; i++) {
-            dots[i].className = dots[i].className.replace(" active", "");
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
         }
 
-        slides[slideIndex - 1].style.display = "block";
-        dots[slideIndex - 1].className += " active";
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            if (n > slides.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
 
-    }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+
+        }
     </script>
 
 
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10885534940"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'AW-10885534940');
+        gtag('config', 'AW-10885534940');
     </script>
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85600731-1"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'UA-85600731-1');
+        gtag('config', 'UA-85600731-1');
     </script>
 
 </body>
