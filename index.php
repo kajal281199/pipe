@@ -441,6 +441,20 @@ include('admin/config.php');
             background-color: black !important;
             border: 1px black;
         }
+
+        .carouselImage {
+            width: 100%;
+            height: 550px;
+        }
+
+
+
+        @media (max-width: 991px) {
+            .carouselImage {
+                width: 100%;
+                height: auto;
+            }
+        }
     </style>
 
 </head>
@@ -477,20 +491,16 @@ include('admin/config.php');
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block" src="images/sliders/chakra.webp" style="width:100%; height: 550px;"
-                                alt="First slide">
+                            <img class="d-block carouselImage" src="images/sliders/chakra.webp" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="images/sliders/indeximg.webp" style="width:100%; height: 550px;"
-                                alt="Second slide">
+                            <img class="d-block carouselImage" src="images/sliders/indeximg.webp" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block " src="images/sliders/agri.webp" style="width:100%; height: 550px;"
-                                alt="Third slide">
+                            <img class="d-block carouselImage" src="images/sliders/agri.webp" alt="Third slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="images/sliders/indeximg2.webp" style="width:100%; height: 550px;"
-                                alt="Fourth slide">
+                            <img class="d-block carouselImage" src="images/sliders/indeximg2.webp" alt="Fourth slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
