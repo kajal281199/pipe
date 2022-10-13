@@ -115,8 +115,6 @@ border-bottom-right-radius: .3rem;
 
                   <div class="text-center pt-1 mb-5 pb-1">
                     <button class="btn btn-block mb-3" type="login" name="login" id="login" value="login" style="background:#f73614; color:white">Login</button>
-                    <br>
-                    <a class="text-muted" href="forgetpassword.php">Forgot password?</a>
                   </div>
                 </form>
 
