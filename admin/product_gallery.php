@@ -1,5 +1,11 @@
 <?php
 include('config.php');
+session_start();
+
+if(!isset($_SESSION['id']))
+{                                                                                       
+  header("location:index.php");
+}
 if(isset($_GET['delsr_no'])){
     $sr_no=mysqli_real_escape_string($conn,$_GET['delsr_no']);
     $sql=mysqli_query($conn,"delete from product_gallery where id='$sr_no'");
@@ -109,12 +115,12 @@ $dnk=$_FILES['image']['tmp_name'];
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1> Form</h1>
+            <h1>Product Gallery</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active"> Form</li>
+              <li class="breadcrumb-item active">Product Gallery</li>
             </ol>
           </div>
         </div>
@@ -222,7 +228,7 @@ $dnk=$_FILES['image']['tmp_name'];
                   <tr>
                     <td><?php echo $count;?></td>
                     <td><?php echo $arr['name'];?></td>
-                    <td><img src="dist/img/credit/<?php echo $arr['image'];?>" style="height:150px; width:150px;">
+                    <td><img src="dist/img/credit/<?php echo $arr['image'];?>" style="height:75px; width:75px;">
                     </td>
                     <td><?php echo $arr['subject'];?></td>
                     <td> 
@@ -231,7 +237,7 @@ $dnk=$_FILES['image']['tmp_name'];
                         class="fas fa-pen"></i></button></a>
 
                   <a href="product_gallery.php?delsr_no=<?php echo $arr['id']; ?>"><button type="button"
-                      class="btn btn-danger btn-md" style="color: aliceblue"> <i
+                      class="btn btn-danger btn-sm" style="color: aliceblue"> <i
                         class="fas fa-trash"></i></button></a></td>
                    
                   </tr>
